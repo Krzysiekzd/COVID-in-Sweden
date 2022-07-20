@@ -1,0 +1,16 @@
+Data description
+Data are provided in a comma-separated values (csv) text file. The data file has five columns with the following headers: date, raw, homo, adjust, site.
+
+Column 1: Date (yyyy-mm-dd).
+
+Column 2: Non-homogenized daily mean temperature according to the observations.
+
+Column 3: Homogenized daily mean temperature, adjusted after 1870 to account for the urban heat island effect and with some early values infilled in using data extrapolated from Uppsala.
+
+Column 4: Homogenized daily mean temperature, as in column 3, but with additional adjustment of May⁠ – August temperatures before 1859 to correct for a supposed warm bias in summer months.
+
+Column 5: Data source ID code, identifying data from: (1) Stockholm, manual observations, (2) Uppsala, adjusted to represent Stockholm, (3) Stockholm, SMHI automatic weather station (used from 2013 onwards). Data from Uppsala are used for a few short periods in 1756 and 1763 and only in the homogenized data in column 3 and 4.
+
+Temperature unit: °C rounded to one decimal.
+
+Code for missing values in column 2: −999.0.

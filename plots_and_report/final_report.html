@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body
+        {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items:center;
+            color: black;
+            background-color: #edf8ff;
+        }
+        iframe
+        {
+            width: 1100px;
+            height: 650px;
+            border:none;
+            border-bottom: 1px solid #332ca5;
+            background-color: white;
+        }
+        h1
+        {
+            font-size: 40px;
+            color: #332ca5;
+        }
+        h2
+        {
+            font-size: 30px;
+            color: #332ca5;
+            margin-bottom: 5px;
+        }
+        p
+        {
+            text-align: left;
+            font-size: 22px;
+            width: 1000px;
+        }
+        .border_div
+        {
+            border: 1px solid #332ca5;
+            display: flex;
+            flex-direction: column;
+            border-bottom: none;
+        }
+        .text_wrapper
+        {
+            background-color: white;
+            border: 1px solid #332ca5;
+            border-radius: 5px;
+            padding: 10px;
+            margin-bottom: 30px;
+            margin-top: 30px;
+
+
+        }
+
+
+    </style>
+</head>
+<body>
+    <h1>Analysis of Covid-19 pandemics in Sweden</h1>
+    <img style='width: 300px;height: 150px;' src="flag.png">
+    <p style="font-size: 17px;text-align: center;"><i>By Krzysztof Zdąbłasz</i></p>
+
+    <div class="text_wrapper">
+    <p>Sweden's unique response to the COVID-19 pandemic has been the subject of significant controversy 
+        in both domestic and international circles. Unlike most countries, which strongly recommended or
+         introduced widespread sector closures, quarantining, and lockdown measures to curb the spread of
+          the coronavirus disease 2019, the government of Sweden took a more lenient approach to the pandemic,
+           prioritizing the economy and only pursuing social distancing measures such as bans on large gatherings and limited travel restrictions.
+    </p>
+    <p>Upon the outbreak of the COVID-19 pandemic, the Public Health Agency initiated contact tracing and outlined its strategy to protect the country's 
+        most vulnerable citizens and prevent the health care system from being overwhelmed. As the outbreak spread, the agency advised those with respiratory
+         symptoms to avoid social contacts, work from home if possible, minimise travel, and adhere to social distancing. The government passed a law banning 
+         large gatherings, and secondary and higher education institutions were advised to switch to distance education. Press conferences and public 
+         communications campaigns were also launched. <b>Unlike most other countries, face masks were not recommended in public or healthcare settings. </b>
+    </p>
+    <p>
+        Plots below show that Sweden had the biggest number of new cases per day through all first three pandemic waves compared to other scandinavian countries.
+        However, toughter restrictions during fourth wave changed the situation.
+    </p>
+    </div>
+    <h2>New Covid cases per day</h2>
+
+    <div class="border_div">
+        <iframe src="scandinavian_cases.html" title="scandinavian_cases"></iframe>
+        <iframe src="sweden_cases.html" title="sweden_cases"></iframe>
+    </div>
+    <div class="text_wrapper">
+
+    <p>
+        On 17 December 2020, King Carl Gustaf admitted he felt that Sweden's COVID-19 strategy "[has] failed. We have a large number who have died and that is terrible".
+    </p>
+    <p>
+        On 18 December 2020, Stefan Löfven, the prime minister of Sweden, announced new and tougher restrictions and recommendations including the use of face masks in public 
+        transportation and closure of all non-essential public services. In January 2021, a new pandemic law was passed that allows for the use of lockdown measures and 
+        legally limited some gatherings. Further measures were introduced in July and December 2021, such as vaccine passports.
+    </p>
+    </div>
+    <h2>Tests performed</h2>
+    <div class="border_div">
+        <iframe src="tests.html" title="tests"></iframe>
+    </div>
+    <h2>Covid deaths</h2>
+    <div class="text_wrapper">
+        <p>
+            It was mainly elderly who died on Covid. Only 82 people under the age of 40 died.
+        </p>
+        <p>
+            The mortality graph shows that Sweden has not done well with Covid. During the first 3 waves it had the highest mortality rate of all Scandinavian countries.
+            Based on Eurostat, excess mortality in Sweden during 2020 was 7.7%, in Denmark was 1.5% and in Finland 1%, with no excess in Norway.
+        </p>
+    </div>
+    <div class="border_div">
+        <iframe src="deaths_pyramid.html" title="pyramid"></iframe>
+        <iframe src="excess_mortality.html" title="excess_mortality"></iframe>
+    </div>
+    <h2>Intensive care demographics</h2>
+    <div class="text_wrapper">
+        <p>
+            It seems that men undergo Covid worse than women. In every age group, more men ended up in the ICU.
+        </p>
+    
+    </div>
+    <div class="border_div">
+        <iframe src="icu_demographics.html" title="icu"></iframe>
+    </div>
+    <h2>How air temperature impacted Covid cases</h2>
+    <div class="text_wrapper">
+    <p>
+        There is a significant negative correlation between average air temperature and new Covid cases. 
+    </p>
+    </div>
+    <div class="border_div">
+        <iframe src="sweden_temperatures.html" title="temperatures"></iframe>
+    </div>
+    <h2>Vaccinations</h2>
+    <div class="text_wrapper">
+
+    <p>The Swedes have taken vaccinations very seriously. Almost 74% of population is fully vaccinated as of 11.05.2022. 
+        Vaccine passports and other measures were introduced in December 2021.
+    </p>
+    <p>
+        Pfizer vaccine was the most popular in Sweden with almost 15M doses taken. Only 4 vaccines have been approved for use: Pfizer, Moderna, AstraZeneca and Novavax.
+        However, only 727 doses of Novavax were used.
+    </p>
+    </div>
+    <div class="border_div">
+        <iframe src="vaccination_in_time.html" title="vaccinations"></iframe>
+        <iframe src="vaccines_by_manufacturer.html" title="manufacturers"></iframe>
+    </div>
+    <h2>How Covid impacted the economics</h2>
+    <div class="text_wrapper">
+        <p>
+            Covid has hit the Sweden's economics hard. The unemployment rate significantly increased in 2020 and 2021 and Gross Domestic Product dropped.
+        </p>
+    </div>
+    <div class="border_div">
+        <iframe src="gdp.html" title="gdp"></iframe>
+        <iframe src="unemployment.html" title="unemployment"></iframe>
+    </div>
+    <h2>Impact of Covid on mental health</h2>
+    <div class="text_wrapper">
+    <p>
+    We analysed how Covid affected suicide rates in Sweden. 
+    It turns out that there were fewer suicides during pandemic years. 
+    This may be caused by the fact, that people spent more time with their families during self-isolation, but a deeper analysis is needed.
+    </p>
+    </div>
+    <div class="border_div">
+        <iframe src="sweden_suicides.html" title="suicides"></iframe>
+    </div>
+
+</body>
+</html>

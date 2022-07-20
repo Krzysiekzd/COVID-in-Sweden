@@ -1,0 +1,2977 @@
+entity,iso_code,date,indicator,value
+Sweden,SWE,2020-02-27,Daily ICU occupancy,0.0
+Sweden,SWE,2020-02-27,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-02-27,Daily hospital occupancy,1.0
+Sweden,SWE,2020-02-27,Daily hospital occupancy per million,0.098
+Sweden,SWE,2020-02-28,Daily ICU occupancy,0.0
+Sweden,SWE,2020-02-28,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-02-28,Daily hospital occupancy,1.0
+Sweden,SWE,2020-02-28,Daily hospital occupancy per million,0.098
+Sweden,SWE,2020-02-29,Daily ICU occupancy,0.0
+Sweden,SWE,2020-02-29,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-02-29,Daily hospital occupancy,1.0
+Sweden,SWE,2020-02-29,Daily hospital occupancy per million,0.098
+Sweden,SWE,2020-03-01,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-01,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-01,Daily hospital occupancy,1.0
+Sweden,SWE,2020-03-01,Daily hospital occupancy per million,0.098
+Sweden,SWE,2020-03-02,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-02,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-02,Daily hospital occupancy,3.0
+Sweden,SWE,2020-03-02,Daily hospital occupancy per million,0.295
+Sweden,SWE,2020-03-03,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-03,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-03,Daily hospital occupancy,3.0
+Sweden,SWE,2020-03-03,Daily hospital occupancy per million,0.295
+Sweden,SWE,2020-03-04,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-04,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-04,Daily hospital occupancy,3.0
+Sweden,SWE,2020-03-04,Daily hospital occupancy per million,0.295
+Sweden,SWE,2020-03-05,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-05,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-05,Daily hospital occupancy,6.0
+Sweden,SWE,2020-03-05,Daily hospital occupancy per million,0.591
+Sweden,SWE,2020-03-06,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-06,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-06,Daily hospital occupancy,7.0
+Sweden,SWE,2020-03-06,Daily hospital occupancy per million,0.689
+Sweden,SWE,2020-03-07,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-07,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-07,Daily hospital occupancy,7.0
+Sweden,SWE,2020-03-07,Daily hospital occupancy per million,0.689
+Sweden,SWE,2020-03-08,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-08,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-08,Daily hospital occupancy,7.0
+Sweden,SWE,2020-03-08,Daily hospital occupancy per million,0.689
+Sweden,SWE,2020-03-09,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-09,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-09,Daily hospital occupancy,10.0
+Sweden,SWE,2020-03-09,Daily hospital occupancy per million,0.984
+Sweden,SWE,2020-03-10,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-10,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-10,Daily hospital occupancy,14.0
+Sweden,SWE,2020-03-10,Daily hospital occupancy per million,1.378
+Sweden,SWE,2020-03-11,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-11,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-11,Daily hospital occupancy,18.0
+Sweden,SWE,2020-03-11,Daily hospital occupancy per million,1.772
+Sweden,SWE,2020-03-12,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-12,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-12,Daily hospital occupancy,15.0
+Sweden,SWE,2020-03-12,Daily hospital occupancy per million,1.476
+Sweden,SWE,2020-03-13,Daily ICU occupancy,0.0
+Sweden,SWE,2020-03-13,Daily ICU occupancy per million,0.0
+Sweden,SWE,2020-03-13,Daily hospital occupancy,16.0
+Sweden,SWE,2020-03-13,Daily hospital occupancy per million,1.575
+Sweden,SWE,2020-03-14,Daily ICU occupancy,1.0
+Sweden,SWE,2020-03-14,Daily ICU occupancy per million,0.098
+Sweden,SWE,2020-03-14,Daily hospital occupancy,18.0
+Sweden,SWE,2020-03-14,Daily hospital occupancy per million,1.772
+Sweden,SWE,2020-03-15,Daily ICU occupancy,2.0
+Sweden,SWE,2020-03-15,Daily ICU occupancy per million,0.197
+Sweden,SWE,2020-03-15,Daily hospital occupancy,23.0
+Sweden,SWE,2020-03-15,Daily hospital occupancy per million,2.264
+Sweden,SWE,2020-03-16,Daily ICU occupancy,3.0
+Sweden,SWE,2020-03-16,Daily ICU occupancy per million,0.295
+Sweden,SWE,2020-03-16,Daily hospital occupancy,26.0
+Sweden,SWE,2020-03-16,Daily hospital occupancy per million,2.559
+Sweden,SWE,2020-03-17,Daily ICU occupancy,3.0
+Sweden,SWE,2020-03-17,Daily ICU occupancy per million,0.295
+Sweden,SWE,2020-03-17,Daily hospital occupancy,45.0
+Sweden,SWE,2020-03-17,Daily hospital occupancy per million,4.429
+Sweden,SWE,2020-03-18,Daily ICU occupancy,7.0
+Sweden,SWE,2020-03-18,Daily ICU occupancy per million,0.689
+Sweden,SWE,2020-03-18,Daily hospital occupancy,64.0
+Sweden,SWE,2020-03-18,Daily hospital occupancy per million,6.299
+Sweden,SWE,2020-03-19,Daily ICU occupancy,31.0
+Sweden,SWE,2020-03-19,Daily ICU occupancy per million,3.051
+Sweden,SWE,2020-03-19,Daily hospital occupancy,207.0
+Sweden,SWE,2020-03-19,Daily hospital occupancy per million,20.374
+Sweden,SWE,2020-03-20,Daily ICU occupancy,35.0
+Sweden,SWE,2020-03-20,Daily ICU occupancy per million,3.445
+Sweden,SWE,2020-03-20,Daily hospital occupancy,265.0
+Sweden,SWE,2020-03-20,Daily hospital occupancy per million,26.082
+Sweden,SWE,2020-03-21,Daily ICU occupancy,56.0
+Sweden,SWE,2020-03-21,Daily ICU occupancy per million,5.512
+Sweden,SWE,2020-03-21,Daily hospital occupancy,317.0
+Sweden,SWE,2020-03-21,Daily hospital occupancy per million,31.2
+Sweden,SWE,2020-03-22,Daily ICU occupancy,62.0
+Sweden,SWE,2020-03-22,Daily ICU occupancy per million,6.102
+Sweden,SWE,2020-03-22,Daily hospital occupancy,383.0
+Sweden,SWE,2020-03-22,Daily hospital occupancy per million,37.696
+Sweden,SWE,2020-03-23,Daily ICU occupancy,94.0
+Sweden,SWE,2020-03-23,Daily ICU occupancy per million,9.252
+Sweden,SWE,2020-03-23,Daily hospital occupancy,460.0
+Sweden,SWE,2020-03-23,Daily hospital occupancy per million,45.275
+Sweden,SWE,2020-03-24,Daily ICU occupancy,106.0
+Sweden,SWE,2020-03-24,Daily ICU occupancy per million,10.433
+Sweden,SWE,2020-03-24,Daily hospital occupancy,530.0
+Sweden,SWE,2020-03-24,Daily hospital occupancy per million,52.165
+Sweden,SWE,2020-03-25,Daily ICU occupancy,132.0
+Sweden,SWE,2020-03-25,Daily ICU occupancy per million,12.992
+Sweden,SWE,2020-03-25,Daily hospital occupancy,637.0
+Sweden,SWE,2020-03-25,Daily hospital occupancy per million,62.696
+Sweden,SWE,2020-03-26,Daily ICU occupancy,161.0
+Sweden,SWE,2020-03-26,Daily ICU occupancy per million,15.846
+Sweden,SWE,2020-03-26,Daily hospital occupancy,750.0
+Sweden,SWE,2020-03-26,Daily hospital occupancy per million,73.818
+Sweden,SWE,2020-03-27,Daily ICU occupancy,187.0
+Sweden,SWE,2020-03-27,Daily ICU occupancy per million,18.405
+Sweden,SWE,2020-03-27,Daily hospital occupancy,879.0
+Sweden,SWE,2020-03-27,Daily hospital occupancy per million,86.514
+Sweden,SWE,2020-03-28,Daily ICU occupancy,199.0
+Sweden,SWE,2020-03-28,Daily ICU occupancy per million,19.586
+Sweden,SWE,2020-03-28,Daily hospital occupancy,947.0
+Sweden,SWE,2020-03-28,Daily hospital occupancy per million,93.207
+Sweden,SWE,2020-03-29,Daily ICU occupancy,221.0
+Sweden,SWE,2020-03-29,Daily ICU occupancy per million,21.752
+Sweden,SWE,2020-03-29,Daily hospital occupancy,1044.0
+Sweden,SWE,2020-03-29,Daily hospital occupancy per million,102.754
+Sweden,SWE,2020-03-30,Daily ICU occupancy,262.0
+Sweden,SWE,2020-03-30,Daily ICU occupancy per million,25.787
+Sweden,SWE,2020-03-30,Daily hospital occupancy,1162.0
+Sweden,SWE,2020-03-30,Daily hospital occupancy per million,114.368
+Sweden,SWE,2020-03-31,Daily ICU occupancy,298.0
+Sweden,SWE,2020-03-31,Daily ICU occupancy per million,29.33
+Sweden,SWE,2020-03-31,Daily hospital occupancy,1295.0
+Sweden,SWE,2020-03-31,Daily hospital occupancy per million,127.459
+Sweden,SWE,2020-04-01,Daily ICU occupancy,315.0
+Sweden,SWE,2020-04-01,Daily ICU occupancy per million,31.003
+Sweden,SWE,2020-04-01,Daily hospital occupancy,1381.0
+Sweden,SWE,2020-04-01,Daily hospital occupancy per million,135.923
+Sweden,SWE,2020-04-02,Daily ICU occupancy,342.0
+Sweden,SWE,2020-04-02,Daily ICU occupancy per million,33.661
+Sweden,SWE,2020-04-02,Daily hospital occupancy,1486.0
+Sweden,SWE,2020-04-02,Daily hospital occupancy per million,146.258
+Sweden,SWE,2020-04-03,Daily ICU occupancy,361.0
+Sweden,SWE,2020-04-03,Daily ICU occupancy per million,35.531
+Sweden,SWE,2020-04-03,Daily hospital occupancy,1523.0
+Sweden,SWE,2020-04-03,Daily hospital occupancy per million,149.899
+Sweden,SWE,2020-04-04,Daily ICU occupancy,378.0
+Sweden,SWE,2020-04-04,Daily ICU occupancy per million,37.204
+Sweden,SWE,2020-04-04,Daily hospital occupancy,1569.0
+Sweden,SWE,2020-04-04,Daily hospital occupancy per million,154.427
+Sweden,SWE,2020-04-05,Daily ICU occupancy,404.0
+Sweden,SWE,2020-04-05,Daily ICU occupancy per million,39.763
+Sweden,SWE,2020-04-05,Daily hospital occupancy,1773.0
+Sweden,SWE,2020-04-05,Daily hospital occupancy per million,174.505
+Sweden,SWE,2020-04-06,Daily ICU occupancy,422.0
+Sweden,SWE,2020-04-06,Daily ICU occupancy per million,41.535
+Sweden,SWE,2020-04-06,Daily hospital occupancy,1807.0
+Sweden,SWE,2020-04-06,Daily hospital occupancy per million,177.852
+Sweden,SWE,2020-04-07,Daily ICU occupancy,434.0
+Sweden,SWE,2020-04-07,Daily ICU occupancy per million,42.716
+Sweden,SWE,2020-04-07,Daily hospital occupancy,1864.0
+Sweden,SWE,2020-04-07,Daily hospital occupancy per million,183.462
+Sweden,SWE,2020-04-08,Daily ICU occupancy,454.0
+Sweden,SWE,2020-04-08,Daily ICU occupancy per million,44.684
+Sweden,SWE,2020-04-08,Daily hospital occupancy,1912.0
+Sweden,SWE,2020-04-08,Daily hospital occupancy per million,188.186
+Sweden,SWE,2020-04-09,Daily ICU occupancy,465.0
+Sweden,SWE,2020-04-09,Daily ICU occupancy per million,45.767
+Sweden,SWE,2020-04-09,Daily hospital occupancy,1922.0
+Sweden,SWE,2020-04-09,Daily hospital occupancy per million,189.17
+Sweden,SWE,2020-04-10,Daily ICU occupancy,482.0
+Sweden,SWE,2020-04-10,Daily ICU occupancy per million,47.44
+Sweden,SWE,2020-04-10,Daily hospital occupancy,2011.0
+Sweden,SWE,2020-04-10,Daily hospital occupancy per million,197.93
+Sweden,SWE,2020-04-11,Daily ICU occupancy,494.0
+Sweden,SWE,2020-04-11,Daily ICU occupancy per million,48.621
+Sweden,SWE,2020-04-11,Daily hospital occupancy,2054.0
+Sweden,SWE,2020-04-11,Daily hospital occupancy per million,202.162
+Sweden,SWE,2020-04-12,Daily ICU occupancy,504.0
+Sweden,SWE,2020-04-12,Daily ICU occupancy per million,49.606
+Sweden,SWE,2020-04-12,Daily hospital occupancy,2104.0
+Sweden,SWE,2020-04-12,Daily hospital occupancy per million,207.083
+Sweden,SWE,2020-04-13,Daily ICU occupancy,517.0
+Sweden,SWE,2020-04-13,Daily ICU occupancy per million,50.885
+Sweden,SWE,2020-04-13,Daily hospital occupancy,2175.0
+Sweden,SWE,2020-04-13,Daily hospital occupancy per million,214.071
+Sweden,SWE,2020-04-14,Daily ICU occupancy,518.0
+Sweden,SWE,2020-04-14,Daily ICU occupancy per million,50.983
+Sweden,SWE,2020-04-14,Daily hospital occupancy,2199.0
+Sweden,SWE,2020-04-14,Daily hospital occupancy per million,216.434
+Sweden,SWE,2020-04-15,Daily ICU occupancy,526.0
+Sweden,SWE,2020-04-15,Daily ICU occupancy per million,51.771
+Sweden,SWE,2020-04-15,Daily hospital occupancy,2228.0
+Sweden,SWE,2020-04-15,Daily hospital occupancy per million,219.288
+Sweden,SWE,2020-04-16,Daily ICU occupancy,522.0
+Sweden,SWE,2020-04-16,Daily ICU occupancy per million,51.377
+Sweden,SWE,2020-04-16,Daily hospital occupancy,2228.0
+Sweden,SWE,2020-04-16,Daily hospital occupancy per million,219.288
+Sweden,SWE,2020-04-17,Daily ICU occupancy,516.0
+Sweden,SWE,2020-04-17,Daily ICU occupancy per million,50.787
+Sweden,SWE,2020-04-17,Daily hospital occupancy,2265.0
+Sweden,SWE,2020-04-17,Daily hospital occupancy per million,222.93
+Sweden,SWE,2020-04-18,Daily ICU occupancy,526.0
+Sweden,SWE,2020-04-18,Daily ICU occupancy per million,51.771
+Sweden,SWE,2020-04-18,Daily hospital occupancy,2219.0
+Sweden,SWE,2020-04-18,Daily hospital occupancy per million,218.402
+Sweden,SWE,2020-04-19,Daily ICU occupancy,513.0
+Sweden,SWE,2020-04-19,Daily ICU occupancy per million,50.491
+Sweden,SWE,2020-04-19,Daily hospital occupancy,2275.0
+Sweden,SWE,2020-04-19,Daily hospital occupancy per million,223.914
+Sweden,SWE,2020-04-20,Daily ICU occupancy,539.0
+Sweden,SWE,2020-04-20,Daily ICU occupancy per million,53.05
+Sweden,SWE,2020-04-20,Daily hospital occupancy,2319.0
+Sweden,SWE,2020-04-20,Daily hospital occupancy per million,228.244
+Sweden,SWE,2020-04-21,Daily ICU occupancy,520.0
+Sweden,SWE,2020-04-21,Daily ICU occupancy per million,51.18
+Sweden,SWE,2020-04-21,Daily hospital occupancy,2233.0
+Sweden,SWE,2020-04-21,Daily hospital occupancy per million,219.78
+Sweden,SWE,2020-04-22,Daily ICU occupancy,515.0
+Sweden,SWE,2020-04-22,Daily ICU occupancy per million,50.688
+Sweden,SWE,2020-04-22,Daily hospital occupancy,2240.0
+Sweden,SWE,2020-04-22,Daily hospital occupancy per million,220.469
+Sweden,SWE,2020-04-23,Daily ICU occupancy,539.0
+Sweden,SWE,2020-04-23,Daily ICU occupancy per million,53.05
+Sweden,SWE,2020-04-23,Daily hospital occupancy,2243.0
+Sweden,SWE,2020-04-23,Daily hospital occupancy per million,220.764
+Sweden,SWE,2020-04-24,Daily ICU occupancy,537.0
+Sweden,SWE,2020-04-24,Daily ICU occupancy per million,52.854
+Sweden,SWE,2020-04-24,Daily hospital occupancy,2236.0
+Sweden,SWE,2020-04-24,Daily hospital occupancy per million,220.075
+Sweden,SWE,2020-04-25,Daily ICU occupancy,551.0
+Sweden,SWE,2020-04-25,Daily ICU occupancy per million,54.231
+Sweden,SWE,2020-04-25,Daily hospital occupancy,2244.0
+Sweden,SWE,2020-04-25,Daily hospital occupancy per million,220.863
+Sweden,SWE,2020-04-26,Daily ICU occupancy,542.0
+Sweden,SWE,2020-04-26,Daily ICU occupancy per million,53.346
+Sweden,SWE,2020-04-26,Daily hospital occupancy,2262.0
+Sweden,SWE,2020-04-26,Daily hospital occupancy per million,222.634
+Sweden,SWE,2020-04-27,Daily ICU occupancy,533.0
+Sweden,SWE,2020-04-27,Daily ICU occupancy per million,52.46
+Sweden,SWE,2020-04-27,Daily hospital occupancy,2312.0
+Sweden,SWE,2020-04-27,Daily hospital occupancy per million,227.555
+Sweden,SWE,2020-04-28,Daily ICU occupancy,529.0
+Sweden,SWE,2020-04-28,Daily ICU occupancy per million,52.066
+Sweden,SWE,2020-04-28,Daily hospital occupancy,2278.0
+Sweden,SWE,2020-04-28,Daily hospital occupancy per million,224.209
+Sweden,SWE,2020-04-29,Daily ICU occupancy,541.0
+Sweden,SWE,2020-04-29,Daily ICU occupancy per million,53.247
+Sweden,SWE,2020-04-29,Daily hospital occupancy,2221.0
+Sweden,SWE,2020-04-29,Daily hospital occupancy per million,218.599
+Sweden,SWE,2020-04-30,Daily ICU occupancy,521.0
+Sweden,SWE,2020-04-30,Daily ICU occupancy per million,51.279
+Sweden,SWE,2020-04-30,Daily hospital occupancy,2229.0
+Sweden,SWE,2020-04-30,Daily hospital occupancy per million,219.386
+Sweden,SWE,2020-05-01,Daily ICU occupancy,518.0
+Sweden,SWE,2020-05-01,Daily ICU occupancy per million,50.983
+Sweden,SWE,2020-05-01,Daily hospital occupancy,2144.0
+Sweden,SWE,2020-05-01,Daily hospital occupancy per million,211.02
+Sweden,SWE,2020-05-02,Daily ICU occupancy,518.0
+Sweden,SWE,2020-05-02,Daily ICU occupancy per million,50.983
+Sweden,SWE,2020-05-02,Daily hospital occupancy,2172.0
+Sweden,SWE,2020-05-02,Daily hospital occupancy per million,213.776
+Sweden,SWE,2020-05-03,Daily ICU occupancy,512.0
+Sweden,SWE,2020-05-03,Daily ICU occupancy per million,50.393
+Sweden,SWE,2020-05-03,Daily hospital occupancy,2205.0
+Sweden,SWE,2020-05-03,Daily hospital occupancy per million,217.024
+Sweden,SWE,2020-05-04,Daily ICU occupancy,511.0
+Sweden,SWE,2020-05-04,Daily ICU occupancy per million,50.294
+Sweden,SWE,2020-05-04,Daily hospital occupancy,2255.0
+Sweden,SWE,2020-05-04,Daily hospital occupancy per million,221.945
+Sweden,SWE,2020-05-05,Daily ICU occupancy,497.0
+Sweden,SWE,2020-05-05,Daily ICU occupancy per million,48.917
+Sweden,SWE,2020-05-05,Daily hospital occupancy,2264.0
+Sweden,SWE,2020-05-05,Daily hospital occupancy per million,222.831
+Sweden,SWE,2020-05-06,Daily ICU occupancy,487.0
+Sweden,SWE,2020-05-06,Daily ICU occupancy per million,47.932
+Sweden,SWE,2020-05-06,Daily hospital occupancy,2220.0
+Sweden,SWE,2020-05-06,Daily hospital occupancy per million,218.501
+Sweden,SWE,2020-05-07,Daily ICU occupancy,480.0
+Sweden,SWE,2020-05-07,Daily ICU occupancy per million,47.243
+Sweden,SWE,2020-05-07,Daily hospital occupancy,2184.0
+Sweden,SWE,2020-05-07,Daily hospital occupancy per million,214.957
+Sweden,SWE,2020-05-08,Daily ICU occupancy,467.0
+Sweden,SWE,2020-05-08,Daily ICU occupancy per million,45.964
+Sweden,SWE,2020-05-08,Daily hospital occupancy,2120.0
+Sweden,SWE,2020-05-08,Daily hospital occupancy per million,208.658
+Sweden,SWE,2020-05-09,Daily ICU occupancy,464.0
+Sweden,SWE,2020-05-09,Daily ICU occupancy per million,45.669
+Sweden,SWE,2020-05-09,Daily hospital occupancy,2064.0
+Sweden,SWE,2020-05-09,Daily hospital occupancy per million,203.146
+Sweden,SWE,2020-05-10,Daily ICU occupancy,448.0
+Sweden,SWE,2020-05-10,Daily ICU occupancy per million,44.094
+Sweden,SWE,2020-05-10,Daily hospital occupancy,2065.0
+Sweden,SWE,2020-05-10,Daily hospital occupancy per million,203.245
+Sweden,SWE,2020-05-11,Daily ICU occupancy,437.0
+Sweden,SWE,2020-05-11,Daily ICU occupancy per million,43.011
+Sweden,SWE,2020-05-11,Daily hospital occupancy,2072.0
+Sweden,SWE,2020-05-11,Daily hospital occupancy per million,203.934
+Sweden,SWE,2020-05-12,Daily ICU occupancy,426.0
+Sweden,SWE,2020-05-12,Daily ICU occupancy per million,41.928
+Sweden,SWE,2020-05-12,Daily hospital occupancy,1993.0
+Sweden,SWE,2020-05-12,Daily hospital occupancy per million,196.158
+Sweden,SWE,2020-05-13,Daily ICU occupancy,415.0
+Sweden,SWE,2020-05-13,Daily ICU occupancy per million,40.846
+Sweden,SWE,2020-05-13,Daily hospital occupancy,1970.0
+Sweden,SWE,2020-05-13,Daily hospital occupancy per million,193.895
+Sweden,SWE,2020-05-14,Daily ICU occupancy,403.0
+Sweden,SWE,2020-05-14,Daily ICU occupancy per million,39.665
+Sweden,SWE,2020-05-14,Daily hospital occupancy,1911.0
+Sweden,SWE,2020-05-14,Daily hospital occupancy per million,188.088
+Sweden,SWE,2020-05-15,Daily ICU occupancy,391.0
+Sweden,SWE,2020-05-15,Daily ICU occupancy per million,38.484
+Sweden,SWE,2020-05-15,Daily hospital occupancy,1853.0
+Sweden,SWE,2020-05-15,Daily hospital occupancy per million,182.379
+Sweden,SWE,2020-05-16,Daily ICU occupancy,383.0
+Sweden,SWE,2020-05-16,Daily ICU occupancy per million,37.696
+Sweden,SWE,2020-05-16,Daily hospital occupancy,1834.0
+Sweden,SWE,2020-05-16,Daily hospital occupancy per million,180.509
+Sweden,SWE,2020-05-17,Daily ICU occupancy,387.0
+Sweden,SWE,2020-05-17,Daily ICU occupancy per million,38.09
+Sweden,SWE,2020-05-17,Daily hospital occupancy,1833.0
+Sweden,SWE,2020-05-17,Daily hospital occupancy per million,180.411
+Sweden,SWE,2020-05-18,Daily ICU occupancy,385.0
+Sweden,SWE,2020-05-18,Daily ICU occupancy per million,37.893
+Sweden,SWE,2020-05-18,Daily hospital occupancy,1845.0
+Sweden,SWE,2020-05-18,Daily hospital occupancy per million,181.592
+Sweden,SWE,2020-05-19,Daily ICU occupancy,369.0
+Sweden,SWE,2020-05-19,Daily ICU occupancy per million,36.318
+Sweden,SWE,2020-05-19,Daily hospital occupancy,1793.0
+Sweden,SWE,2020-05-19,Daily hospital occupancy per million,176.474
+Sweden,SWE,2020-05-20,Daily ICU occupancy,367.0
+Sweden,SWE,2020-05-20,Daily ICU occupancy per million,36.121
+Sweden,SWE,2020-05-20,Daily hospital occupancy,1765.0
+Sweden,SWE,2020-05-20,Daily hospital occupancy per million,173.718
+Sweden,SWE,2020-05-21,Daily ICU occupancy,360.0
+Sweden,SWE,2020-05-21,Daily ICU occupancy per million,35.433
+Sweden,SWE,2020-05-21,Daily hospital occupancy,1724.0
+Sweden,SWE,2020-05-21,Daily hospital occupancy per million,169.682
+Sweden,SWE,2020-05-22,Daily ICU occupancy,356.0
+Sweden,SWE,2020-05-22,Daily ICU occupancy per million,35.039
+Sweden,SWE,2020-05-22,Daily hospital occupancy,1742.0
+Sweden,SWE,2020-05-22,Daily hospital occupancy per million,171.454
+Sweden,SWE,2020-05-23,Daily ICU occupancy,347.0
+Sweden,SWE,2020-05-23,Daily ICU occupancy per million,34.153
+Sweden,SWE,2020-05-23,Daily hospital occupancy,1725.0
+Sweden,SWE,2020-05-23,Daily hospital occupancy per million,169.781
+Sweden,SWE,2020-05-24,Daily ICU occupancy,355.0
+Sweden,SWE,2020-05-24,Daily ICU occupancy per million,34.94
+Sweden,SWE,2020-05-24,Daily hospital occupancy,1728.0
+Sweden,SWE,2020-05-24,Daily hospital occupancy per million,170.076
+Sweden,SWE,2020-05-25,Daily ICU occupancy,348.0
+Sweden,SWE,2020-05-25,Daily ICU occupancy per million,34.251
+Sweden,SWE,2020-05-25,Daily hospital occupancy,1769.0
+Sweden,SWE,2020-05-25,Daily hospital occupancy per million,174.111
+Sweden,SWE,2020-05-26,Daily ICU occupancy,339.0
+Sweden,SWE,2020-05-26,Daily ICU occupancy per million,33.366
+Sweden,SWE,2020-05-26,Daily hospital occupancy,1784.0
+Sweden,SWE,2020-05-26,Daily hospital occupancy per million,175.588
+Sweden,SWE,2020-05-27,Daily ICU occupancy,322.0
+Sweden,SWE,2020-05-27,Daily ICU occupancy per million,31.692
+Sweden,SWE,2020-05-27,Daily hospital occupancy,1721.0
+Sweden,SWE,2020-05-27,Daily hospital occupancy per million,169.387
+Sweden,SWE,2020-05-28,Daily ICU occupancy,322.0
+Sweden,SWE,2020-05-28,Daily ICU occupancy per million,31.692
+Sweden,SWE,2020-05-28,Daily hospital occupancy,1673.0
+Sweden,SWE,2020-05-28,Daily hospital occupancy per million,164.663
+Sweden,SWE,2020-05-29,Daily ICU occupancy,315.0
+Sweden,SWE,2020-05-29,Daily ICU occupancy per million,31.003
+Sweden,SWE,2020-05-29,Daily hospital occupancy,1650.0
+Sweden,SWE,2020-05-29,Daily hospital occupancy per million,162.399
+Sweden,SWE,2020-05-30,Daily ICU occupancy,310.0
+Sweden,SWE,2020-05-30,Daily ICU occupancy per million,30.511
+Sweden,SWE,2020-05-30,Daily hospital occupancy,1619.0
+Sweden,SWE,2020-05-30,Daily hospital occupancy per million,159.348
+Sweden,SWE,2020-05-31,Daily ICU occupancy,317.0
+Sweden,SWE,2020-05-31,Daily ICU occupancy per million,31.2
+Sweden,SWE,2020-05-31,Daily hospital occupancy,1635.0
+Sweden,SWE,2020-05-31,Daily hospital occupancy per million,160.923
+Sweden,SWE,2020-06-01,Daily ICU occupancy,313.0
+Sweden,SWE,2020-06-01,Daily ICU occupancy per million,30.807
+Sweden,SWE,2020-06-01,Daily hospital occupancy,1684.0
+Sweden,SWE,2020-06-01,Daily hospital occupancy per million,165.745
+Sweden,SWE,2020-06-02,Daily ICU occupancy,309.0
+Sweden,SWE,2020-06-02,Daily ICU occupancy per million,30.413
+Sweden,SWE,2020-06-02,Daily hospital occupancy,1650.0
+Sweden,SWE,2020-06-02,Daily hospital occupancy per million,162.399
+Sweden,SWE,2020-06-03,Daily ICU occupancy,311.0
+Sweden,SWE,2020-06-03,Daily ICU occupancy per million,30.61
+Sweden,SWE,2020-06-03,Daily hospital occupancy,1591.0
+Sweden,SWE,2020-06-03,Daily hospital occupancy per million,156.592
+Sweden,SWE,2020-06-04,Daily ICU occupancy,299.0
+Sweden,SWE,2020-06-04,Daily ICU occupancy per million,29.429
+Sweden,SWE,2020-06-04,Daily hospital occupancy,1583.0
+Sweden,SWE,2020-06-04,Daily hospital occupancy per million,155.805
+Sweden,SWE,2020-06-05,Daily ICU occupancy,290.0
+Sweden,SWE,2020-06-05,Daily ICU occupancy per million,28.543
+Sweden,SWE,2020-06-05,Daily hospital occupancy,1539.0
+Sweden,SWE,2020-06-05,Daily hospital occupancy per million,151.474
+Sweden,SWE,2020-06-06,Daily ICU occupancy,293.0
+Sweden,SWE,2020-06-06,Daily ICU occupancy per million,28.838
+Sweden,SWE,2020-06-06,Daily hospital occupancy,1511.0
+Sweden,SWE,2020-06-06,Daily hospital occupancy per million,148.718
+Sweden,SWE,2020-06-07,Daily ICU occupancy,299.0
+Sweden,SWE,2020-06-07,Daily ICU occupancy per million,29.429
+Sweden,SWE,2020-06-07,Daily hospital occupancy,1520.0
+Sweden,SWE,2020-06-07,Daily hospital occupancy per million,149.604
+Sweden,SWE,2020-06-08,Daily ICU occupancy,293.0
+Sweden,SWE,2020-06-08,Daily ICU occupancy per million,28.838
+Sweden,SWE,2020-06-08,Daily hospital occupancy,1568.0
+Sweden,SWE,2020-06-08,Daily hospital occupancy per million,154.328
+Sweden,SWE,2020-06-09,Daily ICU occupancy,280.0
+Sweden,SWE,2020-06-09,Daily ICU occupancy per million,27.559
+Sweden,SWE,2020-06-09,Daily hospital occupancy,1469.0
+Sweden,SWE,2020-06-09,Daily hospital occupancy per million,144.584
+Sweden,SWE,2020-06-10,Daily ICU occupancy,279.0
+Sweden,SWE,2020-06-10,Daily ICU occupancy per million,27.46
+Sweden,SWE,2020-06-10,Daily hospital occupancy,1436.0
+Sweden,SWE,2020-06-10,Daily hospital occupancy per million,141.336
+Sweden,SWE,2020-06-11,Daily ICU occupancy,270.0
+Sweden,SWE,2020-06-11,Daily ICU occupancy per million,26.574
+Sweden,SWE,2020-06-11,Daily hospital occupancy,1386.0
+Sweden,SWE,2020-06-11,Daily hospital occupancy per million,136.415
+Sweden,SWE,2020-06-12,Daily ICU occupancy,267.0
+Sweden,SWE,2020-06-12,Daily ICU occupancy per million,26.279
+Sweden,SWE,2020-06-12,Daily hospital occupancy,1369.0
+Sweden,SWE,2020-06-12,Daily hospital occupancy per million,134.742
+Sweden,SWE,2020-06-13,Daily ICU occupancy,256.0
+Sweden,SWE,2020-06-13,Daily ICU occupancy per million,25.196
+Sweden,SWE,2020-06-13,Daily hospital occupancy,1323.0
+Sweden,SWE,2020-06-13,Daily hospital occupancy per million,130.214
+Sweden,SWE,2020-06-14,Daily ICU occupancy,263.0
+Sweden,SWE,2020-06-14,Daily ICU occupancy per million,25.885
+Sweden,SWE,2020-06-14,Daily hospital occupancy,1328.0
+Sweden,SWE,2020-06-14,Daily hospital occupancy per million,130.707
+Sweden,SWE,2020-06-15,Daily ICU occupancy,244.0
+Sweden,SWE,2020-06-15,Daily ICU occupancy per million,24.015
+Sweden,SWE,2020-06-15,Daily hospital occupancy,1303.0
+Sweden,SWE,2020-06-15,Daily hospital occupancy per million,128.246
+Sweden,SWE,2020-06-16,Daily ICU occupancy,237.0
+Sweden,SWE,2020-06-16,Daily ICU occupancy per million,23.326
+Sweden,SWE,2020-06-16,Daily hospital occupancy,1281.0
+Sweden,SWE,2020-06-16,Daily hospital occupancy per million,126.081
+Sweden,SWE,2020-06-17,Daily ICU occupancy,232.0
+Sweden,SWE,2020-06-17,Daily ICU occupancy per million,22.834
+Sweden,SWE,2020-06-17,Daily hospital occupancy,1240.0
+Sweden,SWE,2020-06-17,Daily hospital occupancy per million,122.045
+Sweden,SWE,2020-06-18,Daily ICU occupancy,224.0
+Sweden,SWE,2020-06-18,Daily ICU occupancy per million,22.047
+Sweden,SWE,2020-06-18,Daily hospital occupancy,1197.0
+Sweden,SWE,2020-06-18,Daily hospital occupancy per million,117.813
+Sweden,SWE,2020-06-19,Daily ICU occupancy,217.0
+Sweden,SWE,2020-06-19,Daily ICU occupancy per million,21.358
+Sweden,SWE,2020-06-19,Daily hospital occupancy,1177.0
+Sweden,SWE,2020-06-19,Daily hospital occupancy per million,115.845
+Sweden,SWE,2020-06-20,Daily ICU occupancy,215.0
+Sweden,SWE,2020-06-20,Daily ICU occupancy per million,21.161
+Sweden,SWE,2020-06-20,Daily hospital occupancy,1173.0
+Sweden,SWE,2020-06-20,Daily hospital occupancy per million,115.451
+Sweden,SWE,2020-06-21,Daily ICU occupancy,212.0
+Sweden,SWE,2020-06-21,Daily ICU occupancy per million,20.866
+Sweden,SWE,2020-06-21,Daily hospital occupancy,1179.0
+Sweden,SWE,2020-06-21,Daily hospital occupancy per million,116.041
+Sweden,SWE,2020-06-22,Daily ICU occupancy,203.0
+Sweden,SWE,2020-06-22,Daily ICU occupancy per million,19.98
+Sweden,SWE,2020-06-22,Daily hospital occupancy,1168.0
+Sweden,SWE,2020-06-22,Daily hospital occupancy per million,114.959
+Sweden,SWE,2020-06-23,Daily ICU occupancy,203.0
+Sweden,SWE,2020-06-23,Daily ICU occupancy per million,19.98
+Sweden,SWE,2020-06-23,Daily hospital occupancy,1153.0
+Sweden,SWE,2020-06-23,Daily hospital occupancy per million,113.482
+Sweden,SWE,2020-06-24,Daily ICU occupancy,192.0
+Sweden,SWE,2020-06-24,Daily ICU occupancy per million,18.897
+Sweden,SWE,2020-06-24,Daily hospital occupancy,1109.0
+Sweden,SWE,2020-06-24,Daily hospital occupancy per million,109.152
+Sweden,SWE,2020-06-25,Daily ICU occupancy,181.0
+Sweden,SWE,2020-06-25,Daily ICU occupancy per million,17.815
+Sweden,SWE,2020-06-25,Daily hospital occupancy,1019.0
+Sweden,SWE,2020-06-25,Daily hospital occupancy per million,100.294
+Sweden,SWE,2020-06-26,Daily ICU occupancy,174.0
+Sweden,SWE,2020-06-26,Daily ICU occupancy per million,17.126
+Sweden,SWE,2020-06-26,Daily hospital occupancy,997.0
+Sweden,SWE,2020-06-26,Daily hospital occupancy per million,98.128
+Sweden,SWE,2020-06-27,Daily ICU occupancy,167.0
+Sweden,SWE,2020-06-27,Daily ICU occupancy per million,16.437
+Sweden,SWE,2020-06-27,Daily hospital occupancy,983.0
+Sweden,SWE,2020-06-27,Daily hospital occupancy per million,96.75
+Sweden,SWE,2020-06-28,Daily ICU occupancy,166.0
+Sweden,SWE,2020-06-28,Daily ICU occupancy per million,16.338
+Sweden,SWE,2020-06-28,Daily hospital occupancy,990.0
+Sweden,SWE,2020-06-28,Daily hospital occupancy per million,97.439
+Sweden,SWE,2020-06-29,Daily ICU occupancy,157.0
+Sweden,SWE,2020-06-29,Daily ICU occupancy per million,15.453
+Sweden,SWE,2020-06-29,Daily hospital occupancy,919.0
+Sweden,SWE,2020-06-29,Daily hospital occupancy per million,90.451
+Sweden,SWE,2020-06-30,Daily ICU occupancy,152.0
+Sweden,SWE,2020-06-30,Daily ICU occupancy per million,14.96
+Sweden,SWE,2020-06-30,Daily hospital occupancy,896.0
+Sweden,SWE,2020-06-30,Daily hospital occupancy per million,88.188
+Sweden,SWE,2020-07-01,Daily ICU occupancy,142.0
+Sweden,SWE,2020-07-01,Daily ICU occupancy per million,13.976
+Sweden,SWE,2020-07-01,Daily hospital occupancy,865.0
+Sweden,SWE,2020-07-01,Daily hospital occupancy per million,85.136
+Sweden,SWE,2020-07-02,Daily ICU occupancy,133.0
+Sweden,SWE,2020-07-02,Daily ICU occupancy per million,13.09
+Sweden,SWE,2020-07-02,Daily hospital occupancy,786.0
+Sweden,SWE,2020-07-02,Daily hospital occupancy per million,77.361
+Sweden,SWE,2020-07-03,Daily ICU occupancy,138.0
+Sweden,SWE,2020-07-03,Daily ICU occupancy per million,13.582
+Sweden,SWE,2020-07-03,Daily hospital occupancy,766.0
+Sweden,SWE,2020-07-03,Daily hospital occupancy per million,75.393
+Sweden,SWE,2020-07-04,Daily ICU occupancy,141.0
+Sweden,SWE,2020-07-04,Daily ICU occupancy per million,13.878
+Sweden,SWE,2020-07-04,Daily hospital occupancy,753.0
+Sweden,SWE,2020-07-04,Daily hospital occupancy per million,74.113
+Sweden,SWE,2020-07-05,Daily ICU occupancy,138.0
+Sweden,SWE,2020-07-05,Daily ICU occupancy per million,13.582
+Sweden,SWE,2020-07-05,Daily hospital occupancy,748.0
+Sweden,SWE,2020-07-05,Daily hospital occupancy per million,73.621
+Sweden,SWE,2020-07-06,Daily ICU occupancy,127.0
+Sweden,SWE,2020-07-06,Daily ICU occupancy per million,12.5
+Sweden,SWE,2020-07-06,Daily hospital occupancy,677.0
+Sweden,SWE,2020-07-06,Daily hospital occupancy per million,66.633
+Sweden,SWE,2020-07-07,Daily ICU occupancy,119.0
+Sweden,SWE,2020-07-07,Daily ICU occupancy per million,11.712
+Sweden,SWE,2020-07-07,Daily hospital occupancy,656.0
+Sweden,SWE,2020-07-07,Daily hospital occupancy per million,64.566
+Sweden,SWE,2020-07-08,Daily ICU occupancy,108.0
+Sweden,SWE,2020-07-08,Daily ICU occupancy per million,10.63
+Sweden,SWE,2020-07-08,Daily hospital occupancy,628.0
+Sweden,SWE,2020-07-08,Daily hospital occupancy per million,61.81
+Sweden,SWE,2020-07-09,Daily ICU occupancy,101.0
+Sweden,SWE,2020-07-09,Daily ICU occupancy per million,9.941
+Sweden,SWE,2020-07-09,Daily hospital occupancy,563.0
+Sweden,SWE,2020-07-09,Daily hospital occupancy per million,55.413
+Sweden,SWE,2020-07-10,Daily ICU occupancy,97.0
+Sweden,SWE,2020-07-10,Daily ICU occupancy per million,9.547
+Sweden,SWE,2020-07-10,Daily hospital occupancy,523.0
+Sweden,SWE,2020-07-10,Daily hospital occupancy per million,51.476
+Sweden,SWE,2020-07-11,Daily ICU occupancy,94.0
+Sweden,SWE,2020-07-11,Daily ICU occupancy per million,9.252
+Sweden,SWE,2020-07-11,Daily hospital occupancy,509.0
+Sweden,SWE,2020-07-11,Daily hospital occupancy per million,50.098
+Sweden,SWE,2020-07-12,Daily ICU occupancy,94.0
+Sweden,SWE,2020-07-12,Daily ICU occupancy per million,9.252
+Sweden,SWE,2020-07-12,Daily hospital occupancy,507.0
+Sweden,SWE,2020-07-12,Daily hospital occupancy per million,49.901
+Sweden,SWE,2020-07-13,Daily ICU occupancy,91.0
+Sweden,SWE,2020-07-13,Daily ICU occupancy per million,8.957
+Sweden,SWE,2020-07-13,Daily hospital occupancy,474.0
+Sweden,SWE,2020-07-13,Daily hospital occupancy per million,46.653
+Sweden,SWE,2020-07-14,Daily ICU occupancy,86.0
+Sweden,SWE,2020-07-14,Daily ICU occupancy per million,8.464
+Sweden,SWE,2020-07-14,Daily hospital occupancy,464.0
+Sweden,SWE,2020-07-14,Daily hospital occupancy per million,45.669
+Sweden,SWE,2020-07-15,Daily ICU occupancy,79.0
+Sweden,SWE,2020-07-15,Daily ICU occupancy per million,7.775
+Sweden,SWE,2020-07-15,Daily hospital occupancy,436.0
+Sweden,SWE,2020-07-15,Daily hospital occupancy per million,42.913
+Sweden,SWE,2020-07-16,Daily ICU occupancy,67.0
+Sweden,SWE,2020-07-16,Daily ICU occupancy per million,6.594
+Sweden,SWE,2020-07-16,Daily hospital occupancy,366.0
+Sweden,SWE,2020-07-16,Daily hospital occupancy per million,36.023
+Sweden,SWE,2020-07-17,Daily ICU occupancy,68.0
+Sweden,SWE,2020-07-17,Daily ICU occupancy per million,6.693
+Sweden,SWE,2020-07-17,Daily hospital occupancy,341.0
+Sweden,SWE,2020-07-17,Daily hospital occupancy per million,33.562
+Sweden,SWE,2020-07-18,Daily ICU occupancy,65.0
+Sweden,SWE,2020-07-18,Daily ICU occupancy per million,6.398
+Sweden,SWE,2020-07-18,Daily hospital occupancy,335.0
+Sweden,SWE,2020-07-18,Daily hospital occupancy per million,32.972
+Sweden,SWE,2020-07-19,Daily ICU occupancy,66.0
+Sweden,SWE,2020-07-19,Daily ICU occupancy per million,6.496
+Sweden,SWE,2020-07-19,Daily hospital occupancy,337.0
+Sweden,SWE,2020-07-19,Daily hospital occupancy per million,33.169
+Sweden,SWE,2020-07-20,Daily ICU occupancy,60.0
+Sweden,SWE,2020-07-20,Daily ICU occupancy per million,5.905
+Sweden,SWE,2020-07-20,Daily hospital occupancy,312.0
+Sweden,SWE,2020-07-20,Daily hospital occupancy per million,30.708
+Sweden,SWE,2020-07-21,Daily ICU occupancy,54.0
+Sweden,SWE,2020-07-21,Daily ICU occupancy per million,5.315
+Sweden,SWE,2020-07-21,Daily hospital occupancy,322.0
+Sweden,SWE,2020-07-21,Daily hospital occupancy per million,31.692
+Sweden,SWE,2020-07-22,Daily ICU occupancy,47.0
+Sweden,SWE,2020-07-22,Daily ICU occupancy per million,4.626
+Sweden,SWE,2020-07-22,Daily hospital occupancy,304.0
+Sweden,SWE,2020-07-22,Daily hospital occupancy per million,29.921
+Sweden,SWE,2020-07-23,Daily ICU occupancy,53.0
+Sweden,SWE,2020-07-23,Daily ICU occupancy per million,5.216
+Sweden,SWE,2020-07-23,Daily hospital occupancy,313.0
+Sweden,SWE,2020-07-23,Daily hospital occupancy per million,30.807
+Sweden,SWE,2020-07-24,Daily ICU occupancy,48.0
+Sweden,SWE,2020-07-24,Daily ICU occupancy per million,4.724
+Sweden,SWE,2020-07-24,Daily hospital occupancy,302.0
+Sweden,SWE,2020-07-24,Daily hospital occupancy per million,29.724
+Sweden,SWE,2020-07-25,Daily ICU occupancy,50.0
+Sweden,SWE,2020-07-25,Daily ICU occupancy per million,4.921
+Sweden,SWE,2020-07-25,Daily hospital occupancy,300.0
+Sweden,SWE,2020-07-25,Daily hospital occupancy per million,29.527
+Sweden,SWE,2020-07-26,Daily ICU occupancy,48.0
+Sweden,SWE,2020-07-26,Daily ICU occupancy per million,4.724
+Sweden,SWE,2020-07-26,Daily hospital occupancy,299.0
+Sweden,SWE,2020-07-26,Daily hospital occupancy per million,29.429
+Sweden,SWE,2020-07-27,Daily ICU occupancy,48.0
+Sweden,SWE,2020-07-27,Daily ICU occupancy per million,4.724
+Sweden,SWE,2020-07-27,Daily hospital occupancy,298.0
+Sweden,SWE,2020-07-27,Daily hospital occupancy per million,29.33
+Sweden,SWE,2020-07-28,Daily ICU occupancy,46.0
+Sweden,SWE,2020-07-28,Daily ICU occupancy per million,4.527
+Sweden,SWE,2020-07-28,Daily hospital occupancy,298.0
+Sweden,SWE,2020-07-28,Daily hospital occupancy per million,29.33
+Sweden,SWE,2020-07-29,Daily ICU occupancy,39.0
+Sweden,SWE,2020-07-29,Daily ICU occupancy per million,3.839
+Sweden,SWE,2020-07-29,Daily hospital occupancy,284.0
+Sweden,SWE,2020-07-29,Daily hospital occupancy per million,27.952
+Sweden,SWE,2020-07-30,Daily ICU occupancy,35.0
+Sweden,SWE,2020-07-30,Daily ICU occupancy per million,3.445
+Sweden,SWE,2020-07-30,Daily hospital occupancy,258.0
+Sweden,SWE,2020-07-30,Daily hospital occupancy per million,25.393
+Sweden,SWE,2020-07-31,Daily ICU occupancy,33.0
+Sweden,SWE,2020-07-31,Daily ICU occupancy per million,3.248
+Sweden,SWE,2020-07-31,Daily hospital occupancy,258.0
+Sweden,SWE,2020-07-31,Daily hospital occupancy per million,25.393
+Sweden,SWE,2020-08-01,Daily ICU occupancy,33.0
+Sweden,SWE,2020-08-01,Daily ICU occupancy per million,3.248
+Sweden,SWE,2020-08-01,Daily hospital occupancy,267.0
+Sweden,SWE,2020-08-01,Daily hospital occupancy per million,26.279
+Sweden,SWE,2020-08-02,Daily ICU occupancy,35.0
+Sweden,SWE,2020-08-02,Daily ICU occupancy per million,3.445
+Sweden,SWE,2020-08-02,Daily hospital occupancy,264.0
+Sweden,SWE,2020-08-02,Daily hospital occupancy per million,25.984
+Sweden,SWE,2020-08-03,Daily ICU occupancy,34.0
+Sweden,SWE,2020-08-03,Daily ICU occupancy per million,3.346
+Sweden,SWE,2020-08-03,Daily hospital occupancy,243.0
+Sweden,SWE,2020-08-03,Daily hospital occupancy per million,23.917
+Sweden,SWE,2020-08-04,Daily ICU occupancy,34.0
+Sweden,SWE,2020-08-04,Daily ICU occupancy per million,3.346
+Sweden,SWE,2020-08-04,Daily hospital occupancy,236.0
+Sweden,SWE,2020-08-04,Daily hospital occupancy per million,23.228
+Sweden,SWE,2020-08-05,Daily ICU occupancy,33.0
+Sweden,SWE,2020-08-05,Daily ICU occupancy per million,3.248
+Sweden,SWE,2020-08-05,Daily hospital occupancy,227.0
+Sweden,SWE,2020-08-05,Daily hospital occupancy per million,22.342
+Sweden,SWE,2020-08-06,Daily ICU occupancy,31.0
+Sweden,SWE,2020-08-06,Daily ICU occupancy per million,3.051
+Sweden,SWE,2020-08-06,Daily hospital occupancy,210.0
+Sweden,SWE,2020-08-06,Daily hospital occupancy per million,20.669
+Sweden,SWE,2020-08-07,Daily ICU occupancy,29.0
+Sweden,SWE,2020-08-07,Daily ICU occupancy per million,2.854
+Sweden,SWE,2020-08-07,Daily hospital occupancy,210.0
+Sweden,SWE,2020-08-07,Daily hospital occupancy per million,20.669
+Sweden,SWE,2020-08-08,Daily ICU occupancy,29.0
+Sweden,SWE,2020-08-08,Daily ICU occupancy per million,2.854
+Sweden,SWE,2020-08-08,Daily hospital occupancy,211.0
+Sweden,SWE,2020-08-08,Daily hospital occupancy per million,20.767
+Sweden,SWE,2020-08-09,Daily ICU occupancy,29.0
+Sweden,SWE,2020-08-09,Daily ICU occupancy per million,2.854
+Sweden,SWE,2020-08-09,Daily hospital occupancy,208.0
+Sweden,SWE,2020-08-09,Daily hospital occupancy per million,20.472
+Sweden,SWE,2020-08-10,Daily ICU occupancy,31.0
+Sweden,SWE,2020-08-10,Daily ICU occupancy per million,3.051
+Sweden,SWE,2020-08-10,Daily hospital occupancy,221.0
+Sweden,SWE,2020-08-10,Daily hospital occupancy per million,21.752
+Sweden,SWE,2020-08-11,Daily ICU occupancy,32.0
+Sweden,SWE,2020-08-11,Daily ICU occupancy per million,3.15
+Sweden,SWE,2020-08-11,Daily hospital occupancy,213.0
+Sweden,SWE,2020-08-11,Daily hospital occupancy per million,20.964
+Sweden,SWE,2020-08-12,Daily ICU occupancy,33.0
+Sweden,SWE,2020-08-12,Daily ICU occupancy per million,3.248
+Sweden,SWE,2020-08-12,Daily hospital occupancy,218.0
+Sweden,SWE,2020-08-12,Daily hospital occupancy per million,21.456
+Sweden,SWE,2020-08-13,Daily ICU occupancy,33.0
+Sweden,SWE,2020-08-13,Daily ICU occupancy per million,3.248
+Sweden,SWE,2020-08-13,Daily hospital occupancy,215.0
+Sweden,SWE,2020-08-13,Daily hospital occupancy per million,21.161
+Sweden,SWE,2020-08-14,Daily ICU occupancy,31.0
+Sweden,SWE,2020-08-14,Daily ICU occupancy per million,3.051
+Sweden,SWE,2020-08-14,Daily hospital occupancy,209.0
+Sweden,SWE,2020-08-14,Daily hospital occupancy per million,20.571
+Sweden,SWE,2020-08-15,Daily ICU occupancy,29.0
+Sweden,SWE,2020-08-15,Daily ICU occupancy per million,2.854
+Sweden,SWE,2020-08-15,Daily hospital occupancy,209.0
+Sweden,SWE,2020-08-15,Daily hospital occupancy per million,20.571
+Sweden,SWE,2020-08-16,Daily ICU occupancy,29.0
+Sweden,SWE,2020-08-16,Daily ICU occupancy per million,2.854
+Sweden,SWE,2020-08-16,Daily hospital occupancy,211.0
+Sweden,SWE,2020-08-16,Daily hospital occupancy per million,20.767
+Sweden,SWE,2020-08-17,Daily ICU occupancy,32.0
+Sweden,SWE,2020-08-17,Daily ICU occupancy per million,3.15
+Sweden,SWE,2020-08-17,Daily hospital occupancy,215.0
+Sweden,SWE,2020-08-17,Daily hospital occupancy per million,21.161
+Sweden,SWE,2020-08-18,Daily ICU occupancy,28.0
+Sweden,SWE,2020-08-18,Daily ICU occupancy per million,2.756
+Sweden,SWE,2020-08-18,Daily hospital occupancy,215.0
+Sweden,SWE,2020-08-18,Daily hospital occupancy per million,21.161
+Sweden,SWE,2020-08-19,Daily ICU occupancy,29.0
+Sweden,SWE,2020-08-19,Daily ICU occupancy per million,2.854
+Sweden,SWE,2020-08-19,Daily hospital occupancy,217.0
+Sweden,SWE,2020-08-19,Daily hospital occupancy per million,21.358
+Sweden,SWE,2020-08-20,Daily ICU occupancy,27.0
+Sweden,SWE,2020-08-20,Daily ICU occupancy per million,2.657
+Sweden,SWE,2020-08-20,Daily hospital occupancy,203.0
+Sweden,SWE,2020-08-20,Daily hospital occupancy per million,19.98
+Sweden,SWE,2020-08-21,Daily ICU occupancy,26.0
+Sweden,SWE,2020-08-21,Daily ICU occupancy per million,2.559
+Sweden,SWE,2020-08-21,Daily hospital occupancy,199.0
+Sweden,SWE,2020-08-21,Daily hospital occupancy per million,19.586
+Sweden,SWE,2020-08-22,Daily ICU occupancy,26.0
+Sweden,SWE,2020-08-22,Daily ICU occupancy per million,2.559
+Sweden,SWE,2020-08-22,Daily hospital occupancy,199.0
+Sweden,SWE,2020-08-22,Daily hospital occupancy per million,19.586
+Sweden,SWE,2020-08-23,Daily ICU occupancy,26.0
+Sweden,SWE,2020-08-23,Daily ICU occupancy per million,2.559
+Sweden,SWE,2020-08-23,Daily hospital occupancy,199.0
+Sweden,SWE,2020-08-23,Daily hospital occupancy per million,19.586
+Sweden,SWE,2020-08-24,Daily ICU occupancy,22.0
+Sweden,SWE,2020-08-24,Daily ICU occupancy per million,2.165
+Sweden,SWE,2020-08-24,Daily hospital occupancy,187.0
+Sweden,SWE,2020-08-24,Daily hospital occupancy per million,18.405
+Sweden,SWE,2020-08-25,Daily ICU occupancy,21.0
+Sweden,SWE,2020-08-25,Daily ICU occupancy per million,2.067
+Sweden,SWE,2020-08-25,Daily hospital occupancy,177.0
+Sweden,SWE,2020-08-25,Daily hospital occupancy per million,17.421
+Sweden,SWE,2020-08-26,Daily ICU occupancy,21.0
+Sweden,SWE,2020-08-26,Daily ICU occupancy per million,2.067
+Sweden,SWE,2020-08-26,Daily hospital occupancy,168.0
+Sweden,SWE,2020-08-26,Daily hospital occupancy per million,16.535
+Sweden,SWE,2020-08-27,Daily ICU occupancy,19.0
+Sweden,SWE,2020-08-27,Daily ICU occupancy per million,1.87
+Sweden,SWE,2020-08-27,Daily hospital occupancy,177.0
+Sweden,SWE,2020-08-27,Daily hospital occupancy per million,17.421
+Sweden,SWE,2020-08-28,Daily ICU occupancy,19.0
+Sweden,SWE,2020-08-28,Daily ICU occupancy per million,1.87
+Sweden,SWE,2020-08-28,Daily hospital occupancy,165.0
+Sweden,SWE,2020-08-28,Daily hospital occupancy per million,16.24
+Sweden,SWE,2020-08-29,Daily ICU occupancy,20.0
+Sweden,SWE,2020-08-29,Daily ICU occupancy per million,1.968
+Sweden,SWE,2020-08-29,Daily hospital occupancy,166.0
+Sweden,SWE,2020-08-29,Daily hospital occupancy per million,16.338
+Sweden,SWE,2020-08-30,Daily ICU occupancy,20.0
+Sweden,SWE,2020-08-30,Daily ICU occupancy per million,1.968
+Sweden,SWE,2020-08-30,Daily hospital occupancy,163.0
+Sweden,SWE,2020-08-30,Daily hospital occupancy per million,16.043
+Sweden,SWE,2020-08-31,Daily ICU occupancy,18.0
+Sweden,SWE,2020-08-31,Daily ICU occupancy per million,1.772
+Sweden,SWE,2020-08-31,Daily hospital occupancy,159.0
+Sweden,SWE,2020-08-31,Daily hospital occupancy per million,15.649
+Sweden,SWE,2020-09-01,Daily ICU occupancy,17.0
+Sweden,SWE,2020-09-01,Daily ICU occupancy per million,1.673
+Sweden,SWE,2020-09-01,Daily hospital occupancy,163.0
+Sweden,SWE,2020-09-01,Daily hospital occupancy per million,16.043
+Sweden,SWE,2020-09-02,Daily ICU occupancy,17.0
+Sweden,SWE,2020-09-02,Daily ICU occupancy per million,1.673
+Sweden,SWE,2020-09-02,Daily hospital occupancy,152.0
+Sweden,SWE,2020-09-02,Daily hospital occupancy per million,14.96
+Sweden,SWE,2020-09-03,Daily ICU occupancy,15.0
+Sweden,SWE,2020-09-03,Daily ICU occupancy per million,1.476
+Sweden,SWE,2020-09-03,Daily hospital occupancy,142.0
+Sweden,SWE,2020-09-03,Daily hospital occupancy per million,13.976
+Sweden,SWE,2020-09-04,Daily ICU occupancy,14.0
+Sweden,SWE,2020-09-04,Daily ICU occupancy per million,1.378
+Sweden,SWE,2020-09-04,Daily hospital occupancy,136.0
+Sweden,SWE,2020-09-04,Daily hospital occupancy per million,13.386
+Sweden,SWE,2020-09-05,Daily ICU occupancy,14.0
+Sweden,SWE,2020-09-05,Daily ICU occupancy per million,1.378
+Sweden,SWE,2020-09-05,Daily hospital occupancy,131.0
+Sweden,SWE,2020-09-05,Daily hospital occupancy per million,12.893
+Sweden,SWE,2020-09-06,Daily ICU occupancy,14.0
+Sweden,SWE,2020-09-06,Daily ICU occupancy per million,1.378
+Sweden,SWE,2020-09-06,Daily hospital occupancy,135.0
+Sweden,SWE,2020-09-06,Daily hospital occupancy per million,13.287
+Sweden,SWE,2020-09-07,Daily ICU occupancy,12.0
+Sweden,SWE,2020-09-07,Daily ICU occupancy per million,1.181
+Sweden,SWE,2020-09-07,Daily hospital occupancy,138.0
+Sweden,SWE,2020-09-07,Daily hospital occupancy per million,13.582
+Sweden,SWE,2020-09-08,Daily ICU occupancy,14.0
+Sweden,SWE,2020-09-08,Daily ICU occupancy per million,1.378
+Sweden,SWE,2020-09-08,Daily hospital occupancy,141.0
+Sweden,SWE,2020-09-08,Daily hospital occupancy per million,13.878
+Sweden,SWE,2020-09-09,Daily ICU occupancy,14.0
+Sweden,SWE,2020-09-09,Daily ICU occupancy per million,1.378
+Sweden,SWE,2020-09-09,Daily hospital occupancy,140.0
+Sweden,SWE,2020-09-09,Daily hospital occupancy per million,13.779
+Sweden,SWE,2020-09-10,Daily ICU occupancy,15.0
+Sweden,SWE,2020-09-10,Daily ICU occupancy per million,1.476
+Sweden,SWE,2020-09-10,Daily hospital occupancy,131.0
+Sweden,SWE,2020-09-10,Daily hospital occupancy per million,12.893
+Sweden,SWE,2020-09-11,Daily ICU occupancy,14.0
+Sweden,SWE,2020-09-11,Daily ICU occupancy per million,1.378
+Sweden,SWE,2020-09-11,Daily hospital occupancy,129.0
+Sweden,SWE,2020-09-11,Daily hospital occupancy per million,12.697
+Sweden,SWE,2020-09-12,Daily ICU occupancy,15.0
+Sweden,SWE,2020-09-12,Daily ICU occupancy per million,1.476
+Sweden,SWE,2020-09-12,Daily hospital occupancy,128.0
+Sweden,SWE,2020-09-12,Daily hospital occupancy per million,12.598
+Sweden,SWE,2020-09-13,Daily ICU occupancy,15.0
+Sweden,SWE,2020-09-13,Daily ICU occupancy per million,1.476
+Sweden,SWE,2020-09-13,Daily hospital occupancy,130.0
+Sweden,SWE,2020-09-13,Daily hospital occupancy per million,12.795
+Sweden,SWE,2020-09-14,Daily ICU occupancy,16.0
+Sweden,SWE,2020-09-14,Daily ICU occupancy per million,1.575
+Sweden,SWE,2020-09-14,Daily hospital occupancy,148.0
+Sweden,SWE,2020-09-14,Daily hospital occupancy per million,14.567
+Sweden,SWE,2020-09-15,Daily ICU occupancy,16.0
+Sweden,SWE,2020-09-15,Daily ICU occupancy per million,1.575
+Sweden,SWE,2020-09-15,Daily hospital occupancy,145.0
+Sweden,SWE,2020-09-15,Daily hospital occupancy per million,14.271
+Sweden,SWE,2020-09-16,Daily ICU occupancy,16.0
+Sweden,SWE,2020-09-16,Daily ICU occupancy per million,1.575
+Sweden,SWE,2020-09-16,Daily hospital occupancy,152.0
+Sweden,SWE,2020-09-16,Daily hospital occupancy per million,14.96
+Sweden,SWE,2020-09-17,Daily ICU occupancy,15.0
+Sweden,SWE,2020-09-17,Daily ICU occupancy per million,1.476
+Sweden,SWE,2020-09-17,Daily hospital occupancy,154.0
+Sweden,SWE,2020-09-17,Daily hospital occupancy per million,15.157
+Sweden,SWE,2020-09-18,Daily ICU occupancy,17.0
+Sweden,SWE,2020-09-18,Daily ICU occupancy per million,1.673
+Sweden,SWE,2020-09-18,Daily hospital occupancy,141.0
+Sweden,SWE,2020-09-18,Daily hospital occupancy per million,13.878
+Sweden,SWE,2020-09-19,Daily ICU occupancy,20.0
+Sweden,SWE,2020-09-19,Daily ICU occupancy per million,1.968
+Sweden,SWE,2020-09-19,Daily hospital occupancy,142.0
+Sweden,SWE,2020-09-19,Daily hospital occupancy per million,13.976
+Sweden,SWE,2020-09-20,Daily ICU occupancy,19.0
+Sweden,SWE,2020-09-20,Daily ICU occupancy per million,1.87
+Sweden,SWE,2020-09-20,Daily hospital occupancy,139.0
+Sweden,SWE,2020-09-20,Daily hospital occupancy per million,13.681
+Sweden,SWE,2020-09-21,Daily ICU occupancy,17.0
+Sweden,SWE,2020-09-21,Daily ICU occupancy per million,1.673
+Sweden,SWE,2020-09-21,Daily hospital occupancy,138.0
+Sweden,SWE,2020-09-21,Daily hospital occupancy per million,13.582
+Sweden,SWE,2020-09-22,Daily ICU occupancy,16.0
+Sweden,SWE,2020-09-22,Daily ICU occupancy per million,1.575
+Sweden,SWE,2020-09-22,Daily hospital occupancy,148.0
+Sweden,SWE,2020-09-22,Daily hospital occupancy per million,14.567
+Sweden,SWE,2020-09-23,Daily ICU occupancy,15.0
+Sweden,SWE,2020-09-23,Daily ICU occupancy per million,1.476
+Sweden,SWE,2020-09-23,Daily hospital occupancy,150.0
+Sweden,SWE,2020-09-23,Daily hospital occupancy per million,14.764
+Sweden,SWE,2020-09-24,Daily ICU occupancy,15.0
+Sweden,SWE,2020-09-24,Daily ICU occupancy per million,1.476
+Sweden,SWE,2020-09-24,Daily hospital occupancy,151.0
+Sweden,SWE,2020-09-24,Daily hospital occupancy per million,14.862
+Sweden,SWE,2020-09-25,Daily ICU occupancy,20.0
+Sweden,SWE,2020-09-25,Daily ICU occupancy per million,1.968
+Sweden,SWE,2020-09-25,Daily hospital occupancy,156.0
+Sweden,SWE,2020-09-25,Daily hospital occupancy per million,15.354
+Sweden,SWE,2020-09-26,Daily ICU occupancy,19.0
+Sweden,SWE,2020-09-26,Daily ICU occupancy per million,1.87
+Sweden,SWE,2020-09-26,Daily hospital occupancy,158.0
+Sweden,SWE,2020-09-26,Daily hospital occupancy per million,15.551
+Sweden,SWE,2020-09-27,Daily ICU occupancy,18.0
+Sweden,SWE,2020-09-27,Daily ICU occupancy per million,1.772
+Sweden,SWE,2020-09-27,Daily hospital occupancy,158.0
+Sweden,SWE,2020-09-27,Daily hospital occupancy per million,15.551
+Sweden,SWE,2020-09-28,Daily ICU occupancy,16.0
+Sweden,SWE,2020-09-28,Daily ICU occupancy per million,1.575
+Sweden,SWE,2020-09-28,Daily hospital occupancy,156.0
+Sweden,SWE,2020-09-28,Daily hospital occupancy per million,15.354
+Sweden,SWE,2020-09-29,Daily ICU occupancy,17.0
+Sweden,SWE,2020-09-29,Daily ICU occupancy per million,1.673
+Sweden,SWE,2020-09-29,Daily hospital occupancy,158.0
+Sweden,SWE,2020-09-29,Daily hospital occupancy per million,15.551
+Sweden,SWE,2020-09-30,Daily ICU occupancy,17.0
+Sweden,SWE,2020-09-30,Daily ICU occupancy per million,1.673
+Sweden,SWE,2020-09-30,Daily hospital occupancy,155.0
+Sweden,SWE,2020-09-30,Daily hospital occupancy per million,15.256
+Sweden,SWE,2020-10-01,Daily ICU occupancy,16.0
+Sweden,SWE,2020-10-01,Daily ICU occupancy per million,1.575
+Sweden,SWE,2020-10-01,Daily hospital occupancy,156.0
+Sweden,SWE,2020-10-01,Daily hospital occupancy per million,15.354
+Sweden,SWE,2020-10-02,Daily ICU occupancy,21.0
+Sweden,SWE,2020-10-02,Daily ICU occupancy per million,2.067
+Sweden,SWE,2020-10-02,Daily hospital occupancy,161.0
+Sweden,SWE,2020-10-02,Daily hospital occupancy per million,15.846
+Sweden,SWE,2020-10-03,Daily ICU occupancy,21.0
+Sweden,SWE,2020-10-03,Daily ICU occupancy per million,2.067
+Sweden,SWE,2020-10-03,Daily hospital occupancy,161.0
+Sweden,SWE,2020-10-03,Daily hospital occupancy per million,15.846
+Sweden,SWE,2020-10-04,Daily ICU occupancy,20.0
+Sweden,SWE,2020-10-04,Daily ICU occupancy per million,1.968
+Sweden,SWE,2020-10-04,Daily hospital occupancy,162.0
+Sweden,SWE,2020-10-04,Daily hospital occupancy per million,15.945
+Sweden,SWE,2020-10-05,Daily ICU occupancy,22.0
+Sweden,SWE,2020-10-05,Daily ICU occupancy per million,2.165
+Sweden,SWE,2020-10-05,Daily hospital occupancy,155.0
+Sweden,SWE,2020-10-05,Daily hospital occupancy per million,15.256
+Sweden,SWE,2020-10-06,Daily ICU occupancy,21.0
+Sweden,SWE,2020-10-06,Daily ICU occupancy per million,2.067
+Sweden,SWE,2020-10-06,Daily hospital occupancy,166.0
+Sweden,SWE,2020-10-06,Daily hospital occupancy per million,16.338
+Sweden,SWE,2020-10-07,Daily ICU occupancy,24.0
+Sweden,SWE,2020-10-07,Daily ICU occupancy per million,2.362
+Sweden,SWE,2020-10-07,Daily hospital occupancy,172.0
+Sweden,SWE,2020-10-07,Daily hospital occupancy per million,16.929
+Sweden,SWE,2020-10-08,Daily ICU occupancy,23.0
+Sweden,SWE,2020-10-08,Daily ICU occupancy per million,2.264
+Sweden,SWE,2020-10-08,Daily hospital occupancy,179.0
+Sweden,SWE,2020-10-08,Daily hospital occupancy per million,17.618
+Sweden,SWE,2020-10-09,Daily ICU occupancy,23.0
+Sweden,SWE,2020-10-09,Daily ICU occupancy per million,2.264
+Sweden,SWE,2020-10-09,Daily hospital occupancy,180.0
+Sweden,SWE,2020-10-09,Daily hospital occupancy per million,17.716
+Sweden,SWE,2020-10-10,Daily ICU occupancy,23.0
+Sweden,SWE,2020-10-10,Daily ICU occupancy per million,2.264
+Sweden,SWE,2020-10-10,Daily hospital occupancy,184.0
+Sweden,SWE,2020-10-10,Daily hospital occupancy per million,18.11
+Sweden,SWE,2020-10-11,Daily ICU occupancy,21.0
+Sweden,SWE,2020-10-11,Daily ICU occupancy per million,2.067
+Sweden,SWE,2020-10-11,Daily hospital occupancy,196.0
+Sweden,SWE,2020-10-11,Daily hospital occupancy per million,19.291
+Sweden,SWE,2020-10-12,Daily ICU occupancy,24.0
+Sweden,SWE,2020-10-12,Daily ICU occupancy per million,2.362
+Sweden,SWE,2020-10-12,Daily hospital occupancy,204.0
+Sweden,SWE,2020-10-12,Daily hospital occupancy per million,20.078
+Sweden,SWE,2020-10-13,Daily ICU occupancy,25.0
+Sweden,SWE,2020-10-13,Daily ICU occupancy per million,2.461
+Sweden,SWE,2020-10-13,Daily hospital occupancy,222.0
+Sweden,SWE,2020-10-13,Daily hospital occupancy per million,21.85
+Sweden,SWE,2020-10-14,Daily ICU occupancy,24.0
+Sweden,SWE,2020-10-14,Daily ICU occupancy per million,2.362
+Sweden,SWE,2020-10-14,Daily hospital occupancy,218.0
+Sweden,SWE,2020-10-14,Daily hospital occupancy per million,21.456
+Sweden,SWE,2020-10-15,Daily ICU occupancy,23.0
+Sweden,SWE,2020-10-15,Daily ICU occupancy per million,2.264
+Sweden,SWE,2020-10-15,Daily hospital occupancy,218.0
+Sweden,SWE,2020-10-15,Daily hospital occupancy per million,21.456
+Sweden,SWE,2020-10-16,Daily ICU occupancy,27.0
+Sweden,SWE,2020-10-16,Daily ICU occupancy per million,2.657
+Sweden,SWE,2020-10-16,Daily hospital occupancy,238.0
+Sweden,SWE,2020-10-16,Daily hospital occupancy per million,23.425
+Sweden,SWE,2020-10-17,Daily ICU occupancy,31.0
+Sweden,SWE,2020-10-17,Daily ICU occupancy per million,3.051
+Sweden,SWE,2020-10-17,Daily hospital occupancy,238.0
+Sweden,SWE,2020-10-17,Daily hospital occupancy per million,23.425
+Sweden,SWE,2020-10-18,Daily ICU occupancy,30.0
+Sweden,SWE,2020-10-18,Daily ICU occupancy per million,2.953
+Sweden,SWE,2020-10-18,Daily hospital occupancy,245.0
+Sweden,SWE,2020-10-18,Daily hospital occupancy per million,24.114
+Sweden,SWE,2020-10-19,Daily ICU occupancy,30.0
+Sweden,SWE,2020-10-19,Daily ICU occupancy per million,2.953
+Sweden,SWE,2020-10-19,Daily hospital occupancy,270.0
+Sweden,SWE,2020-10-19,Daily hospital occupancy per million,26.574
+Sweden,SWE,2020-10-20,Daily ICU occupancy,30.0
+Sweden,SWE,2020-10-20,Daily ICU occupancy per million,2.953
+Sweden,SWE,2020-10-20,Daily hospital occupancy,278.0
+Sweden,SWE,2020-10-20,Daily hospital occupancy per million,27.362
+Sweden,SWE,2020-10-21,Daily ICU occupancy,34.0
+Sweden,SWE,2020-10-21,Daily ICU occupancy per million,3.346
+Sweden,SWE,2020-10-21,Daily hospital occupancy,290.0
+Sweden,SWE,2020-10-21,Daily hospital occupancy per million,28.543
+Sweden,SWE,2020-10-22,Daily ICU occupancy,37.0
+Sweden,SWE,2020-10-22,Daily ICU occupancy per million,3.642
+Sweden,SWE,2020-10-22,Daily hospital occupancy,309.0
+Sweden,SWE,2020-10-22,Daily hospital occupancy per million,30.413
+Sweden,SWE,2020-10-23,Daily ICU occupancy,36.0
+Sweden,SWE,2020-10-23,Daily ICU occupancy per million,3.543
+Sweden,SWE,2020-10-23,Daily hospital occupancy,309.0
+Sweden,SWE,2020-10-23,Daily hospital occupancy per million,30.413
+Sweden,SWE,2020-10-24,Daily ICU occupancy,37.0
+Sweden,SWE,2020-10-24,Daily ICU occupancy per million,3.642
+Sweden,SWE,2020-10-24,Daily hospital occupancy,328.0
+Sweden,SWE,2020-10-24,Daily hospital occupancy per million,32.283
+Sweden,SWE,2020-10-25,Daily ICU occupancy,41.0
+Sweden,SWE,2020-10-25,Daily ICU occupancy per million,4.035
+Sweden,SWE,2020-10-25,Daily hospital occupancy,344.0
+Sweden,SWE,2020-10-25,Daily hospital occupancy per million,33.858
+Sweden,SWE,2020-10-26,Daily ICU occupancy,45.0
+Sweden,SWE,2020-10-26,Daily ICU occupancy per million,4.429
+Sweden,SWE,2020-10-26,Daily hospital occupancy,386.0
+Sweden,SWE,2020-10-26,Daily hospital occupancy per million,37.992
+Sweden,SWE,2020-10-27,Daily ICU occupancy,57.0
+Sweden,SWE,2020-10-27,Daily ICU occupancy per million,5.61
+Sweden,SWE,2020-10-27,Daily hospital occupancy,454.0
+Sweden,SWE,2020-10-27,Daily hospital occupancy per million,44.684
+Sweden,SWE,2020-10-28,Daily ICU occupancy,56.0
+Sweden,SWE,2020-10-28,Daily ICU occupancy per million,5.512
+Sweden,SWE,2020-10-28,Daily hospital occupancy,497.0
+Sweden,SWE,2020-10-28,Daily hospital occupancy per million,48.917
+Sweden,SWE,2020-10-29,Daily ICU occupancy,60.0
+Sweden,SWE,2020-10-29,Daily ICU occupancy per million,5.905
+Sweden,SWE,2020-10-29,Daily hospital occupancy,492.0
+Sweden,SWE,2020-10-29,Daily hospital occupancy per million,48.424
+Sweden,SWE,2020-10-30,Daily ICU occupancy,58.0
+Sweden,SWE,2020-10-30,Daily ICU occupancy per million,5.709
+Sweden,SWE,2020-10-30,Daily hospital occupancy,533.0
+Sweden,SWE,2020-10-30,Daily hospital occupancy per million,52.46
+Sweden,SWE,2020-10-31,Daily ICU occupancy,61.0
+Sweden,SWE,2020-10-31,Daily ICU occupancy per million,6.004
+Sweden,SWE,2020-10-31,Daily hospital occupancy,562.0
+Sweden,SWE,2020-10-31,Daily hospital occupancy per million,55.314
+Sweden,SWE,2020-11-01,Daily ICU occupancy,60.0
+Sweden,SWE,2020-11-01,Daily ICU occupancy per million,5.905
+Sweden,SWE,2020-11-01,Daily hospital occupancy,566.0
+Sweden,SWE,2020-11-01,Daily hospital occupancy per million,55.708
+Sweden,SWE,2020-11-02,Daily ICU occupancy,74.0
+Sweden,SWE,2020-11-02,Daily ICU occupancy per million,7.283
+Sweden,SWE,2020-11-02,Daily hospital occupancy,687.0
+Sweden,SWE,2020-11-02,Daily hospital occupancy per million,67.617
+Sweden,SWE,2020-11-03,Daily ICU occupancy,81.0
+Sweden,SWE,2020-11-03,Daily ICU occupancy per million,7.972
+Sweden,SWE,2020-11-03,Daily hospital occupancy,740.0
+Sweden,SWE,2020-11-03,Daily hospital occupancy per million,72.834
+Sweden,SWE,2020-11-04,Daily ICU occupancy,90.0
+Sweden,SWE,2020-11-04,Daily ICU occupancy per million,8.858
+Sweden,SWE,2020-11-04,Daily hospital occupancy,802.0
+Sweden,SWE,2020-11-04,Daily hospital occupancy per million,78.936
+Sweden,SWE,2020-11-05,Daily ICU occupancy,90.0
+Sweden,SWE,2020-11-05,Daily ICU occupancy per million,8.858
+Sweden,SWE,2020-11-05,Daily hospital occupancy,837.0
+Sweden,SWE,2020-11-05,Daily hospital occupancy per million,82.381
+Sweden,SWE,2020-11-06,Daily ICU occupancy,90.0
+Sweden,SWE,2020-11-06,Daily ICU occupancy per million,8.858
+Sweden,SWE,2020-11-06,Daily hospital occupancy,878.0
+Sweden,SWE,2020-11-06,Daily hospital occupancy per million,86.416
+Sweden,SWE,2020-11-07,Daily ICU occupancy,98.0
+Sweden,SWE,2020-11-07,Daily ICU occupancy per million,9.646
+Sweden,SWE,2020-11-07,Daily hospital occupancy,878.0
+Sweden,SWE,2020-11-07,Daily hospital occupancy per million,86.416
+Sweden,SWE,2020-11-08,Daily ICU occupancy,99.0
+Sweden,SWE,2020-11-08,Daily ICU occupancy per million,9.744
+Sweden,SWE,2020-11-08,Daily hospital occupancy,906.0
+Sweden,SWE,2020-11-08,Daily hospital occupancy per million,89.172
+Sweden,SWE,2020-11-09,Daily ICU occupancy,122.0
+Sweden,SWE,2020-11-09,Daily ICU occupancy per million,12.008
+Sweden,SWE,2020-11-09,Daily hospital occupancy,1049.0
+Sweden,SWE,2020-11-09,Daily hospital occupancy per million,103.246
+Sweden,SWE,2020-11-10,Daily ICU occupancy,127.0
+Sweden,SWE,2020-11-10,Daily ICU occupancy per million,12.5
+Sweden,SWE,2020-11-10,Daily hospital occupancy,1142.0
+Sweden,SWE,2020-11-10,Daily hospital occupancy per million,112.4
+Sweden,SWE,2020-11-11,Daily ICU occupancy,122.0
+Sweden,SWE,2020-11-11,Daily ICU occupancy per million,12.008
+Sweden,SWE,2020-11-11,Daily hospital occupancy,1231.0
+Sweden,SWE,2020-11-11,Daily hospital occupancy per million,121.16
+Sweden,SWE,2020-11-12,Daily ICU occupancy,123.0
+Sweden,SWE,2020-11-12,Daily ICU occupancy per million,12.106
+Sweden,SWE,2020-11-12,Daily hospital occupancy,1288.0
+Sweden,SWE,2020-11-12,Daily hospital occupancy per million,126.77
+Sweden,SWE,2020-11-13,Daily ICU occupancy,124.0
+Sweden,SWE,2020-11-13,Daily ICU occupancy per million,12.205
+Sweden,SWE,2020-11-13,Daily hospital occupancy,1337.0
+Sweden,SWE,2020-11-13,Daily hospital occupancy per million,131.592
+Sweden,SWE,2020-11-14,Daily ICU occupancy,132.0
+Sweden,SWE,2020-11-14,Daily ICU occupancy per million,12.992
+Sweden,SWE,2020-11-14,Daily hospital occupancy,1342.0
+Sweden,SWE,2020-11-14,Daily hospital occupancy per million,132.085
+Sweden,SWE,2020-11-15,Daily ICU occupancy,132.0
+Sweden,SWE,2020-11-15,Daily ICU occupancy per million,12.992
+Sweden,SWE,2020-11-15,Daily hospital occupancy,1347.0
+Sweden,SWE,2020-11-15,Daily hospital occupancy per million,132.577
+Sweden,SWE,2020-11-16,Daily ICU occupancy,156.0
+Sweden,SWE,2020-11-16,Daily ICU occupancy per million,15.354
+Sweden,SWE,2020-11-16,Daily hospital occupancy,1483.0
+Sweden,SWE,2020-11-16,Daily hospital occupancy per million,145.962
+Sweden,SWE,2020-11-17,Daily ICU occupancy,166.0
+Sweden,SWE,2020-11-17,Daily ICU occupancy per million,16.338
+Sweden,SWE,2020-11-17,Daily hospital occupancy,1593.0
+Sweden,SWE,2020-11-17,Daily hospital occupancy per million,156.789
+Sweden,SWE,2020-11-18,Daily ICU occupancy,178.0
+Sweden,SWE,2020-11-18,Daily ICU occupancy per million,17.519
+Sweden,SWE,2020-11-18,Daily hospital occupancy,1651.0
+Sweden,SWE,2020-11-18,Daily hospital occupancy per million,162.497
+Sweden,SWE,2020-11-19,Daily ICU occupancy,180.0
+Sweden,SWE,2020-11-19,Daily ICU occupancy per million,17.716
+Sweden,SWE,2020-11-19,Daily hospital occupancy,1689.0
+Sweden,SWE,2020-11-19,Daily hospital occupancy per million,166.238
+Sweden,SWE,2020-11-20,Daily ICU occupancy,177.0
+Sweden,SWE,2020-11-20,Daily ICU occupancy per million,17.421
+Sweden,SWE,2020-11-20,Daily hospital occupancy,1673.0
+Sweden,SWE,2020-11-20,Daily hospital occupancy per million,164.663
+Sweden,SWE,2020-11-21,Daily ICU occupancy,179.0
+Sweden,SWE,2020-11-21,Daily ICU occupancy per million,17.618
+Sweden,SWE,2020-11-21,Daily hospital occupancy,1674.0
+Sweden,SWE,2020-11-21,Daily hospital occupancy per million,164.761
+Sweden,SWE,2020-11-22,Daily ICU occupancy,178.0
+Sweden,SWE,2020-11-22,Daily ICU occupancy per million,17.519
+Sweden,SWE,2020-11-22,Daily hospital occupancy,1678.0
+Sweden,SWE,2020-11-22,Daily hospital occupancy per million,165.155
+Sweden,SWE,2020-11-23,Daily ICU occupancy,196.0
+Sweden,SWE,2020-11-23,Daily ICU occupancy per million,19.291
+Sweden,SWE,2020-11-23,Daily hospital occupancy,1939.0
+Sweden,SWE,2020-11-23,Daily hospital occupancy per million,190.843
+Sweden,SWE,2020-11-24,Daily ICU occupancy,206.0
+Sweden,SWE,2020-11-24,Daily ICU occupancy per million,20.275
+Sweden,SWE,2020-11-24,Daily hospital occupancy,1947.0
+Sweden,SWE,2020-11-24,Daily hospital occupancy per million,191.631
+Sweden,SWE,2020-11-25,Daily ICU occupancy,217.0
+Sweden,SWE,2020-11-25,Daily ICU occupancy per million,21.358
+Sweden,SWE,2020-11-25,Daily hospital occupancy,1997.0
+Sweden,SWE,2020-11-25,Daily hospital occupancy per million,196.552
+Sweden,SWE,2020-11-26,Daily ICU occupancy,228.0
+Sweden,SWE,2020-11-26,Daily ICU occupancy per million,22.441
+Sweden,SWE,2020-11-26,Daily hospital occupancy,2012.0
+Sweden,SWE,2020-11-26,Daily hospital occupancy per million,198.028
+Sweden,SWE,2020-11-27,Daily ICU occupancy,229.0
+Sweden,SWE,2020-11-27,Daily ICU occupancy per million,22.539
+Sweden,SWE,2020-11-27,Daily hospital occupancy,1991.0
+Sweden,SWE,2020-11-27,Daily hospital occupancy per million,195.962
+Sweden,SWE,2020-11-28,Daily ICU occupancy,226.0
+Sweden,SWE,2020-11-28,Daily ICU occupancy per million,22.244
+Sweden,SWE,2020-11-28,Daily hospital occupancy,1980.0
+Sweden,SWE,2020-11-28,Daily hospital occupancy per million,194.879
+Sweden,SWE,2020-11-29,Daily ICU occupancy,225.0
+Sweden,SWE,2020-11-29,Daily ICU occupancy per million,22.145
+Sweden,SWE,2020-11-29,Daily hospital occupancy,1998.0
+Sweden,SWE,2020-11-29,Daily hospital occupancy per million,196.65
+Sweden,SWE,2020-11-30,Daily ICU occupancy,237.0
+Sweden,SWE,2020-11-30,Daily ICU occupancy per million,23.326
+Sweden,SWE,2020-11-30,Daily hospital occupancy,2113.0
+Sweden,SWE,2020-11-30,Daily hospital occupancy per million,207.969
+Sweden,SWE,2020-12-01,Daily ICU occupancy,238.0
+Sweden,SWE,2020-12-01,Daily ICU occupancy per million,23.425
+Sweden,SWE,2020-12-01,Daily hospital occupancy,2129.0
+Sweden,SWE,2020-12-01,Daily hospital occupancy per million,209.544
+Sweden,SWE,2020-12-02,Daily ICU occupancy,241.0
+Sweden,SWE,2020-12-02,Daily ICU occupancy per million,23.72
+Sweden,SWE,2020-12-02,Daily hospital occupancy,2096.0
+Sweden,SWE,2020-12-02,Daily hospital occupancy per million,206.296
+Sweden,SWE,2020-12-03,Daily ICU occupancy,254.0
+Sweden,SWE,2020-12-03,Daily ICU occupancy per million,25.0
+Sweden,SWE,2020-12-03,Daily hospital occupancy,2043.0
+Sweden,SWE,2020-12-03,Daily hospital occupancy per million,201.08
+Sweden,SWE,2020-12-04,Daily ICU occupancy,248.0
+Sweden,SWE,2020-12-04,Daily ICU occupancy per million,24.409
+Sweden,SWE,2020-12-04,Daily hospital occupancy,2052.0
+Sweden,SWE,2020-12-04,Daily hospital occupancy per million,201.965
+Sweden,SWE,2020-12-05,Daily ICU occupancy,246.0
+Sweden,SWE,2020-12-05,Daily ICU occupancy per million,24.212
+Sweden,SWE,2020-12-05,Daily hospital occupancy,2041.0
+Sweden,SWE,2020-12-05,Daily hospital occupancy per million,200.883
+Sweden,SWE,2020-12-06,Daily ICU occupancy,248.0
+Sweden,SWE,2020-12-06,Daily ICU occupancy per million,24.409
+Sweden,SWE,2020-12-06,Daily hospital occupancy,2048.0
+Sweden,SWE,2020-12-06,Daily hospital occupancy per million,201.572
+Sweden,SWE,2020-12-07,Daily ICU occupancy,243.0
+Sweden,SWE,2020-12-07,Daily ICU occupancy per million,23.917
+Sweden,SWE,2020-12-07,Daily hospital occupancy,2213.0
+Sweden,SWE,2020-12-07,Daily hospital occupancy per million,217.812
+Sweden,SWE,2020-12-08,Daily ICU occupancy,258.0
+Sweden,SWE,2020-12-08,Daily ICU occupancy per million,25.393
+Sweden,SWE,2020-12-08,Daily hospital occupancy,2274.0
+Sweden,SWE,2020-12-08,Daily hospital occupancy per million,223.815
+Sweden,SWE,2020-12-09,Daily ICU occupancy,258.0
+Sweden,SWE,2020-12-09,Daily ICU occupancy per million,25.393
+Sweden,SWE,2020-12-09,Daily hospital occupancy,2313.0
+Sweden,SWE,2020-12-09,Daily hospital occupancy per million,227.654
+Sweden,SWE,2020-12-10,Daily ICU occupancy,248.0
+Sweden,SWE,2020-12-10,Daily ICU occupancy per million,24.409
+Sweden,SWE,2020-12-10,Daily hospital occupancy,2311.0
+Sweden,SWE,2020-12-10,Daily hospital occupancy per million,227.457
+Sweden,SWE,2020-12-11,Daily ICU occupancy,249.0
+Sweden,SWE,2020-12-11,Daily ICU occupancy per million,24.507
+Sweden,SWE,2020-12-11,Daily hospital occupancy,2267.0
+Sweden,SWE,2020-12-11,Daily hospital occupancy per million,223.126
+Sweden,SWE,2020-12-12,Daily ICU occupancy,252.0
+Sweden,SWE,2020-12-12,Daily ICU occupancy per million,24.803
+Sweden,SWE,2020-12-12,Daily hospital occupancy,2265.0
+Sweden,SWE,2020-12-12,Daily hospital occupancy per million,222.93
+Sweden,SWE,2020-12-13,Daily ICU occupancy,254.0
+Sweden,SWE,2020-12-13,Daily ICU occupancy per million,25.0
+Sweden,SWE,2020-12-13,Daily hospital occupancy,2279.0
+Sweden,SWE,2020-12-13,Daily hospital occupancy per million,224.308
+Sweden,SWE,2020-12-14,Daily ICU occupancy,250.0
+Sweden,SWE,2020-12-14,Daily ICU occupancy per million,24.606
+Sweden,SWE,2020-12-14,Daily hospital occupancy,2456.0
+Sweden,SWE,2020-12-14,Daily hospital occupancy per million,241.729
+Sweden,SWE,2020-12-15,Daily ICU occupancy,261.0
+Sweden,SWE,2020-12-15,Daily ICU occupancy per million,25.689
+Sweden,SWE,2020-12-15,Daily hospital occupancy,2523.0
+Sweden,SWE,2020-12-15,Daily hospital occupancy per million,248.323
+Sweden,SWE,2020-12-16,Daily ICU occupancy,262.0
+Sweden,SWE,2020-12-16,Daily ICU occupancy per million,25.787
+Sweden,SWE,2020-12-16,Daily hospital occupancy,2544.0
+Sweden,SWE,2020-12-16,Daily hospital occupancy per million,250.39
+Sweden,SWE,2020-12-17,Daily ICU occupancy,270.0
+Sweden,SWE,2020-12-17,Daily ICU occupancy per million,26.574
+Sweden,SWE,2020-12-17,Daily hospital occupancy,2543.0
+Sweden,SWE,2020-12-17,Daily hospital occupancy per million,250.291
+Sweden,SWE,2020-12-18,Daily ICU occupancy,280.0
+Sweden,SWE,2020-12-18,Daily ICU occupancy per million,27.559
+Sweden,SWE,2020-12-18,Daily hospital occupancy,2554.0
+Sweden,SWE,2020-12-18,Daily hospital occupancy per million,251.374
+Sweden,SWE,2020-12-19,Daily ICU occupancy,280.0
+Sweden,SWE,2020-12-19,Daily ICU occupancy per million,27.559
+Sweden,SWE,2020-12-19,Daily hospital occupancy,2561.0
+Sweden,SWE,2020-12-19,Daily hospital occupancy per million,252.063
+Sweden,SWE,2020-12-20,Daily ICU occupancy,283.0
+Sweden,SWE,2020-12-20,Daily ICU occupancy per million,27.854
+Sweden,SWE,2020-12-20,Daily hospital occupancy,2564.0
+Sweden,SWE,2020-12-20,Daily hospital occupancy per million,252.358
+Sweden,SWE,2020-12-21,Daily ICU occupancy,294.0
+Sweden,SWE,2020-12-21,Daily ICU occupancy per million,28.937
+Sweden,SWE,2020-12-21,Daily hospital occupancy,2759.0
+Sweden,SWE,2020-12-21,Daily hospital occupancy per million,271.551
+Sweden,SWE,2020-12-22,Daily ICU occupancy,300.0
+Sweden,SWE,2020-12-22,Daily ICU occupancy per million,29.527
+Sweden,SWE,2020-12-22,Daily hospital occupancy,2753.0
+Sweden,SWE,2020-12-22,Daily hospital occupancy per million,270.96
+Sweden,SWE,2020-12-23,Daily ICU occupancy,303.0
+Sweden,SWE,2020-12-23,Daily ICU occupancy per million,29.822
+Sweden,SWE,2020-12-23,Daily hospital occupancy,2719.0
+Sweden,SWE,2020-12-23,Daily hospital occupancy per million,267.614
+Sweden,SWE,2020-12-24,Daily ICU occupancy,303.0
+Sweden,SWE,2020-12-24,Daily ICU occupancy per million,29.822
+Sweden,SWE,2020-12-24,Daily hospital occupancy,2711.0
+Sweden,SWE,2020-12-24,Daily hospital occupancy per million,266.827
+Sweden,SWE,2020-12-25,Daily ICU occupancy,306.0
+Sweden,SWE,2020-12-25,Daily ICU occupancy per million,30.118
+Sweden,SWE,2020-12-25,Daily hospital occupancy,2712.0
+Sweden,SWE,2020-12-25,Daily hospital occupancy per million,266.925
+Sweden,SWE,2020-12-26,Daily ICU occupancy,305.0
+Sweden,SWE,2020-12-26,Daily ICU occupancy per million,30.019
+Sweden,SWE,2020-12-26,Daily hospital occupancy,2716.0
+Sweden,SWE,2020-12-26,Daily hospital occupancy per million,267.319
+Sweden,SWE,2020-12-27,Daily ICU occupancy,311.0
+Sweden,SWE,2020-12-27,Daily ICU occupancy per million,30.61
+Sweden,SWE,2020-12-27,Daily hospital occupancy,2734.0
+Sweden,SWE,2020-12-27,Daily hospital occupancy per million,269.09
+Sweden,SWE,2020-12-28,Daily ICU occupancy,333.0
+Sweden,SWE,2020-12-28,Daily ICU occupancy per million,32.775
+Sweden,SWE,2020-12-28,Daily hospital occupancy,2922.0
+Sweden,SWE,2020-12-28,Daily hospital occupancy per million,287.594
+Sweden,SWE,2020-12-29,Daily ICU occupancy,344.0
+Sweden,SWE,2020-12-29,Daily ICU occupancy per million,33.858
+Sweden,SWE,2020-12-29,Daily hospital occupancy,2898.0
+Sweden,SWE,2020-12-29,Daily hospital occupancy per million,285.232
+Sweden,SWE,2020-12-30,Daily ICU occupancy,339.0
+Sweden,SWE,2020-12-30,Daily ICU occupancy per million,33.366
+Sweden,SWE,2020-12-30,Daily hospital occupancy,2906.0
+Sweden,SWE,2020-12-30,Daily hospital occupancy per million,286.019
+Sweden,SWE,2020-12-31,Daily ICU occupancy,336.0
+Sweden,SWE,2020-12-31,Daily ICU occupancy per million,33.07
+Sweden,SWE,2020-12-31,Daily hospital occupancy,2906.0
+Sweden,SWE,2020-12-31,Daily hospital occupancy per million,286.019
+Sweden,SWE,2021-01-01,Daily ICU occupancy,335.0
+Sweden,SWE,2021-01-01,Daily ICU occupancy per million,32.972
+Sweden,SWE,2021-01-01,Daily hospital occupancy,2901.0
+Sweden,SWE,2021-01-01,Daily hospital occupancy per million,285.527
+Sweden,SWE,2021-01-02,Daily ICU occupancy,334.0
+Sweden,SWE,2021-01-02,Daily ICU occupancy per million,32.874
+Sweden,SWE,2021-01-02,Daily hospital occupancy,2905.0
+Sweden,SWE,2021-01-02,Daily hospital occupancy per million,285.921
+Sweden,SWE,2021-01-03,Daily ICU occupancy,348.0
+Sweden,SWE,2021-01-03,Daily ICU occupancy per million,34.251
+Sweden,SWE,2021-01-03,Daily hospital occupancy,2949.0
+Sweden,SWE,2021-01-03,Daily hospital occupancy per million,290.251
+Sweden,SWE,2021-01-04,Daily ICU occupancy,361.0
+Sweden,SWE,2021-01-04,Daily ICU occupancy per million,35.531
+Sweden,SWE,2021-01-04,Daily hospital occupancy,3004.0
+Sweden,SWE,2021-01-04,Daily hospital occupancy per million,295.665
+Sweden,SWE,2021-01-05,Daily ICU occupancy,368.0
+Sweden,SWE,2021-01-05,Daily ICU occupancy per million,36.22
+Sweden,SWE,2021-01-05,Daily hospital occupancy,2996.0
+Sweden,SWE,2021-01-05,Daily hospital occupancy per million,294.877
+Sweden,SWE,2021-01-06,Daily ICU occupancy,372.0
+Sweden,SWE,2021-01-06,Daily ICU occupancy per million,36.614
+Sweden,SWE,2021-01-06,Daily hospital occupancy,2962.0
+Sweden,SWE,2021-01-06,Daily hospital occupancy per million,291.531
+Sweden,SWE,2021-01-07,Daily ICU occupancy,377.0
+Sweden,SWE,2021-01-07,Daily ICU occupancy per million,37.106
+Sweden,SWE,2021-01-07,Daily hospital occupancy,2908.0
+Sweden,SWE,2021-01-07,Daily hospital occupancy per million,286.216
+Sweden,SWE,2021-01-08,Daily ICU occupancy,374.0
+Sweden,SWE,2021-01-08,Daily ICU occupancy per million,36.81
+Sweden,SWE,2021-01-08,Daily hospital occupancy,2852.0
+Sweden,SWE,2021-01-08,Daily hospital occupancy per million,280.704
+Sweden,SWE,2021-01-09,Daily ICU occupancy,373.0
+Sweden,SWE,2021-01-09,Daily ICU occupancy per million,36.712
+Sweden,SWE,2021-01-09,Daily hospital occupancy,2845.0
+Sweden,SWE,2021-01-09,Daily hospital occupancy per million,280.015
+Sweden,SWE,2021-01-10,Daily ICU occupancy,372.0
+Sweden,SWE,2021-01-10,Daily ICU occupancy per million,36.614
+Sweden,SWE,2021-01-10,Daily hospital occupancy,2858.0
+Sweden,SWE,2021-01-10,Daily hospital occupancy per million,281.295
+Sweden,SWE,2021-01-11,Daily ICU occupancy,383.0
+Sweden,SWE,2021-01-11,Daily ICU occupancy per million,37.696
+Sweden,SWE,2021-01-11,Daily hospital occupancy,2828.0
+Sweden,SWE,2021-01-11,Daily hospital occupancy per million,278.342
+Sweden,SWE,2021-01-12,Daily ICU occupancy,369.0
+Sweden,SWE,2021-01-12,Daily ICU occupancy per million,36.318
+Sweden,SWE,2021-01-12,Daily hospital occupancy,2759.0
+Sweden,SWE,2021-01-12,Daily hospital occupancy per million,271.551
+Sweden,SWE,2021-01-13,Daily ICU occupancy,365.0
+Sweden,SWE,2021-01-13,Daily ICU occupancy per million,35.925
+Sweden,SWE,2021-01-13,Daily hospital occupancy,2739.0
+Sweden,SWE,2021-01-13,Daily hospital occupancy per million,269.582
+Sweden,SWE,2021-01-14,Daily ICU occupancy,354.0
+Sweden,SWE,2021-01-14,Daily ICU occupancy per million,34.842
+Sweden,SWE,2021-01-14,Daily hospital occupancy,2634.0
+Sweden,SWE,2021-01-14,Daily hospital occupancy per million,259.248
+Sweden,SWE,2021-01-15,Daily ICU occupancy,355.0
+Sweden,SWE,2021-01-15,Daily ICU occupancy per million,34.94
+Sweden,SWE,2021-01-15,Daily hospital occupancy,2577.0
+Sweden,SWE,2021-01-15,Daily hospital occupancy per million,253.638
+Sweden,SWE,2021-01-16,Daily ICU occupancy,354.0
+Sweden,SWE,2021-01-16,Daily ICU occupancy per million,34.842
+Sweden,SWE,2021-01-16,Daily hospital occupancy,2570.0
+Sweden,SWE,2021-01-16,Daily hospital occupancy per million,252.949
+Sweden,SWE,2021-01-17,Daily ICU occupancy,352.0
+Sweden,SWE,2021-01-17,Daily ICU occupancy per million,34.645
+Sweden,SWE,2021-01-17,Daily hospital occupancy,2532.0
+Sweden,SWE,2021-01-17,Daily hospital occupancy per million,249.209
+Sweden,SWE,2021-01-18,Daily ICU occupancy,347.0
+Sweden,SWE,2021-01-18,Daily ICU occupancy per million,34.153
+Sweden,SWE,2021-01-18,Daily hospital occupancy,2512.0
+Sweden,SWE,2021-01-18,Daily hospital occupancy per million,247.24
+Sweden,SWE,2021-01-19,Daily ICU occupancy,339.0
+Sweden,SWE,2021-01-19,Daily ICU occupancy per million,33.366
+Sweden,SWE,2021-01-19,Daily hospital occupancy,2398.0
+Sweden,SWE,2021-01-19,Daily hospital occupancy per million,236.02
+Sweden,SWE,2021-01-20,Daily ICU occupancy,328.0
+Sweden,SWE,2021-01-20,Daily ICU occupancy per million,32.283
+Sweden,SWE,2021-01-20,Daily hospital occupancy,2278.0
+Sweden,SWE,2021-01-20,Daily hospital occupancy per million,224.209
+Sweden,SWE,2021-01-21,Daily ICU occupancy,316.0
+Sweden,SWE,2021-01-21,Daily ICU occupancy per million,31.102
+Sweden,SWE,2021-01-21,Daily hospital occupancy,2210.0
+Sweden,SWE,2021-01-21,Daily hospital occupancy per million,217.516
+Sweden,SWE,2021-01-22,Daily ICU occupancy,305.0
+Sweden,SWE,2021-01-22,Daily ICU occupancy per million,30.019
+Sweden,SWE,2021-01-22,Daily hospital occupancy,2151.0
+Sweden,SWE,2021-01-22,Daily hospital occupancy per million,211.709
+Sweden,SWE,2021-01-23,Daily ICU occupancy,303.0
+Sweden,SWE,2021-01-23,Daily ICU occupancy per million,29.822
+Sweden,SWE,2021-01-23,Daily hospital occupancy,2135.0
+Sweden,SWE,2021-01-23,Daily hospital occupancy per million,210.135
+Sweden,SWE,2021-01-24,Daily ICU occupancy,294.0
+Sweden,SWE,2021-01-24,Daily ICU occupancy per million,28.937
+Sweden,SWE,2021-01-24,Daily hospital occupancy,2141.0
+Sweden,SWE,2021-01-24,Daily hospital occupancy per million,210.725
+Sweden,SWE,2021-01-25,Daily ICU occupancy,282.0
+Sweden,SWE,2021-01-25,Daily ICU occupancy per million,27.755
+Sweden,SWE,2021-01-25,Daily hospital occupancy,2132.0
+Sweden,SWE,2021-01-25,Daily hospital occupancy per million,209.839
+Sweden,SWE,2021-01-26,Daily ICU occupancy,280.0
+Sweden,SWE,2021-01-26,Daily ICU occupancy per million,27.559
+Sweden,SWE,2021-01-26,Daily hospital occupancy,2068.0
+Sweden,SWE,2021-01-26,Daily hospital occupancy per million,203.54
+Sweden,SWE,2021-01-27,Daily ICU occupancy,275.0
+Sweden,SWE,2021-01-27,Daily ICU occupancy per million,27.067
+Sweden,SWE,2021-01-27,Daily hospital occupancy,1982.0
+Sweden,SWE,2021-01-27,Daily hospital occupancy per million,195.076
+Sweden,SWE,2021-01-28,Daily ICU occupancy,272.0
+Sweden,SWE,2021-01-28,Daily ICU occupancy per million,26.771
+Sweden,SWE,2021-01-28,Daily hospital occupancy,1931.0
+Sweden,SWE,2021-01-28,Daily hospital occupancy per million,190.056
+Sweden,SWE,2021-01-29,Daily ICU occupancy,261.0
+Sweden,SWE,2021-01-29,Daily ICU occupancy per million,25.689
+Sweden,SWE,2021-01-29,Daily hospital occupancy,1862.0
+Sweden,SWE,2021-01-29,Daily hospital occupancy per million,183.265
+Sweden,SWE,2021-01-30,Daily ICU occupancy,261.0
+Sweden,SWE,2021-01-30,Daily ICU occupancy per million,25.689
+Sweden,SWE,2021-01-30,Daily hospital occupancy,1858.0
+Sweden,SWE,2021-01-30,Daily hospital occupancy per million,182.871
+Sweden,SWE,2021-01-31,Daily ICU occupancy,261.0
+Sweden,SWE,2021-01-31,Daily ICU occupancy per million,25.689
+Sweden,SWE,2021-01-31,Daily hospital occupancy,1806.0
+Sweden,SWE,2021-01-31,Daily hospital occupancy per million,177.753
+Sweden,SWE,2021-02-01,Daily ICU occupancy,248.0
+Sweden,SWE,2021-02-01,Daily ICU occupancy per million,24.409
+Sweden,SWE,2021-02-01,Daily hospital occupancy,1771.0
+Sweden,SWE,2021-02-01,Daily hospital occupancy per million,174.308
+Sweden,SWE,2021-02-02,Daily ICU occupancy,248.0
+Sweden,SWE,2021-02-02,Daily ICU occupancy per million,24.409
+Sweden,SWE,2021-02-02,Daily hospital occupancy,1739.0
+Sweden,SWE,2021-02-02,Daily hospital occupancy per million,171.159
+Sweden,SWE,2021-02-03,Daily ICU occupancy,247.0
+Sweden,SWE,2021-02-03,Daily ICU occupancy per million,24.311
+Sweden,SWE,2021-02-03,Daily hospital occupancy,1629.0
+Sweden,SWE,2021-02-03,Daily hospital occupancy per million,160.332
+Sweden,SWE,2021-02-04,Daily ICU occupancy,246.0
+Sweden,SWE,2021-02-04,Daily ICU occupancy per million,24.212
+Sweden,SWE,2021-02-04,Daily hospital occupancy,1602.0
+Sweden,SWE,2021-02-04,Daily hospital occupancy per million,157.675
+Sweden,SWE,2021-02-05,Daily ICU occupancy,242.0
+Sweden,SWE,2021-02-05,Daily ICU occupancy per million,23.819
+Sweden,SWE,2021-02-05,Daily hospital occupancy,1511.0
+Sweden,SWE,2021-02-05,Daily hospital occupancy per million,148.718
+Sweden,SWE,2021-02-06,Daily ICU occupancy,243.0
+Sweden,SWE,2021-02-06,Daily ICU occupancy per million,23.917
+Sweden,SWE,2021-02-06,Daily hospital occupancy,1498.0
+Sweden,SWE,2021-02-06,Daily hospital occupancy per million,147.439
+Sweden,SWE,2021-02-07,Daily ICU occupancy,242.0
+Sweden,SWE,2021-02-07,Daily ICU occupancy per million,23.819
+Sweden,SWE,2021-02-07,Daily hospital occupancy,1512.0
+Sweden,SWE,2021-02-07,Daily hospital occupancy per million,148.817
+Sweden,SWE,2021-02-08,Daily ICU occupancy,235.0
+Sweden,SWE,2021-02-08,Daily ICU occupancy per million,23.13
+Sweden,SWE,2021-02-08,Daily hospital occupancy,1492.0
+Sweden,SWE,2021-02-08,Daily hospital occupancy per million,146.848
+Sweden,SWE,2021-02-09,Daily ICU occupancy,231.0
+Sweden,SWE,2021-02-09,Daily ICU occupancy per million,22.736
+Sweden,SWE,2021-02-09,Daily hospital occupancy,1449.0
+Sweden,SWE,2021-02-09,Daily hospital occupancy per million,142.616
+Sweden,SWE,2021-02-10,Daily ICU occupancy,231.0
+Sweden,SWE,2021-02-10,Daily ICU occupancy per million,22.736
+Sweden,SWE,2021-02-10,Daily hospital occupancy,1395.0
+Sweden,SWE,2021-02-10,Daily hospital occupancy per million,137.301
+Sweden,SWE,2021-02-11,Daily ICU occupancy,233.0
+Sweden,SWE,2021-02-11,Daily ICU occupancy per million,22.933
+Sweden,SWE,2021-02-11,Daily hospital occupancy,1395.0
+Sweden,SWE,2021-02-11,Daily hospital occupancy per million,137.301
+Sweden,SWE,2021-02-12,Daily ICU occupancy,221.0
+Sweden,SWE,2021-02-12,Daily ICU occupancy per million,21.752
+Sweden,SWE,2021-02-12,Daily hospital occupancy,1339.0
+Sweden,SWE,2021-02-12,Daily hospital occupancy per million,131.789
+Sweden,SWE,2021-02-13,Daily ICU occupancy,222.0
+Sweden,SWE,2021-02-13,Daily ICU occupancy per million,21.85
+Sweden,SWE,2021-02-13,Daily hospital occupancy,1334.0
+Sweden,SWE,2021-02-13,Daily hospital occupancy per million,131.297
+Sweden,SWE,2021-02-14,Daily ICU occupancy,222.0
+Sweden,SWE,2021-02-14,Daily ICU occupancy per million,21.85
+Sweden,SWE,2021-02-14,Daily hospital occupancy,1336.0
+Sweden,SWE,2021-02-14,Daily hospital occupancy per million,131.494
+Sweden,SWE,2021-02-15,Daily ICU occupancy,224.0
+Sweden,SWE,2021-02-15,Daily ICU occupancy per million,22.047
+Sweden,SWE,2021-02-15,Daily hospital occupancy,1370.0
+Sweden,SWE,2021-02-15,Daily hospital occupancy per million,134.84
+Sweden,SWE,2021-02-16,Daily ICU occupancy,230.0
+Sweden,SWE,2021-02-16,Daily ICU occupancy per million,22.637
+Sweden,SWE,2021-02-16,Daily hospital occupancy,1334.0
+Sweden,SWE,2021-02-16,Daily hospital occupancy per million,131.297
+Sweden,SWE,2021-02-17,Daily ICU occupancy,228.0
+Sweden,SWE,2021-02-17,Daily ICU occupancy per million,22.441
+Sweden,SWE,2021-02-17,Daily hospital occupancy,1328.0
+Sweden,SWE,2021-02-17,Daily hospital occupancy per million,130.707
+Sweden,SWE,2021-02-18,Daily ICU occupancy,211.0
+Sweden,SWE,2021-02-18,Daily ICU occupancy per million,20.767
+Sweden,SWE,2021-02-18,Daily hospital occupancy,1276.0
+Sweden,SWE,2021-02-18,Daily hospital occupancy per million,125.589
+Sweden,SWE,2021-02-19,Daily ICU occupancy,207.0
+Sweden,SWE,2021-02-19,Daily ICU occupancy per million,20.374
+Sweden,SWE,2021-02-19,Daily hospital occupancy,1257.0
+Sweden,SWE,2021-02-19,Daily hospital occupancy per million,123.719
+Sweden,SWE,2021-02-20,Daily ICU occupancy,205.0
+Sweden,SWE,2021-02-20,Daily ICU occupancy per million,20.177
+Sweden,SWE,2021-02-20,Daily hospital occupancy,1253.0
+Sweden,SWE,2021-02-20,Daily hospital occupancy per million,123.325
+Sweden,SWE,2021-02-21,Daily ICU occupancy,206.0
+Sweden,SWE,2021-02-21,Daily ICU occupancy per million,20.275
+Sweden,SWE,2021-02-21,Daily hospital occupancy,1258.0
+Sweden,SWE,2021-02-21,Daily hospital occupancy per million,123.817
+Sweden,SWE,2021-02-22,Daily ICU occupancy,214.0
+Sweden,SWE,2021-02-22,Daily ICU occupancy per million,21.063
+Sweden,SWE,2021-02-22,Daily hospital occupancy,1357.0
+Sweden,SWE,2021-02-22,Daily hospital occupancy per million,133.561
+Sweden,SWE,2021-02-23,Daily ICU occupancy,219.0
+Sweden,SWE,2021-02-23,Daily ICU occupancy per million,21.555
+Sweden,SWE,2021-02-23,Daily hospital occupancy,1338.0
+Sweden,SWE,2021-02-23,Daily hospital occupancy per million,131.691
+Sweden,SWE,2021-02-24,Daily ICU occupancy,225.0
+Sweden,SWE,2021-02-24,Daily ICU occupancy per million,22.145
+Sweden,SWE,2021-02-24,Daily hospital occupancy,1333.0
+Sweden,SWE,2021-02-24,Daily hospital occupancy per million,131.199
+Sweden,SWE,2021-02-25,Daily ICU occupancy,232.0
+Sweden,SWE,2021-02-25,Daily ICU occupancy per million,22.834
+Sweden,SWE,2021-02-25,Daily hospital occupancy,1310.0
+Sweden,SWE,2021-02-25,Daily hospital occupancy per million,128.935
+Sweden,SWE,2021-02-26,Daily ICU occupancy,223.0
+Sweden,SWE,2021-02-26,Daily ICU occupancy per million,21.948
+Sweden,SWE,2021-02-26,Daily hospital occupancy,1321.0
+Sweden,SWE,2021-02-26,Daily hospital occupancy per million,130.018
+Sweden,SWE,2021-02-27,Daily ICU occupancy,223.0
+Sweden,SWE,2021-02-27,Daily ICU occupancy per million,21.948
+Sweden,SWE,2021-02-27,Daily hospital occupancy,1318.0
+Sweden,SWE,2021-02-27,Daily hospital occupancy per million,129.722
+Sweden,SWE,2021-02-28,Daily ICU occupancy,222.0
+Sweden,SWE,2021-02-28,Daily ICU occupancy per million,21.85
+Sweden,SWE,2021-02-28,Daily hospital occupancy,1331.0
+Sweden,SWE,2021-02-28,Daily hospital occupancy per million,131.002
+Sweden,SWE,2021-03-01,Daily ICU occupancy,236.0
+Sweden,SWE,2021-03-01,Daily ICU occupancy per million,23.228
+Sweden,SWE,2021-03-01,Daily hospital occupancy,1453.0
+Sweden,SWE,2021-03-01,Daily hospital occupancy per million,143.01
+Sweden,SWE,2021-03-02,Daily ICU occupancy,231.0
+Sweden,SWE,2021-03-02,Daily ICU occupancy per million,22.736
+Sweden,SWE,2021-03-02,Daily hospital occupancy,1444.0
+Sweden,SWE,2021-03-02,Daily hospital occupancy per million,142.124
+Sweden,SWE,2021-03-03,Daily ICU occupancy,238.0
+Sweden,SWE,2021-03-03,Daily ICU occupancy per million,23.425
+Sweden,SWE,2021-03-03,Daily hospital occupancy,1432.0
+Sweden,SWE,2021-03-03,Daily hospital occupancy per million,140.943
+Sweden,SWE,2021-03-04,Daily ICU occupancy,235.0
+Sweden,SWE,2021-03-04,Daily ICU occupancy per million,23.13
+Sweden,SWE,2021-03-04,Daily hospital occupancy,1412.0
+Sweden,SWE,2021-03-04,Daily hospital occupancy per million,138.974
+Sweden,SWE,2021-03-05,Daily ICU occupancy,232.0
+Sweden,SWE,2021-03-05,Daily ICU occupancy per million,22.834
+Sweden,SWE,2021-03-05,Daily hospital occupancy,1407.0
+Sweden,SWE,2021-03-05,Daily hospital occupancy per million,138.482
+Sweden,SWE,2021-03-06,Daily ICU occupancy,232.0
+Sweden,SWE,2021-03-06,Daily ICU occupancy per million,22.834
+Sweden,SWE,2021-03-06,Daily hospital occupancy,1407.0
+Sweden,SWE,2021-03-06,Daily hospital occupancy per million,138.482
+Sweden,SWE,2021-03-07,Daily ICU occupancy,236.0
+Sweden,SWE,2021-03-07,Daily ICU occupancy per million,23.228
+Sweden,SWE,2021-03-07,Daily hospital occupancy,1435.0
+Sweden,SWE,2021-03-07,Daily hospital occupancy per million,141.238
+Sweden,SWE,2021-03-08,Daily ICU occupancy,239.0
+Sweden,SWE,2021-03-08,Daily ICU occupancy per million,23.523
+Sweden,SWE,2021-03-08,Daily hospital occupancy,1498.0
+Sweden,SWE,2021-03-08,Daily hospital occupancy per million,147.439
+Sweden,SWE,2021-03-09,Daily ICU occupancy,229.0
+Sweden,SWE,2021-03-09,Daily ICU occupancy per million,22.539
+Sweden,SWE,2021-03-09,Daily hospital occupancy,1487.0
+Sweden,SWE,2021-03-09,Daily hospital occupancy per million,146.356
+Sweden,SWE,2021-03-10,Daily ICU occupancy,228.0
+Sweden,SWE,2021-03-10,Daily ICU occupancy per million,22.441
+Sweden,SWE,2021-03-10,Daily hospital occupancy,1472.0
+Sweden,SWE,2021-03-10,Daily hospital occupancy per million,144.88
+Sweden,SWE,2021-03-11,Daily ICU occupancy,225.0
+Sweden,SWE,2021-03-11,Daily ICU occupancy per million,22.145
+Sweden,SWE,2021-03-11,Daily hospital occupancy,1457.0
+Sweden,SWE,2021-03-11,Daily hospital occupancy per million,143.403
+Sweden,SWE,2021-03-12,Daily ICU occupancy,242.0
+Sweden,SWE,2021-03-12,Daily ICU occupancy per million,23.819
+Sweden,SWE,2021-03-12,Daily hospital occupancy,1496.0
+Sweden,SWE,2021-03-12,Daily hospital occupancy per million,147.242
+Sweden,SWE,2021-03-13,Daily ICU occupancy,243.0
+Sweden,SWE,2021-03-13,Daily ICU occupancy per million,23.917
+Sweden,SWE,2021-03-13,Daily hospital occupancy,1497.0
+Sweden,SWE,2021-03-13,Daily hospital occupancy per million,147.34
+Sweden,SWE,2021-03-14,Daily ICU occupancy,244.0
+Sweden,SWE,2021-03-14,Daily ICU occupancy per million,24.015
+Sweden,SWE,2021-03-14,Daily hospital occupancy,1539.0
+Sweden,SWE,2021-03-14,Daily hospital occupancy per million,151.474
+Sweden,SWE,2021-03-15,Daily ICU occupancy,259.0
+Sweden,SWE,2021-03-15,Daily ICU occupancy per million,25.492
+Sweden,SWE,2021-03-15,Daily hospital occupancy,1643.0
+Sweden,SWE,2021-03-15,Daily hospital occupancy per million,161.71
+Sweden,SWE,2021-03-16,Daily ICU occupancy,259.0
+Sweden,SWE,2021-03-16,Daily ICU occupancy per million,25.492
+Sweden,SWE,2021-03-16,Daily hospital occupancy,1616.0
+Sweden,SWE,2021-03-16,Daily hospital occupancy per million,159.053
+Sweden,SWE,2021-03-17,Daily ICU occupancy,265.0
+Sweden,SWE,2021-03-17,Daily ICU occupancy per million,26.082
+Sweden,SWE,2021-03-17,Daily hospital occupancy,1585.0
+Sweden,SWE,2021-03-17,Daily hospital occupancy per million,156.001
+Sweden,SWE,2021-03-18,Daily ICU occupancy,267.0
+Sweden,SWE,2021-03-18,Daily ICU occupancy per million,26.279
+Sweden,SWE,2021-03-18,Daily hospital occupancy,1602.0
+Sweden,SWE,2021-03-18,Daily hospital occupancy per million,157.675
+Sweden,SWE,2021-03-19,Daily ICU occupancy,267.0
+Sweden,SWE,2021-03-19,Daily ICU occupancy per million,26.279
+Sweden,SWE,2021-03-19,Daily hospital occupancy,1606.0
+Sweden,SWE,2021-03-19,Daily hospital occupancy per million,158.068
+Sweden,SWE,2021-03-20,Daily ICU occupancy,270.0
+Sweden,SWE,2021-03-20,Daily ICU occupancy per million,26.574
+Sweden,SWE,2021-03-20,Daily hospital occupancy,1607.0
+Sweden,SWE,2021-03-20,Daily hospital occupancy per million,158.167
+Sweden,SWE,2021-03-21,Daily ICU occupancy,273.0
+Sweden,SWE,2021-03-21,Daily ICU occupancy per million,26.87
+Sweden,SWE,2021-03-21,Daily hospital occupancy,1620.0
+Sweden,SWE,2021-03-21,Daily hospital occupancy per million,159.446
+Sweden,SWE,2021-03-22,Daily ICU occupancy,289.0
+Sweden,SWE,2021-03-22,Daily ICU occupancy per million,28.444
+Sweden,SWE,2021-03-22,Daily hospital occupancy,1729.0
+Sweden,SWE,2021-03-22,Daily hospital occupancy per million,170.175
+Sweden,SWE,2021-03-23,Daily ICU occupancy,276.0
+Sweden,SWE,2021-03-23,Daily ICU occupancy per million,27.165
+Sweden,SWE,2021-03-23,Daily hospital occupancy,1728.0
+Sweden,SWE,2021-03-23,Daily hospital occupancy per million,170.076
+Sweden,SWE,2021-03-24,Daily ICU occupancy,279.0
+Sweden,SWE,2021-03-24,Daily ICU occupancy per million,27.46
+Sweden,SWE,2021-03-24,Daily hospital occupancy,1707.0
+Sweden,SWE,2021-03-24,Daily hospital occupancy per million,168.009
+Sweden,SWE,2021-03-25,Daily ICU occupancy,304.0
+Sweden,SWE,2021-03-25,Daily ICU occupancy per million,29.921
+Sweden,SWE,2021-03-25,Daily hospital occupancy,1714.0
+Sweden,SWE,2021-03-25,Daily hospital occupancy per million,168.698
+Sweden,SWE,2021-03-26,Daily ICU occupancy,295.0
+Sweden,SWE,2021-03-26,Daily ICU occupancy per million,29.035
+Sweden,SWE,2021-03-26,Daily hospital occupancy,1711.0
+Sweden,SWE,2021-03-26,Daily hospital occupancy per million,168.403
+Sweden,SWE,2021-03-27,Daily ICU occupancy,295.0
+Sweden,SWE,2021-03-27,Daily ICU occupancy per million,29.035
+Sweden,SWE,2021-03-27,Daily hospital occupancy,1706.0
+Sweden,SWE,2021-03-27,Daily hospital occupancy per million,167.911
+Sweden,SWE,2021-03-28,Daily ICU occupancy,297.0
+Sweden,SWE,2021-03-28,Daily ICU occupancy per million,29.232
+Sweden,SWE,2021-03-28,Daily hospital occupancy,1718.0
+Sweden,SWE,2021-03-28,Daily hospital occupancy per million,169.092
+Sweden,SWE,2021-03-29,Daily ICU occupancy,301.0
+Sweden,SWE,2021-03-29,Daily ICU occupancy per million,29.626
+Sweden,SWE,2021-03-29,Daily hospital occupancy,1743.0
+Sweden,SWE,2021-03-29,Daily hospital occupancy per million,171.552
+Sweden,SWE,2021-03-30,Daily ICU occupancy,302.0
+Sweden,SWE,2021-03-30,Daily ICU occupancy per million,29.724
+Sweden,SWE,2021-03-30,Daily hospital occupancy,1882.0
+Sweden,SWE,2021-03-30,Daily hospital occupancy per million,185.233
+Sweden,SWE,2021-03-31,Daily ICU occupancy,322.0
+Sweden,SWE,2021-03-31,Daily ICU occupancy per million,31.692
+Sweden,SWE,2021-03-31,Daily hospital occupancy,1870.0
+Sweden,SWE,2021-03-31,Daily hospital occupancy per million,184.052
+Sweden,SWE,2021-04-01,Daily ICU occupancy,332.0
+Sweden,SWE,2021-04-01,Daily ICU occupancy per million,32.677
+Sweden,SWE,2021-04-01,Daily hospital occupancy,1871.0
+Sweden,SWE,2021-04-01,Daily hospital occupancy per million,184.151
+Sweden,SWE,2021-04-02,Daily ICU occupancy,331.0
+Sweden,SWE,2021-04-02,Daily ICU occupancy per million,32.578
+Sweden,SWE,2021-04-02,Daily hospital occupancy,1873.0
+Sweden,SWE,2021-04-02,Daily hospital occupancy per million,184.348
+Sweden,SWE,2021-04-03,Daily ICU occupancy,331.0
+Sweden,SWE,2021-04-03,Daily ICU occupancy per million,32.578
+Sweden,SWE,2021-04-03,Daily hospital occupancy,1885.0
+Sweden,SWE,2021-04-03,Daily hospital occupancy per million,185.529
+Sweden,SWE,2021-04-04,Daily ICU occupancy,329.0
+Sweden,SWE,2021-04-04,Daily ICU occupancy per million,32.381
+Sweden,SWE,2021-04-04,Daily hospital occupancy,1891.0
+Sweden,SWE,2021-04-04,Daily hospital occupancy per million,186.119
+Sweden,SWE,2021-04-05,Daily ICU occupancy,346.0
+Sweden,SWE,2021-04-05,Daily ICU occupancy per million,34.055
+Sweden,SWE,2021-04-05,Daily hospital occupancy,1902.0
+Sweden,SWE,2021-04-05,Daily hospital occupancy per million,187.202
+Sweden,SWE,2021-04-06,Daily ICU occupancy,352.0
+Sweden,SWE,2021-04-06,Daily ICU occupancy per million,34.645
+Sweden,SWE,2021-04-06,Daily hospital occupancy,2052.0
+Sweden,SWE,2021-04-06,Daily hospital occupancy per million,201.965
+Sweden,SWE,2021-04-07,Daily ICU occupancy,358.0
+Sweden,SWE,2021-04-07,Daily ICU occupancy per million,35.236
+Sweden,SWE,2021-04-07,Daily hospital occupancy,2069.0
+Sweden,SWE,2021-04-07,Daily hospital occupancy per million,203.639
+Sweden,SWE,2021-04-08,Daily ICU occupancy,359.0
+Sweden,SWE,2021-04-08,Daily ICU occupancy per million,35.334
+Sweden,SWE,2021-04-08,Daily hospital occupancy,2062.0
+Sweden,SWE,2021-04-08,Daily hospital occupancy per million,202.95
+Sweden,SWE,2021-04-09,Daily ICU occupancy,368.0
+Sweden,SWE,2021-04-09,Daily ICU occupancy per million,36.22
+Sweden,SWE,2021-04-09,Daily hospital occupancy,2085.0
+Sweden,SWE,2021-04-09,Daily hospital occupancy per million,205.213
+Sweden,SWE,2021-04-10,Daily ICU occupancy,368.0
+Sweden,SWE,2021-04-10,Daily ICU occupancy per million,36.22
+Sweden,SWE,2021-04-10,Daily hospital occupancy,2093.0
+Sweden,SWE,2021-04-10,Daily hospital occupancy per million,206.001
+Sweden,SWE,2021-04-11,Daily ICU occupancy,376.0
+Sweden,SWE,2021-04-11,Daily ICU occupancy per million,37.007
+Sweden,SWE,2021-04-11,Daily hospital occupancy,2098.0
+Sweden,SWE,2021-04-11,Daily hospital occupancy per million,206.493
+Sweden,SWE,2021-04-12,Daily ICU occupancy,394.0
+Sweden,SWE,2021-04-12,Daily ICU occupancy per million,38.779
+Sweden,SWE,2021-04-12,Daily hospital occupancy,2165.0
+Sweden,SWE,2021-04-12,Daily hospital occupancy per million,213.087
+Sweden,SWE,2021-04-13,Daily ICU occupancy,387.0
+Sweden,SWE,2021-04-13,Daily ICU occupancy per million,38.09
+Sweden,SWE,2021-04-13,Daily hospital occupancy,2177.0
+Sweden,SWE,2021-04-13,Daily hospital occupancy per million,214.268
+Sweden,SWE,2021-04-14,Daily ICU occupancy,390.0
+Sweden,SWE,2021-04-14,Daily ICU occupancy per million,38.385
+Sweden,SWE,2021-04-14,Daily hospital occupancy,2134.0
+Sweden,SWE,2021-04-14,Daily hospital occupancy per million,210.036
+Sweden,SWE,2021-04-15,Daily ICU occupancy,386.0
+Sweden,SWE,2021-04-15,Daily ICU occupancy per million,37.992
+Sweden,SWE,2021-04-15,Daily hospital occupancy,2131.0
+Sweden,SWE,2021-04-15,Daily hospital occupancy per million,209.741
+Sweden,SWE,2021-04-16,Daily ICU occupancy,397.0
+Sweden,SWE,2021-04-16,Daily ICU occupancy per million,39.074
+Sweden,SWE,2021-04-16,Daily hospital occupancy,2142.0
+Sweden,SWE,2021-04-16,Daily hospital occupancy per million,210.823
+Sweden,SWE,2021-04-17,Daily ICU occupancy,397.0
+Sweden,SWE,2021-04-17,Daily ICU occupancy per million,39.074
+Sweden,SWE,2021-04-17,Daily hospital occupancy,2140.0
+Sweden,SWE,2021-04-17,Daily hospital occupancy per million,210.627
+Sweden,SWE,2021-04-18,Daily ICU occupancy,397.0
+Sweden,SWE,2021-04-18,Daily ICU occupancy per million,39.074
+Sweden,SWE,2021-04-18,Daily hospital occupancy,2146.0
+Sweden,SWE,2021-04-18,Daily hospital occupancy per million,211.217
+Sweden,SWE,2021-04-19,Daily ICU occupancy,420.0
+Sweden,SWE,2021-04-19,Daily ICU occupancy per million,41.338
+Sweden,SWE,2021-04-19,Daily hospital occupancy,2228.0
+Sweden,SWE,2021-04-19,Daily hospital occupancy per million,219.288
+Sweden,SWE,2021-04-20,Daily ICU occupancy,415.0
+Sweden,SWE,2021-04-20,Daily ICU occupancy per million,40.846
+Sweden,SWE,2021-04-20,Daily hospital occupancy,2189.0
+Sweden,SWE,2021-04-20,Daily hospital occupancy per million,215.449
+Sweden,SWE,2021-04-21,Daily ICU occupancy,409.0
+Sweden,SWE,2021-04-21,Daily ICU occupancy per million,40.255
+Sweden,SWE,2021-04-21,Daily hospital occupancy,2147.0
+Sweden,SWE,2021-04-21,Daily hospital occupancy per million,211.316
+Sweden,SWE,2021-04-22,Daily ICU occupancy,415.0
+Sweden,SWE,2021-04-22,Daily ICU occupancy per million,40.846
+Sweden,SWE,2021-04-22,Daily hospital occupancy,2154.0
+Sweden,SWE,2021-04-22,Daily hospital occupancy per million,212.005
+Sweden,SWE,2021-04-23,Daily ICU occupancy,398.0
+Sweden,SWE,2021-04-23,Daily ICU occupancy per million,39.173
+Sweden,SWE,2021-04-23,Daily hospital occupancy,2106.0
+Sweden,SWE,2021-04-23,Daily hospital occupancy per million,207.28
+Sweden,SWE,2021-04-24,Daily ICU occupancy,396.0
+Sweden,SWE,2021-04-24,Daily ICU occupancy per million,38.976
+Sweden,SWE,2021-04-24,Daily hospital occupancy,2096.0
+Sweden,SWE,2021-04-24,Daily hospital occupancy per million,206.296
+Sweden,SWE,2021-04-25,Daily ICU occupancy,395.0
+Sweden,SWE,2021-04-25,Daily ICU occupancy per million,38.877
+Sweden,SWE,2021-04-25,Daily hospital occupancy,2107.0
+Sweden,SWE,2021-04-25,Daily hospital occupancy per million,207.379
+Sweden,SWE,2021-04-26,Daily ICU occupancy,407.0
+Sweden,SWE,2021-04-26,Daily ICU occupancy per million,40.058
+Sweden,SWE,2021-04-26,Daily hospital occupancy,2099.0
+Sweden,SWE,2021-04-26,Daily hospital occupancy per million,206.591
+Sweden,SWE,2021-04-27,Daily ICU occupancy,391.0
+Sweden,SWE,2021-04-27,Daily ICU occupancy per million,38.484
+Sweden,SWE,2021-04-27,Daily hospital occupancy,2031.0
+Sweden,SWE,2021-04-27,Daily hospital occupancy per million,199.898
+Sweden,SWE,2021-04-28,Daily ICU occupancy,399.0
+Sweden,SWE,2021-04-28,Daily ICU occupancy per million,39.271
+Sweden,SWE,2021-04-28,Daily hospital occupancy,1991.0
+Sweden,SWE,2021-04-28,Daily hospital occupancy per million,195.962
+Sweden,SWE,2021-04-29,Daily ICU occupancy,392.0
+Sweden,SWE,2021-04-29,Daily ICU occupancy per million,38.582
+Sweden,SWE,2021-04-29,Daily hospital occupancy,1963.0
+Sweden,SWE,2021-04-29,Daily hospital occupancy per million,193.206
+Sweden,SWE,2021-04-30,Daily ICU occupancy,384.0
+Sweden,SWE,2021-04-30,Daily ICU occupancy per million,37.795
+Sweden,SWE,2021-04-30,Daily hospital occupancy,1956.0
+Sweden,SWE,2021-04-30,Daily hospital occupancy per million,192.517
+Sweden,SWE,2021-05-01,Daily ICU occupancy,386.0
+Sweden,SWE,2021-05-01,Daily ICU occupancy per million,37.992
+Sweden,SWE,2021-05-01,Daily hospital occupancy,1947.0
+Sweden,SWE,2021-05-01,Daily hospital occupancy per million,191.631
+Sweden,SWE,2021-05-02,Daily ICU occupancy,380.0
+Sweden,SWE,2021-05-02,Daily ICU occupancy per million,37.401
+Sweden,SWE,2021-05-02,Daily hospital occupancy,1957.0
+Sweden,SWE,2021-05-02,Daily hospital occupancy per million,192.615
+Sweden,SWE,2021-05-03,Daily ICU occupancy,391.0
+Sweden,SWE,2021-05-03,Daily ICU occupancy per million,38.484
+Sweden,SWE,2021-05-03,Daily hospital occupancy,1923.0
+Sweden,SWE,2021-05-03,Daily hospital occupancy per million,189.269
+Sweden,SWE,2021-05-04,Daily ICU occupancy,395.0
+Sweden,SWE,2021-05-04,Daily ICU occupancy per million,38.877
+Sweden,SWE,2021-05-04,Daily hospital occupancy,1885.0
+Sweden,SWE,2021-05-04,Daily hospital occupancy per million,185.529
+Sweden,SWE,2021-05-05,Daily ICU occupancy,388.0
+Sweden,SWE,2021-05-05,Daily ICU occupancy per million,38.188
+Sweden,SWE,2021-05-05,Daily hospital occupancy,1798.0
+Sweden,SWE,2021-05-05,Daily hospital occupancy per million,176.966
+Sweden,SWE,2021-05-06,Daily ICU occupancy,384.0
+Sweden,SWE,2021-05-06,Daily ICU occupancy per million,37.795
+Sweden,SWE,2021-05-06,Daily hospital occupancy,1791.0
+Sweden,SWE,2021-05-06,Daily hospital occupancy per million,176.277
+Sweden,SWE,2021-05-07,Daily ICU occupancy,393.0
+Sweden,SWE,2021-05-07,Daily ICU occupancy per million,38.68
+Sweden,SWE,2021-05-07,Daily hospital occupancy,1781.0
+Sweden,SWE,2021-05-07,Daily hospital occupancy per million,175.293
+Sweden,SWE,2021-05-08,Daily ICU occupancy,392.0
+Sweden,SWE,2021-05-08,Daily ICU occupancy per million,38.582
+Sweden,SWE,2021-05-08,Daily hospital occupancy,1769.0
+Sweden,SWE,2021-05-08,Daily hospital occupancy per million,174.111
+Sweden,SWE,2021-05-09,Daily ICU occupancy,391.0
+Sweden,SWE,2021-05-09,Daily ICU occupancy per million,38.484
+Sweden,SWE,2021-05-09,Daily hospital occupancy,1749.0
+Sweden,SWE,2021-05-09,Daily hospital occupancy per million,172.143
+Sweden,SWE,2021-05-10,Daily ICU occupancy,377.0
+Sweden,SWE,2021-05-10,Daily ICU occupancy per million,37.106
+Sweden,SWE,2021-05-10,Daily hospital occupancy,1761.0
+Sweden,SWE,2021-05-10,Daily hospital occupancy per million,173.324
+Sweden,SWE,2021-05-11,Daily ICU occupancy,368.0
+Sweden,SWE,2021-05-11,Daily ICU occupancy per million,36.22
+Sweden,SWE,2021-05-11,Daily hospital occupancy,1745.0
+Sweden,SWE,2021-05-11,Daily hospital occupancy per million,171.749
+Sweden,SWE,2021-05-12,Daily ICU occupancy,362.0
+Sweden,SWE,2021-05-12,Daily ICU occupancy per million,35.629
+Sweden,SWE,2021-05-12,Daily hospital occupancy,1644.0
+Sweden,SWE,2021-05-12,Daily hospital occupancy per million,161.808
+Sweden,SWE,2021-05-13,Daily ICU occupancy,359.0
+Sweden,SWE,2021-05-13,Daily ICU occupancy per million,35.334
+Sweden,SWE,2021-05-13,Daily hospital occupancy,1627.0
+Sweden,SWE,2021-05-13,Daily hospital occupancy per million,160.135
+Sweden,SWE,2021-05-14,Daily ICU occupancy,338.0
+Sweden,SWE,2021-05-14,Daily ICU occupancy per million,33.267
+Sweden,SWE,2021-05-14,Daily hospital occupancy,1555.0
+Sweden,SWE,2021-05-14,Daily hospital occupancy per million,153.049
+Sweden,SWE,2021-05-15,Daily ICU occupancy,337.0
+Sweden,SWE,2021-05-15,Daily ICU occupancy per million,33.169
+Sweden,SWE,2021-05-15,Daily hospital occupancy,1546.0
+Sweden,SWE,2021-05-15,Daily hospital occupancy per million,152.163
+Sweden,SWE,2021-05-16,Daily ICU occupancy,318.0
+Sweden,SWE,2021-05-16,Daily ICU occupancy per million,31.299
+Sweden,SWE,2021-05-16,Daily hospital occupancy,1507.0
+Sweden,SWE,2021-05-16,Daily hospital occupancy per million,148.324
+Sweden,SWE,2021-05-17,Daily ICU occupancy,293.0
+Sweden,SWE,2021-05-17,Daily ICU occupancy per million,28.838
+Sweden,SWE,2021-05-17,Daily hospital occupancy,1432.0
+Sweden,SWE,2021-05-17,Daily hospital occupancy per million,140.943
+Sweden,SWE,2021-05-18,Daily ICU occupancy,281.0
+Sweden,SWE,2021-05-18,Daily ICU occupancy per million,27.657
+Sweden,SWE,2021-05-18,Daily hospital occupancy,1418.0
+Sweden,SWE,2021-05-18,Daily hospital occupancy per million,139.565
+Sweden,SWE,2021-05-19,Daily ICU occupancy,279.0
+Sweden,SWE,2021-05-19,Daily ICU occupancy per million,27.46
+Sweden,SWE,2021-05-19,Daily hospital occupancy,1329.0
+Sweden,SWE,2021-05-19,Daily hospital occupancy per million,130.805
+Sweden,SWE,2021-05-20,Daily ICU occupancy,262.0
+Sweden,SWE,2021-05-20,Daily ICU occupancy per million,25.787
+Sweden,SWE,2021-05-20,Daily hospital occupancy,1216.0
+Sweden,SWE,2021-05-20,Daily hospital occupancy per million,119.683
+Sweden,SWE,2021-05-21,Daily ICU occupancy,247.0
+Sweden,SWE,2021-05-21,Daily ICU occupancy per million,24.311
+Sweden,SWE,2021-05-21,Daily hospital occupancy,1162.0
+Sweden,SWE,2021-05-21,Daily hospital occupancy per million,114.368
+Sweden,SWE,2021-05-22,Daily ICU occupancy,246.0
+Sweden,SWE,2021-05-22,Daily ICU occupancy per million,24.212
+Sweden,SWE,2021-05-22,Daily hospital occupancy,1157.0
+Sweden,SWE,2021-05-22,Daily hospital occupancy per million,113.876
+Sweden,SWE,2021-05-23,Daily ICU occupancy,249.0
+Sweden,SWE,2021-05-23,Daily ICU occupancy per million,24.507
+Sweden,SWE,2021-05-23,Daily hospital occupancy,1148.0
+Sweden,SWE,2021-05-23,Daily hospital occupancy per million,112.99
+Sweden,SWE,2021-05-24,Daily ICU occupancy,221.0
+Sweden,SWE,2021-05-24,Daily ICU occupancy per million,21.752
+Sweden,SWE,2021-05-24,Daily hospital occupancy,1092.0
+Sweden,SWE,2021-05-24,Daily hospital occupancy per million,107.479
+Sweden,SWE,2021-05-25,Daily ICU occupancy,226.0
+Sweden,SWE,2021-05-25,Daily ICU occupancy per million,22.244
+Sweden,SWE,2021-05-25,Daily hospital occupancy,1031.0
+Sweden,SWE,2021-05-25,Daily hospital occupancy per million,101.475
+Sweden,SWE,2021-05-26,Daily ICU occupancy,217.0
+Sweden,SWE,2021-05-26,Daily ICU occupancy per million,21.358
+Sweden,SWE,2021-05-26,Daily hospital occupancy,974.0
+Sweden,SWE,2021-05-26,Daily hospital occupancy per million,95.865
+Sweden,SWE,2021-05-27,Daily ICU occupancy,216.0
+Sweden,SWE,2021-05-27,Daily ICU occupancy per million,21.26
+Sweden,SWE,2021-05-27,Daily hospital occupancy,954.0
+Sweden,SWE,2021-05-27,Daily hospital occupancy per million,93.896
+Sweden,SWE,2021-05-28,Daily ICU occupancy,206.0
+Sweden,SWE,2021-05-28,Daily ICU occupancy per million,20.275
+Sweden,SWE,2021-05-28,Daily hospital occupancy,884.0
+Sweden,SWE,2021-05-28,Daily hospital occupancy per million,87.007
+Sweden,SWE,2021-05-29,Daily ICU occupancy,208.0
+Sweden,SWE,2021-05-29,Daily ICU occupancy per million,20.472
+Sweden,SWE,2021-05-29,Daily hospital occupancy,858.0
+Sweden,SWE,2021-05-29,Daily hospital occupancy per million,84.447
+Sweden,SWE,2021-05-30,Daily ICU occupancy,206.0
+Sweden,SWE,2021-05-30,Daily ICU occupancy per million,20.275
+Sweden,SWE,2021-05-30,Daily hospital occupancy,847.0
+Sweden,SWE,2021-05-30,Daily hospital occupancy per million,83.365
+Sweden,SWE,2021-05-31,Daily ICU occupancy,195.0
+Sweden,SWE,2021-05-31,Daily ICU occupancy per million,19.193
+Sweden,SWE,2021-05-31,Daily hospital occupancy,771.0
+Sweden,SWE,2021-05-31,Daily hospital occupancy per million,75.885
+Sweden,SWE,2021-06-01,Daily ICU occupancy,189.0
+Sweden,SWE,2021-06-01,Daily ICU occupancy per million,18.602
+Sweden,SWE,2021-06-01,Daily hospital occupancy,716.0
+Sweden,SWE,2021-06-01,Daily hospital occupancy per million,70.471
+Sweden,SWE,2021-06-02,Daily ICU occupancy,176.0
+Sweden,SWE,2021-06-02,Daily ICU occupancy per million,17.323
+Sweden,SWE,2021-06-02,Daily hospital occupancy,660.0
+Sweden,SWE,2021-06-02,Daily hospital occupancy per million,64.96
+Sweden,SWE,2021-06-03,Daily ICU occupancy,170.0
+Sweden,SWE,2021-06-03,Daily ICU occupancy per million,16.732
+Sweden,SWE,2021-06-03,Daily hospital occupancy,643.0
+Sweden,SWE,2021-06-03,Daily hospital occupancy per million,63.286
+Sweden,SWE,2021-06-04,Daily ICU occupancy,160.0
+Sweden,SWE,2021-06-04,Daily ICU occupancy per million,15.748
+Sweden,SWE,2021-06-04,Daily hospital occupancy,598.0
+Sweden,SWE,2021-06-04,Daily hospital occupancy per million,58.857
+Sweden,SWE,2021-06-05,Daily ICU occupancy,161.0
+Sweden,SWE,2021-06-05,Daily ICU occupancy per million,15.846
+Sweden,SWE,2021-06-05,Daily hospital occupancy,592.0
+Sweden,SWE,2021-06-05,Daily hospital occupancy per million,58.267
+Sweden,SWE,2021-06-06,Daily ICU occupancy,150.0
+Sweden,SWE,2021-06-06,Daily ICU occupancy per million,14.764
+Sweden,SWE,2021-06-06,Daily hospital occupancy,569.0
+Sweden,SWE,2021-06-06,Daily hospital occupancy per million,56.003
+Sweden,SWE,2021-06-07,Daily ICU occupancy,147.0
+Sweden,SWE,2021-06-07,Daily ICU occupancy per million,14.468
+Sweden,SWE,2021-06-07,Daily hospital occupancy,541.0
+Sweden,SWE,2021-06-07,Daily hospital occupancy per million,53.247
+Sweden,SWE,2021-06-08,Daily ICU occupancy,139.0
+Sweden,SWE,2021-06-08,Daily ICU occupancy per million,13.681
+Sweden,SWE,2021-06-08,Daily hospital occupancy,535.0
+Sweden,SWE,2021-06-08,Daily hospital occupancy per million,52.657
+Sweden,SWE,2021-06-09,Daily ICU occupancy,126.0
+Sweden,SWE,2021-06-09,Daily ICU occupancy per million,12.401
+Sweden,SWE,2021-06-09,Daily hospital occupancy,495.0
+Sweden,SWE,2021-06-09,Daily hospital occupancy per million,48.72
+Sweden,SWE,2021-06-10,Daily ICU occupancy,125.0
+Sweden,SWE,2021-06-10,Daily ICU occupancy per million,12.303
+Sweden,SWE,2021-06-10,Daily hospital occupancy,478.0
+Sweden,SWE,2021-06-10,Daily hospital occupancy per million,47.047
+Sweden,SWE,2021-06-11,Daily ICU occupancy,120.0
+Sweden,SWE,2021-06-11,Daily ICU occupancy per million,11.811
+Sweden,SWE,2021-06-11,Daily hospital occupancy,454.0
+Sweden,SWE,2021-06-11,Daily hospital occupancy per million,44.684
+Sweden,SWE,2021-06-12,Daily ICU occupancy,119.0
+Sweden,SWE,2021-06-12,Daily ICU occupancy per million,11.712
+Sweden,SWE,2021-06-12,Daily hospital occupancy,449.0
+Sweden,SWE,2021-06-12,Daily hospital occupancy per million,44.192
+Sweden,SWE,2021-06-13,Daily ICU occupancy,118.0
+Sweden,SWE,2021-06-13,Daily ICU occupancy per million,11.614
+Sweden,SWE,2021-06-13,Daily hospital occupancy,446.0
+Sweden,SWE,2021-06-13,Daily hospital occupancy per million,43.897
+Sweden,SWE,2021-06-14,Daily ICU occupancy,111.0
+Sweden,SWE,2021-06-14,Daily ICU occupancy per million,10.925
+Sweden,SWE,2021-06-14,Daily hospital occupancy,444.0
+Sweden,SWE,2021-06-14,Daily hospital occupancy per million,43.7
+Sweden,SWE,2021-06-15,Daily ICU occupancy,100.0
+Sweden,SWE,2021-06-15,Daily ICU occupancy per million,9.842
+Sweden,SWE,2021-06-15,Daily hospital occupancy,426.0
+Sweden,SWE,2021-06-15,Daily hospital occupancy per million,41.928
+Sweden,SWE,2021-06-16,Daily ICU occupancy,97.0
+Sweden,SWE,2021-06-16,Daily ICU occupancy per million,9.547
+Sweden,SWE,2021-06-16,Daily hospital occupancy,408.0
+Sweden,SWE,2021-06-16,Daily hospital occupancy per million,40.157
+Sweden,SWE,2021-06-17,Daily ICU occupancy,90.0
+Sweden,SWE,2021-06-17,Daily ICU occupancy per million,8.858
+Sweden,SWE,2021-06-17,Daily hospital occupancy,388.0
+Sweden,SWE,2021-06-17,Daily hospital occupancy per million,38.188
+Sweden,SWE,2021-06-18,Daily ICU occupancy,84.0
+Sweden,SWE,2021-06-18,Daily ICU occupancy per million,8.268
+Sweden,SWE,2021-06-18,Daily hospital occupancy,374.0
+Sweden,SWE,2021-06-18,Daily hospital occupancy per million,36.81
+Sweden,SWE,2021-06-19,Daily ICU occupancy,85.0
+Sweden,SWE,2021-06-19,Daily ICU occupancy per million,8.366
+Sweden,SWE,2021-06-19,Daily hospital occupancy,370.0
+Sweden,SWE,2021-06-19,Daily hospital occupancy per million,36.417
+Sweden,SWE,2021-06-20,Daily ICU occupancy,82.0
+Sweden,SWE,2021-06-20,Daily ICU occupancy per million,8.071
+Sweden,SWE,2021-06-20,Daily hospital occupancy,366.0
+Sweden,SWE,2021-06-20,Daily hospital occupancy per million,36.023
+Sweden,SWE,2021-06-21,Daily ICU occupancy,76.0
+Sweden,SWE,2021-06-21,Daily ICU occupancy per million,7.48
+Sweden,SWE,2021-06-21,Daily hospital occupancy,325.0
+Sweden,SWE,2021-06-21,Daily hospital occupancy per million,31.988
+Sweden,SWE,2021-06-22,Daily ICU occupancy,65.0
+Sweden,SWE,2021-06-22,Daily ICU occupancy per million,6.398
+Sweden,SWE,2021-06-22,Daily hospital occupancy,307.0
+Sweden,SWE,2021-06-22,Daily hospital occupancy per million,30.216
+Sweden,SWE,2021-06-23,Daily ICU occupancy,64.0
+Sweden,SWE,2021-06-23,Daily ICU occupancy per million,6.299
+Sweden,SWE,2021-06-23,Daily hospital occupancy,286.0
+Sweden,SWE,2021-06-23,Daily hospital occupancy per million,28.149
+Sweden,SWE,2021-06-24,Daily ICU occupancy,67.0
+Sweden,SWE,2021-06-24,Daily ICU occupancy per million,6.594
+Sweden,SWE,2021-06-24,Daily hospital occupancy,259.0
+Sweden,SWE,2021-06-24,Daily hospital occupancy per million,25.492
+Sweden,SWE,2021-06-25,Daily ICU occupancy,67.0
+Sweden,SWE,2021-06-25,Daily ICU occupancy per million,6.594
+Sweden,SWE,2021-06-25,Daily hospital occupancy,256.0
+Sweden,SWE,2021-06-25,Daily hospital occupancy per million,25.196
+Sweden,SWE,2021-06-26,Daily ICU occupancy,67.0
+Sweden,SWE,2021-06-26,Daily ICU occupancy per million,6.594
+Sweden,SWE,2021-06-26,Daily hospital occupancy,257.0
+Sweden,SWE,2021-06-26,Daily hospital occupancy per million,25.295
+Sweden,SWE,2021-06-27,Daily ICU occupancy,67.0
+Sweden,SWE,2021-06-27,Daily ICU occupancy per million,6.594
+Sweden,SWE,2021-06-27,Daily hospital occupancy,256.0
+Sweden,SWE,2021-06-27,Daily hospital occupancy per million,25.196
+Sweden,SWE,2021-06-28,Daily ICU occupancy,61.0
+Sweden,SWE,2021-06-28,Daily ICU occupancy per million,6.004
+Sweden,SWE,2021-06-28,Daily hospital occupancy,250.0
+Sweden,SWE,2021-06-28,Daily hospital occupancy per million,24.606
+Sweden,SWE,2021-06-29,Daily ICU occupancy,48.0
+Sweden,SWE,2021-06-29,Daily ICU occupancy per million,4.724
+Sweden,SWE,2021-06-29,Daily hospital occupancy,222.0
+Sweden,SWE,2021-06-29,Daily hospital occupancy per million,21.85
+Sweden,SWE,2021-06-30,Daily ICU occupancy,43.0
+Sweden,SWE,2021-06-30,Daily ICU occupancy per million,4.232
+Sweden,SWE,2021-06-30,Daily hospital occupancy,218.0
+Sweden,SWE,2021-06-30,Daily hospital occupancy per million,21.456
+Sweden,SWE,2021-07-01,Daily ICU occupancy,40.0
+Sweden,SWE,2021-07-01,Daily ICU occupancy per million,3.937
+Sweden,SWE,2021-07-01,Daily hospital occupancy,205.0
+Sweden,SWE,2021-07-01,Daily hospital occupancy per million,20.177
+Sweden,SWE,2021-07-02,Daily ICU occupancy,40.0
+Sweden,SWE,2021-07-02,Daily ICU occupancy per million,3.937
+Sweden,SWE,2021-07-02,Daily hospital occupancy,207.0
+Sweden,SWE,2021-07-02,Daily hospital occupancy per million,20.374
+Sweden,SWE,2021-07-03,Daily ICU occupancy,40.0
+Sweden,SWE,2021-07-03,Daily ICU occupancy per million,3.937
+Sweden,SWE,2021-07-03,Daily hospital occupancy,205.0
+Sweden,SWE,2021-07-03,Daily hospital occupancy per million,20.177
+Sweden,SWE,2021-07-04,Daily ICU occupancy,38.0
+Sweden,SWE,2021-07-04,Daily ICU occupancy per million,3.74
+Sweden,SWE,2021-07-04,Daily hospital occupancy,201.0
+Sweden,SWE,2021-07-04,Daily hospital occupancy per million,19.783
+Sweden,SWE,2021-07-05,Daily ICU occupancy,33.0
+Sweden,SWE,2021-07-05,Daily ICU occupancy per million,3.248
+Sweden,SWE,2021-07-05,Daily hospital occupancy,185.0
+Sweden,SWE,2021-07-05,Daily hospital occupancy per million,18.208
+Sweden,SWE,2021-07-06,Daily ICU occupancy,30.0
+Sweden,SWE,2021-07-06,Daily ICU occupancy per million,2.953
+Sweden,SWE,2021-07-06,Daily hospital occupancy,176.0
+Sweden,SWE,2021-07-06,Daily hospital occupancy per million,17.323
+Sweden,SWE,2021-07-07,Daily ICU occupancy,30.0
+Sweden,SWE,2021-07-07,Daily ICU occupancy per million,2.953
+Sweden,SWE,2021-07-07,Daily hospital occupancy,171.0
+Sweden,SWE,2021-07-07,Daily hospital occupancy per million,16.83
+Sweden,SWE,2021-07-08,Daily ICU occupancy,28.0
+Sweden,SWE,2021-07-08,Daily ICU occupancy per million,2.756
+Sweden,SWE,2021-07-08,Daily hospital occupancy,166.0
+Sweden,SWE,2021-07-08,Daily hospital occupancy per million,16.338
+Sweden,SWE,2021-07-09,Daily ICU occupancy,26.0
+Sweden,SWE,2021-07-09,Daily ICU occupancy per million,2.559
+Sweden,SWE,2021-07-09,Daily hospital occupancy,155.0
+Sweden,SWE,2021-07-09,Daily hospital occupancy per million,15.256
+Sweden,SWE,2021-07-10,Daily ICU occupancy,26.0
+Sweden,SWE,2021-07-10,Daily ICU occupancy per million,2.559
+Sweden,SWE,2021-07-10,Daily hospital occupancy,153.0
+Sweden,SWE,2021-07-10,Daily hospital occupancy per million,15.059
+Sweden,SWE,2021-07-11,Daily ICU occupancy,25.0
+Sweden,SWE,2021-07-11,Daily ICU occupancy per million,2.461
+Sweden,SWE,2021-07-11,Daily hospital occupancy,154.0
+Sweden,SWE,2021-07-11,Daily hospital occupancy per million,15.157
+Sweden,SWE,2021-07-12,Daily ICU occupancy,21.0
+Sweden,SWE,2021-07-12,Daily ICU occupancy per million,2.067
+Sweden,SWE,2021-07-12,Daily hospital occupancy,148.0
+Sweden,SWE,2021-07-12,Daily hospital occupancy per million,14.567
+Sweden,SWE,2021-07-13,Daily ICU occupancy,20.0
+Sweden,SWE,2021-07-13,Daily ICU occupancy per million,1.968
+Sweden,SWE,2021-07-13,Daily hospital occupancy,147.0
+Sweden,SWE,2021-07-13,Daily hospital occupancy per million,14.468
+Sweden,SWE,2021-07-14,Daily ICU occupancy,21.0
+Sweden,SWE,2021-07-14,Daily ICU occupancy per million,2.067
+Sweden,SWE,2021-07-14,Daily hospital occupancy,155.0
+Sweden,SWE,2021-07-14,Daily hospital occupancy per million,15.256
+Sweden,SWE,2021-07-15,Daily ICU occupancy,19.0
+Sweden,SWE,2021-07-15,Daily ICU occupancy per million,1.87
+Sweden,SWE,2021-07-15,Daily hospital occupancy,149.0
+Sweden,SWE,2021-07-15,Daily hospital occupancy per million,14.665
+Sweden,SWE,2021-07-16,Daily ICU occupancy,19.0
+Sweden,SWE,2021-07-16,Daily ICU occupancy per million,1.87
+Sweden,SWE,2021-07-16,Daily hospital occupancy,143.0
+Sweden,SWE,2021-07-16,Daily hospital occupancy per million,14.075
+Sweden,SWE,2021-07-17,Daily ICU occupancy,19.0
+Sweden,SWE,2021-07-17,Daily ICU occupancy per million,1.87
+Sweden,SWE,2021-07-17,Daily hospital occupancy,139.0
+Sweden,SWE,2021-07-17,Daily hospital occupancy per million,13.681
+Sweden,SWE,2021-07-18,Daily ICU occupancy,19.0
+Sweden,SWE,2021-07-18,Daily ICU occupancy per million,1.87
+Sweden,SWE,2021-07-18,Daily hospital occupancy,138.0
+Sweden,SWE,2021-07-18,Daily hospital occupancy per million,13.582
+Sweden,SWE,2021-07-19,Daily ICU occupancy,23.0
+Sweden,SWE,2021-07-19,Daily ICU occupancy per million,2.264
+Sweden,SWE,2021-07-19,Daily hospital occupancy,137.0
+Sweden,SWE,2021-07-19,Daily hospital occupancy per million,13.484
+Sweden,SWE,2021-07-20,Daily ICU occupancy,23.0
+Sweden,SWE,2021-07-20,Daily ICU occupancy per million,2.264
+Sweden,SWE,2021-07-20,Daily hospital occupancy,134.0
+Sweden,SWE,2021-07-20,Daily hospital occupancy per million,13.189
+Sweden,SWE,2021-07-21,Daily ICU occupancy,24.0
+Sweden,SWE,2021-07-21,Daily ICU occupancy per million,2.362
+Sweden,SWE,2021-07-21,Daily hospital occupancy,130.0
+Sweden,SWE,2021-07-21,Daily hospital occupancy per million,12.795
+Sweden,SWE,2021-07-22,Daily ICU occupancy,23.0
+Sweden,SWE,2021-07-22,Daily ICU occupancy per million,2.264
+Sweden,SWE,2021-07-22,Daily hospital occupancy,123.0
+Sweden,SWE,2021-07-22,Daily hospital occupancy per million,12.106
+Sweden,SWE,2021-07-23,Daily ICU occupancy,22.0
+Sweden,SWE,2021-07-23,Daily ICU occupancy per million,2.165
+Sweden,SWE,2021-07-23,Daily hospital occupancy,130.0
+Sweden,SWE,2021-07-23,Daily hospital occupancy per million,12.795
+Sweden,SWE,2021-07-24,Daily ICU occupancy,22.0
+Sweden,SWE,2021-07-24,Daily ICU occupancy per million,2.165
+Sweden,SWE,2021-07-24,Daily hospital occupancy,130.0
+Sweden,SWE,2021-07-24,Daily hospital occupancy per million,12.795
+Sweden,SWE,2021-07-25,Daily ICU occupancy,22.0
+Sweden,SWE,2021-07-25,Daily ICU occupancy per million,2.165
+Sweden,SWE,2021-07-25,Daily hospital occupancy,128.0
+Sweden,SWE,2021-07-25,Daily hospital occupancy per million,12.598
+Sweden,SWE,2021-07-26,Daily ICU occupancy,21.0
+Sweden,SWE,2021-07-26,Daily ICU occupancy per million,2.067
+Sweden,SWE,2021-07-26,Daily hospital occupancy,117.0
+Sweden,SWE,2021-07-26,Daily hospital occupancy per million,11.516
+Sweden,SWE,2021-07-27,Daily ICU occupancy,21.0
+Sweden,SWE,2021-07-27,Daily ICU occupancy per million,2.067
+Sweden,SWE,2021-07-27,Daily hospital occupancy,115.0
+Sweden,SWE,2021-07-27,Daily hospital occupancy per million,11.319
+Sweden,SWE,2021-07-28,Daily ICU occupancy,19.0
+Sweden,SWE,2021-07-28,Daily ICU occupancy per million,1.87
+Sweden,SWE,2021-07-28,Daily hospital occupancy,115.0
+Sweden,SWE,2021-07-28,Daily hospital occupancy per million,11.319
+Sweden,SWE,2021-07-29,Daily ICU occupancy,16.0
+Sweden,SWE,2021-07-29,Daily ICU occupancy per million,1.575
+Sweden,SWE,2021-07-29,Daily hospital occupancy,112.0
+Sweden,SWE,2021-07-29,Daily hospital occupancy per million,11.023
+Sweden,SWE,2021-07-30,Daily ICU occupancy,16.0
+Sweden,SWE,2021-07-30,Daily ICU occupancy per million,1.575
+Sweden,SWE,2021-07-30,Daily hospital occupancy,108.0
+Sweden,SWE,2021-07-30,Daily hospital occupancy per million,10.63
+Sweden,SWE,2021-07-31,Daily ICU occupancy,16.0
+Sweden,SWE,2021-07-31,Daily ICU occupancy per million,1.575
+Sweden,SWE,2021-07-31,Daily hospital occupancy,107.0
+Sweden,SWE,2021-07-31,Daily hospital occupancy per million,10.531
+Sweden,SWE,2021-08-01,Daily ICU occupancy,16.0
+Sweden,SWE,2021-08-01,Daily ICU occupancy per million,1.575
+Sweden,SWE,2021-08-01,Daily hospital occupancy,107.0
+Sweden,SWE,2021-08-01,Daily hospital occupancy per million,10.531
+Sweden,SWE,2021-08-02,Daily ICU occupancy,20.0
+Sweden,SWE,2021-08-02,Daily ICU occupancy per million,1.968
+Sweden,SWE,2021-08-02,Daily hospital occupancy,114.0
+Sweden,SWE,2021-08-02,Daily hospital occupancy per million,11.22
+Sweden,SWE,2021-08-03,Daily ICU occupancy,23.0
+Sweden,SWE,2021-08-03,Daily ICU occupancy per million,2.264
+Sweden,SWE,2021-08-03,Daily hospital occupancy,128.0
+Sweden,SWE,2021-08-03,Daily hospital occupancy per million,12.598
+Sweden,SWE,2021-08-04,Daily ICU occupancy,25.0
+Sweden,SWE,2021-08-04,Daily ICU occupancy per million,2.461
+Sweden,SWE,2021-08-04,Daily hospital occupancy,135.0
+Sweden,SWE,2021-08-04,Daily hospital occupancy per million,13.287
+Sweden,SWE,2021-08-05,Daily ICU occupancy,28.0
+Sweden,SWE,2021-08-05,Daily ICU occupancy per million,2.756
+Sweden,SWE,2021-08-05,Daily hospital occupancy,137.0
+Sweden,SWE,2021-08-05,Daily hospital occupancy per million,13.484
+Sweden,SWE,2021-08-06,Daily ICU occupancy,29.0
+Sweden,SWE,2021-08-06,Daily ICU occupancy per million,2.854
+Sweden,SWE,2021-08-06,Daily hospital occupancy,137.0
+Sweden,SWE,2021-08-06,Daily hospital occupancy per million,13.484
+Sweden,SWE,2021-08-07,Daily ICU occupancy,29.0
+Sweden,SWE,2021-08-07,Daily ICU occupancy per million,2.854
+Sweden,SWE,2021-08-07,Daily hospital occupancy,136.0
+Sweden,SWE,2021-08-07,Daily hospital occupancy per million,13.386
+Sweden,SWE,2021-08-08,Daily ICU occupancy,29.0
+Sweden,SWE,2021-08-08,Daily ICU occupancy per million,2.854
+Sweden,SWE,2021-08-08,Daily hospital occupancy,127.0
+Sweden,SWE,2021-08-08,Daily hospital occupancy per million,12.5
+Sweden,SWE,2021-08-09,Daily ICU occupancy,27.0
+Sweden,SWE,2021-08-09,Daily ICU occupancy per million,2.657
+Sweden,SWE,2021-08-09,Daily hospital occupancy,141.0
+Sweden,SWE,2021-08-09,Daily hospital occupancy per million,13.878
+Sweden,SWE,2021-08-10,Daily ICU occupancy,26.0
+Sweden,SWE,2021-08-10,Daily ICU occupancy per million,2.559
+Sweden,SWE,2021-08-10,Daily hospital occupancy,165.0
+Sweden,SWE,2021-08-10,Daily hospital occupancy per million,16.24
+Sweden,SWE,2021-08-11,Daily ICU occupancy,29.0
+Sweden,SWE,2021-08-11,Daily ICU occupancy per million,2.854
+Sweden,SWE,2021-08-11,Daily hospital occupancy,165.0
+Sweden,SWE,2021-08-11,Daily hospital occupancy per million,16.24
+Sweden,SWE,2021-08-12,Daily ICU occupancy,26.0
+Sweden,SWE,2021-08-12,Daily ICU occupancy per million,2.559
+Sweden,SWE,2021-08-12,Daily hospital occupancy,163.0
+Sweden,SWE,2021-08-12,Daily hospital occupancy per million,16.043
+Sweden,SWE,2021-08-13,Daily ICU occupancy,27.0
+Sweden,SWE,2021-08-13,Daily ICU occupancy per million,2.657
+Sweden,SWE,2021-08-13,Daily hospital occupancy,171.0
+Sweden,SWE,2021-08-13,Daily hospital occupancy per million,16.83
+Sweden,SWE,2021-08-14,Daily ICU occupancy,26.0
+Sweden,SWE,2021-08-14,Daily ICU occupancy per million,2.559
+Sweden,SWE,2021-08-14,Daily hospital occupancy,171.0
+Sweden,SWE,2021-08-14,Daily hospital occupancy per million,16.83
+Sweden,SWE,2021-08-15,Daily ICU occupancy,25.0
+Sweden,SWE,2021-08-15,Daily ICU occupancy per million,2.461
+Sweden,SWE,2021-08-15,Daily hospital occupancy,173.0
+Sweden,SWE,2021-08-15,Daily hospital occupancy per million,17.027
+Sweden,SWE,2021-08-16,Daily ICU occupancy,28.0
+Sweden,SWE,2021-08-16,Daily ICU occupancy per million,2.756
+Sweden,SWE,2021-08-16,Daily hospital occupancy,184.0
+Sweden,SWE,2021-08-16,Daily hospital occupancy per million,18.11
+Sweden,SWE,2021-08-17,Daily ICU occupancy,32.0
+Sweden,SWE,2021-08-17,Daily ICU occupancy per million,3.15
+Sweden,SWE,2021-08-17,Daily hospital occupancy,187.0
+Sweden,SWE,2021-08-17,Daily hospital occupancy per million,18.405
+Sweden,SWE,2021-08-18,Daily ICU occupancy,33.0
+Sweden,SWE,2021-08-18,Daily ICU occupancy per million,3.248
+Sweden,SWE,2021-08-18,Daily hospital occupancy,192.0
+Sweden,SWE,2021-08-18,Daily hospital occupancy per million,18.897
+Sweden,SWE,2021-08-19,Daily ICU occupancy,33.0
+Sweden,SWE,2021-08-19,Daily ICU occupancy per million,3.248
+Sweden,SWE,2021-08-19,Daily hospital occupancy,198.0
+Sweden,SWE,2021-08-19,Daily hospital occupancy per million,19.488
+Sweden,SWE,2021-08-20,Daily ICU occupancy,35.0
+Sweden,SWE,2021-08-20,Daily ICU occupancy per million,3.445
+Sweden,SWE,2021-08-20,Daily hospital occupancy,221.0
+Sweden,SWE,2021-08-20,Daily hospital occupancy per million,21.752
+Sweden,SWE,2021-08-21,Daily ICU occupancy,35.0
+Sweden,SWE,2021-08-21,Daily ICU occupancy per million,3.445
+Sweden,SWE,2021-08-21,Daily hospital occupancy,220.0
+Sweden,SWE,2021-08-21,Daily hospital occupancy per million,21.653
+Sweden,SWE,2021-08-22,Daily ICU occupancy,35.0
+Sweden,SWE,2021-08-22,Daily ICU occupancy per million,3.445
+Sweden,SWE,2021-08-22,Daily hospital occupancy,218.0
+Sweden,SWE,2021-08-22,Daily hospital occupancy per million,21.456
+Sweden,SWE,2021-08-23,Daily ICU occupancy,36.0
+Sweden,SWE,2021-08-23,Daily ICU occupancy per million,3.543
+Sweden,SWE,2021-08-23,Daily hospital occupancy,215.0
+Sweden,SWE,2021-08-23,Daily hospital occupancy per million,21.161
+Sweden,SWE,2021-08-24,Daily ICU occupancy,38.0
+Sweden,SWE,2021-08-24,Daily ICU occupancy per million,3.74
+Sweden,SWE,2021-08-24,Daily hospital occupancy,234.0
+Sweden,SWE,2021-08-24,Daily hospital occupancy per million,23.031
+Sweden,SWE,2021-08-25,Daily ICU occupancy,40.0
+Sweden,SWE,2021-08-25,Daily ICU occupancy per million,3.937
+Sweden,SWE,2021-08-25,Daily hospital occupancy,248.0
+Sweden,SWE,2021-08-25,Daily hospital occupancy per million,24.409
+Sweden,SWE,2021-08-26,Daily ICU occupancy,40.0
+Sweden,SWE,2021-08-26,Daily ICU occupancy per million,3.937
+Sweden,SWE,2021-08-26,Daily hospital occupancy,250.0
+Sweden,SWE,2021-08-26,Daily hospital occupancy per million,24.606
+Sweden,SWE,2021-08-27,Daily ICU occupancy,42.0
+Sweden,SWE,2021-08-27,Daily ICU occupancy per million,4.134
+Sweden,SWE,2021-08-27,Daily hospital occupancy,244.0
+Sweden,SWE,2021-08-27,Daily hospital occupancy per million,24.015
+Sweden,SWE,2021-08-28,Daily ICU occupancy,43.0
+Sweden,SWE,2021-08-28,Daily ICU occupancy per million,4.232
+Sweden,SWE,2021-08-28,Daily hospital occupancy,245.0
+Sweden,SWE,2021-08-28,Daily hospital occupancy per million,24.114
+Sweden,SWE,2021-08-29,Daily ICU occupancy,41.0
+Sweden,SWE,2021-08-29,Daily ICU occupancy per million,4.035
+Sweden,SWE,2021-08-29,Daily hospital occupancy,257.0
+Sweden,SWE,2021-08-29,Daily hospital occupancy per million,25.295
+Sweden,SWE,2021-08-30,Daily ICU occupancy,46.0
+Sweden,SWE,2021-08-30,Daily ICU occupancy per million,4.527
+Sweden,SWE,2021-08-30,Daily hospital occupancy,266.0
+Sweden,SWE,2021-08-30,Daily hospital occupancy per million,26.181
+Sweden,SWE,2021-08-31,Daily ICU occupancy,44.0
+Sweden,SWE,2021-08-31,Daily ICU occupancy per million,4.331
+Sweden,SWE,2021-08-31,Daily hospital occupancy,311.0
+Sweden,SWE,2021-08-31,Daily hospital occupancy per million,30.61
+Sweden,SWE,2021-09-01,Daily ICU occupancy,43.0
+Sweden,SWE,2021-09-01,Daily ICU occupancy per million,4.232
+Sweden,SWE,2021-09-01,Daily hospital occupancy,310.0
+Sweden,SWE,2021-09-01,Daily hospital occupancy per million,30.511
+Sweden,SWE,2021-09-02,Daily ICU occupancy,43.0
+Sweden,SWE,2021-09-02,Daily ICU occupancy per million,4.232
+Sweden,SWE,2021-09-02,Daily hospital occupancy,305.0
+Sweden,SWE,2021-09-02,Daily hospital occupancy per million,30.019
+Sweden,SWE,2021-09-03,Daily ICU occupancy,49.0
+Sweden,SWE,2021-09-03,Daily ICU occupancy per million,4.823
+Sweden,SWE,2021-09-03,Daily hospital occupancy,318.0
+Sweden,SWE,2021-09-03,Daily hospital occupancy per million,31.299
+Sweden,SWE,2021-09-04,Daily ICU occupancy,49.0
+Sweden,SWE,2021-09-04,Daily ICU occupancy per million,4.823
+Sweden,SWE,2021-09-04,Daily hospital occupancy,318.0
+Sweden,SWE,2021-09-04,Daily hospital occupancy per million,31.299
+Sweden,SWE,2021-09-05,Daily ICU occupancy,50.0
+Sweden,SWE,2021-09-05,Daily ICU occupancy per million,4.921
+Sweden,SWE,2021-09-05,Daily hospital occupancy,322.0
+Sweden,SWE,2021-09-05,Daily hospital occupancy per million,31.692
+Sweden,SWE,2021-09-06,Daily ICU occupancy,52.0
+Sweden,SWE,2021-09-06,Daily ICU occupancy per million,5.118
+Sweden,SWE,2021-09-06,Daily hospital occupancy,304.0
+Sweden,SWE,2021-09-06,Daily hospital occupancy per million,29.921
+Sweden,SWE,2021-09-07,Daily ICU occupancy,57.0
+Sweden,SWE,2021-09-07,Daily ICU occupancy per million,5.61
+Sweden,SWE,2021-09-07,Daily hospital occupancy,322.0
+Sweden,SWE,2021-09-07,Daily hospital occupancy per million,31.692
+Sweden,SWE,2021-09-08,Daily ICU occupancy,57.0
+Sweden,SWE,2021-09-08,Daily ICU occupancy per million,5.61
+Sweden,SWE,2021-09-08,Daily hospital occupancy,330.0
+Sweden,SWE,2021-09-08,Daily hospital occupancy per million,32.48
+Sweden,SWE,2021-09-09,Daily ICU occupancy,57.0
+Sweden,SWE,2021-09-09,Daily ICU occupancy per million,5.61
+Sweden,SWE,2021-09-09,Daily hospital occupancy,333.0
+Sweden,SWE,2021-09-09,Daily hospital occupancy per million,32.775
+Sweden,SWE,2021-09-10,Daily ICU occupancy,55.0
+Sweden,SWE,2021-09-10,Daily ICU occupancy per million,5.413
+Sweden,SWE,2021-09-10,Daily hospital occupancy,344.0
+Sweden,SWE,2021-09-10,Daily hospital occupancy per million,33.858
+Sweden,SWE,2021-09-11,Daily ICU occupancy,55.0
+Sweden,SWE,2021-09-11,Daily ICU occupancy per million,5.413
+Sweden,SWE,2021-09-11,Daily hospital occupancy,344.0
+Sweden,SWE,2021-09-11,Daily hospital occupancy per million,33.858
+Sweden,SWE,2021-09-12,Daily ICU occupancy,55.0
+Sweden,SWE,2021-09-12,Daily ICU occupancy per million,5.413
+Sweden,SWE,2021-09-12,Daily hospital occupancy,340.0
+Sweden,SWE,2021-09-12,Daily hospital occupancy per million,33.464
+Sweden,SWE,2021-09-13,Daily ICU occupancy,48.0
+Sweden,SWE,2021-09-13,Daily ICU occupancy per million,4.724
+Sweden,SWE,2021-09-13,Daily hospital occupancy,324.0
+Sweden,SWE,2021-09-13,Daily hospital occupancy per million,31.889
+Sweden,SWE,2021-09-14,Daily ICU occupancy,49.0
+Sweden,SWE,2021-09-14,Daily ICU occupancy per million,4.823
+Sweden,SWE,2021-09-14,Daily hospital occupancy,336.0
+Sweden,SWE,2021-09-14,Daily hospital occupancy per million,33.07
+Sweden,SWE,2021-09-15,Daily ICU occupancy,48.0
+Sweden,SWE,2021-09-15,Daily ICU occupancy per million,4.724
+Sweden,SWE,2021-09-15,Daily hospital occupancy,324.0
+Sweden,SWE,2021-09-15,Daily hospital occupancy per million,31.889
+Sweden,SWE,2021-09-16,Daily ICU occupancy,47.0
+Sweden,SWE,2021-09-16,Daily ICU occupancy per million,4.626
+Sweden,SWE,2021-09-16,Daily hospital occupancy,321.0
+Sweden,SWE,2021-09-16,Daily hospital occupancy per million,31.594
+Sweden,SWE,2021-09-17,Daily ICU occupancy,44.0
+Sweden,SWE,2021-09-17,Daily ICU occupancy per million,4.331
+Sweden,SWE,2021-09-17,Daily hospital occupancy,298.0
+Sweden,SWE,2021-09-17,Daily hospital occupancy per million,29.33
+Sweden,SWE,2021-09-18,Daily ICU occupancy,44.0
+Sweden,SWE,2021-09-18,Daily ICU occupancy per million,4.331
+Sweden,SWE,2021-09-18,Daily hospital occupancy,298.0
+Sweden,SWE,2021-09-18,Daily hospital occupancy per million,29.33
+Sweden,SWE,2021-09-19,Daily ICU occupancy,44.0
+Sweden,SWE,2021-09-19,Daily ICU occupancy per million,4.331
+Sweden,SWE,2021-09-19,Daily hospital occupancy,299.0
+Sweden,SWE,2021-09-19,Daily hospital occupancy per million,29.429
+Sweden,SWE,2021-09-20,Daily ICU occupancy,44.0
+Sweden,SWE,2021-09-20,Daily ICU occupancy per million,4.331
+Sweden,SWE,2021-09-20,Daily hospital occupancy,296.0
+Sweden,SWE,2021-09-20,Daily hospital occupancy per million,29.133
+Sweden,SWE,2021-09-21,Daily ICU occupancy,47.0
+Sweden,SWE,2021-09-21,Daily ICU occupancy per million,4.626
+Sweden,SWE,2021-09-21,Daily hospital occupancy,303.0
+Sweden,SWE,2021-09-21,Daily hospital occupancy per million,29.822
+Sweden,SWE,2021-09-22,Daily ICU occupancy,47.0
+Sweden,SWE,2021-09-22,Daily ICU occupancy per million,4.626
+Sweden,SWE,2021-09-22,Daily hospital occupancy,303.0
+Sweden,SWE,2021-09-22,Daily hospital occupancy per million,29.822
+Sweden,SWE,2021-09-23,Daily ICU occupancy,43.0
+Sweden,SWE,2021-09-23,Daily ICU occupancy per million,4.232
+Sweden,SWE,2021-09-23,Daily hospital occupancy,291.0
+Sweden,SWE,2021-09-23,Daily hospital occupancy per million,28.641
+Sweden,SWE,2021-09-24,Daily ICU occupancy,43.0
+Sweden,SWE,2021-09-24,Daily ICU occupancy per million,4.232
+Sweden,SWE,2021-09-24,Daily hospital occupancy,275.0
+Sweden,SWE,2021-09-24,Daily hospital occupancy per million,27.067
+Sweden,SWE,2021-09-25,Daily ICU occupancy,43.0
+Sweden,SWE,2021-09-25,Daily ICU occupancy per million,4.232
+Sweden,SWE,2021-09-25,Daily hospital occupancy,275.0
+Sweden,SWE,2021-09-25,Daily hospital occupancy per million,27.067
+Sweden,SWE,2021-09-26,Daily ICU occupancy,42.0
+Sweden,SWE,2021-09-26,Daily ICU occupancy per million,4.134
+Sweden,SWE,2021-09-26,Daily hospital occupancy,274.0
+Sweden,SWE,2021-09-26,Daily hospital occupancy per million,26.968
+Sweden,SWE,2021-09-27,Daily ICU occupancy,43.0
+Sweden,SWE,2021-09-27,Daily ICU occupancy per million,4.232
+Sweden,SWE,2021-09-27,Daily hospital occupancy,276.0
+Sweden,SWE,2021-09-27,Daily hospital occupancy per million,27.165
+Sweden,SWE,2021-09-28,Daily ICU occupancy,39.0
+Sweden,SWE,2021-09-28,Daily ICU occupancy per million,3.839
+Sweden,SWE,2021-09-28,Daily hospital occupancy,262.0
+Sweden,SWE,2021-09-28,Daily hospital occupancy per million,25.787
+Sweden,SWE,2021-09-29,Daily ICU occupancy,40.0
+Sweden,SWE,2021-09-29,Daily ICU occupancy per million,3.937
+Sweden,SWE,2021-09-29,Daily hospital occupancy,258.0
+Sweden,SWE,2021-09-29,Daily hospital occupancy per million,25.393
+Sweden,SWE,2021-09-30,Daily ICU occupancy,43.0
+Sweden,SWE,2021-09-30,Daily ICU occupancy per million,4.232
+Sweden,SWE,2021-09-30,Daily hospital occupancy,253.0
+Sweden,SWE,2021-09-30,Daily hospital occupancy per million,24.901
+Sweden,SWE,2021-10-01,Daily ICU occupancy,41.0
+Sweden,SWE,2021-10-01,Daily ICU occupancy per million,4.035
+Sweden,SWE,2021-10-01,Daily hospital occupancy,261.0
+Sweden,SWE,2021-10-01,Daily hospital occupancy per million,25.689
+Sweden,SWE,2021-10-02,Daily ICU occupancy,41.0
+Sweden,SWE,2021-10-02,Daily ICU occupancy per million,4.035
+Sweden,SWE,2021-10-02,Daily hospital occupancy,261.0
+Sweden,SWE,2021-10-02,Daily hospital occupancy per million,25.689
+Sweden,SWE,2021-10-03,Daily ICU occupancy,42.0
+Sweden,SWE,2021-10-03,Daily ICU occupancy per million,4.134
+Sweden,SWE,2021-10-03,Daily hospital occupancy,262.0
+Sweden,SWE,2021-10-03,Daily hospital occupancy per million,25.787
+Sweden,SWE,2021-10-04,Daily ICU occupancy,37.0
+Sweden,SWE,2021-10-04,Daily ICU occupancy per million,3.642
+Sweden,SWE,2021-10-04,Daily hospital occupancy,257.0
+Sweden,SWE,2021-10-04,Daily hospital occupancy per million,25.295
+Sweden,SWE,2021-10-05,Daily ICU occupancy,38.0
+Sweden,SWE,2021-10-05,Daily ICU occupancy per million,3.74
+Sweden,SWE,2021-10-05,Daily hospital occupancy,252.0
+Sweden,SWE,2021-10-05,Daily hospital occupancy per million,24.803
+Sweden,SWE,2021-10-06,Daily ICU occupancy,36.0
+Sweden,SWE,2021-10-06,Daily ICU occupancy per million,3.543
+Sweden,SWE,2021-10-06,Daily hospital occupancy,249.0
+Sweden,SWE,2021-10-06,Daily hospital occupancy per million,24.507
+Sweden,SWE,2021-10-07,Daily ICU occupancy,35.0
+Sweden,SWE,2021-10-07,Daily ICU occupancy per million,3.445
+Sweden,SWE,2021-10-07,Daily hospital occupancy,250.0
+Sweden,SWE,2021-10-07,Daily hospital occupancy per million,24.606
+Sweden,SWE,2021-10-08,Daily ICU occupancy,31.0
+Sweden,SWE,2021-10-08,Daily ICU occupancy per million,3.051
+Sweden,SWE,2021-10-08,Daily hospital occupancy,232.0
+Sweden,SWE,2021-10-08,Daily hospital occupancy per million,22.834
+Sweden,SWE,2021-10-09,Daily ICU occupancy,31.0
+Sweden,SWE,2021-10-09,Daily ICU occupancy per million,3.051
+Sweden,SWE,2021-10-09,Daily hospital occupancy,232.0
+Sweden,SWE,2021-10-09,Daily hospital occupancy per million,22.834
+Sweden,SWE,2021-10-10,Daily ICU occupancy,31.0
+Sweden,SWE,2021-10-10,Daily ICU occupancy per million,3.051
+Sweden,SWE,2021-10-10,Daily hospital occupancy,230.0
+Sweden,SWE,2021-10-10,Daily hospital occupancy per million,22.637
+Sweden,SWE,2021-10-11,Daily ICU occupancy,29.0
+Sweden,SWE,2021-10-11,Daily ICU occupancy per million,2.854
+Sweden,SWE,2021-10-11,Daily hospital occupancy,223.0
+Sweden,SWE,2021-10-11,Daily hospital occupancy per million,21.948
+Sweden,SWE,2021-10-12,Daily ICU occupancy,27.0
+Sweden,SWE,2021-10-12,Daily ICU occupancy per million,2.657
+Sweden,SWE,2021-10-12,Daily hospital occupancy,220.0
+Sweden,SWE,2021-10-12,Daily hospital occupancy per million,21.653
+Sweden,SWE,2021-10-13,Daily ICU occupancy,25.0
+Sweden,SWE,2021-10-13,Daily ICU occupancy per million,2.461
+Sweden,SWE,2021-10-13,Daily hospital occupancy,219.0
+Sweden,SWE,2021-10-13,Daily hospital occupancy per million,21.555
+Sweden,SWE,2021-10-14,Daily ICU occupancy,24.0
+Sweden,SWE,2021-10-14,Daily ICU occupancy per million,2.362
+Sweden,SWE,2021-10-14,Daily hospital occupancy,219.0
+Sweden,SWE,2021-10-14,Daily hospital occupancy per million,21.555
+Sweden,SWE,2021-10-15,Daily ICU occupancy,26.0
+Sweden,SWE,2021-10-15,Daily ICU occupancy per million,2.559
+Sweden,SWE,2021-10-15,Daily hospital occupancy,217.0
+Sweden,SWE,2021-10-15,Daily hospital occupancy per million,21.358
+Sweden,SWE,2021-10-16,Daily ICU occupancy,26.0
+Sweden,SWE,2021-10-16,Daily ICU occupancy per million,2.559
+Sweden,SWE,2021-10-16,Daily hospital occupancy,217.0
+Sweden,SWE,2021-10-16,Daily hospital occupancy per million,21.358
+Sweden,SWE,2021-10-17,Daily ICU occupancy,25.0
+Sweden,SWE,2021-10-17,Daily ICU occupancy per million,2.461
+Sweden,SWE,2021-10-17,Daily hospital occupancy,218.0
+Sweden,SWE,2021-10-17,Daily hospital occupancy per million,21.456
+Sweden,SWE,2021-10-18,Daily ICU occupancy,29.0
+Sweden,SWE,2021-10-18,Daily ICU occupancy per million,2.854
+Sweden,SWE,2021-10-18,Daily hospital occupancy,217.0
+Sweden,SWE,2021-10-18,Daily hospital occupancy per million,21.358
+Sweden,SWE,2021-10-19,Daily ICU occupancy,29.0
+Sweden,SWE,2021-10-19,Daily ICU occupancy per million,2.854
+Sweden,SWE,2021-10-19,Daily hospital occupancy,234.0
+Sweden,SWE,2021-10-19,Daily hospital occupancy per million,23.031
+Sweden,SWE,2021-10-20,Daily ICU occupancy,31.0
+Sweden,SWE,2021-10-20,Daily ICU occupancy per million,3.051
+Sweden,SWE,2021-10-20,Daily hospital occupancy,232.0
+Sweden,SWE,2021-10-20,Daily hospital occupancy per million,22.834
+Sweden,SWE,2021-10-21,Daily ICU occupancy,27.0
+Sweden,SWE,2021-10-21,Daily ICU occupancy per million,2.657
+Sweden,SWE,2021-10-21,Daily hospital occupancy,225.0
+Sweden,SWE,2021-10-21,Daily hospital occupancy per million,22.145
+Sweden,SWE,2021-10-22,Daily ICU occupancy,27.0
+Sweden,SWE,2021-10-22,Daily ICU occupancy per million,2.657
+Sweden,SWE,2021-10-22,Daily hospital occupancy,220.0
+Sweden,SWE,2021-10-22,Daily hospital occupancy per million,21.653
+Sweden,SWE,2021-10-23,Daily ICU occupancy,27.0
+Sweden,SWE,2021-10-23,Daily ICU occupancy per million,2.657
+Sweden,SWE,2021-10-23,Daily hospital occupancy,220.0
+Sweden,SWE,2021-10-23,Daily hospital occupancy per million,21.653
+Sweden,SWE,2021-10-24,Daily ICU occupancy,27.0
+Sweden,SWE,2021-10-24,Daily ICU occupancy per million,2.657
+Sweden,SWE,2021-10-24,Daily hospital occupancy,220.0
+Sweden,SWE,2021-10-24,Daily hospital occupancy per million,21.653
+Sweden,SWE,2021-10-25,Daily ICU occupancy,30.0
+Sweden,SWE,2021-10-25,Daily ICU occupancy per million,2.953
+Sweden,SWE,2021-10-25,Daily hospital occupancy,222.0
+Sweden,SWE,2021-10-25,Daily hospital occupancy per million,21.85
+Sweden,SWE,2021-10-26,Daily ICU occupancy,27.0
+Sweden,SWE,2021-10-26,Daily ICU occupancy per million,2.657
+Sweden,SWE,2021-10-26,Daily hospital occupancy,225.0
+Sweden,SWE,2021-10-26,Daily hospital occupancy per million,22.145
+Sweden,SWE,2021-10-27,Daily ICU occupancy,27.0
+Sweden,SWE,2021-10-27,Daily ICU occupancy per million,2.657
+Sweden,SWE,2021-10-27,Daily hospital occupancy,234.0
+Sweden,SWE,2021-10-27,Daily hospital occupancy per million,23.031
+Sweden,SWE,2021-10-28,Daily ICU occupancy,26.0
+Sweden,SWE,2021-10-28,Daily ICU occupancy per million,2.559
+Sweden,SWE,2021-10-28,Daily hospital occupancy,240.0
+Sweden,SWE,2021-10-28,Daily hospital occupancy per million,23.622
+Sweden,SWE,2021-10-29,Daily ICU occupancy,26.0
+Sweden,SWE,2021-10-29,Daily ICU occupancy per million,2.559
+Sweden,SWE,2021-10-29,Daily hospital occupancy,243.0
+Sweden,SWE,2021-10-29,Daily hospital occupancy per million,23.917
+Sweden,SWE,2021-10-30,Daily ICU occupancy,26.0
+Sweden,SWE,2021-10-30,Daily ICU occupancy per million,2.559
+Sweden,SWE,2021-10-30,Daily hospital occupancy,245.0
+Sweden,SWE,2021-10-30,Daily hospital occupancy per million,24.114
+Sweden,SWE,2021-10-31,Daily ICU occupancy,27.0
+Sweden,SWE,2021-10-31,Daily ICU occupancy per million,2.657
+Sweden,SWE,2021-10-31,Daily hospital occupancy,240.0
+Sweden,SWE,2021-10-31,Daily hospital occupancy per million,23.622
+Sweden,SWE,2021-11-01,Daily ICU occupancy,26.0
+Sweden,SWE,2021-11-01,Daily ICU occupancy per million,2.559
+Sweden,SWE,2021-11-01,Daily hospital occupancy,239.0
+Sweden,SWE,2021-11-01,Daily hospital occupancy per million,23.523
+Sweden,SWE,2021-11-02,Daily ICU occupancy,25.0
+Sweden,SWE,2021-11-02,Daily ICU occupancy per million,2.461
+Sweden,SWE,2021-11-02,Daily hospital occupancy,243.0
+Sweden,SWE,2021-11-02,Daily hospital occupancy per million,23.917
+Sweden,SWE,2021-11-03,Daily ICU occupancy,31.0
+Sweden,SWE,2021-11-03,Daily ICU occupancy per million,3.051
+Sweden,SWE,2021-11-03,Daily hospital occupancy,252.0
+Sweden,SWE,2021-11-03,Daily hospital occupancy per million,24.803
+Sweden,SWE,2021-11-04,Daily ICU occupancy,32.0
+Sweden,SWE,2021-11-04,Daily ICU occupancy per million,3.15
+Sweden,SWE,2021-11-04,Daily hospital occupancy,242.0
+Sweden,SWE,2021-11-04,Daily hospital occupancy per million,23.819
+Sweden,SWE,2021-11-05,Daily ICU occupancy,32.0
+Sweden,SWE,2021-11-05,Daily ICU occupancy per million,3.15
+Sweden,SWE,2021-11-05,Daily hospital occupancy,240.0
+Sweden,SWE,2021-11-05,Daily hospital occupancy per million,23.622
+Sweden,SWE,2021-11-06,Daily ICU occupancy,32.0
+Sweden,SWE,2021-11-06,Daily ICU occupancy per million,3.15
+Sweden,SWE,2021-11-06,Daily hospital occupancy,240.0
+Sweden,SWE,2021-11-06,Daily hospital occupancy per million,23.622
+Sweden,SWE,2021-11-07,Daily ICU occupancy,36.0
+Sweden,SWE,2021-11-07,Daily ICU occupancy per million,3.543
+Sweden,SWE,2021-11-07,Daily hospital occupancy,238.0
+Sweden,SWE,2021-11-07,Daily hospital occupancy per million,23.425
+Sweden,SWE,2021-11-08,Daily ICU occupancy,37.0
+Sweden,SWE,2021-11-08,Daily ICU occupancy per million,3.642
+Sweden,SWE,2021-11-08,Daily hospital occupancy,253.0
+Sweden,SWE,2021-11-08,Daily hospital occupancy per million,24.901
+Sweden,SWE,2021-11-09,Daily ICU occupancy,37.0
+Sweden,SWE,2021-11-09,Daily ICU occupancy per million,3.642
+Sweden,SWE,2021-11-09,Daily hospital occupancy,289.0
+Sweden,SWE,2021-11-09,Daily hospital occupancy per million,28.444
+Sweden,SWE,2021-11-10,Daily ICU occupancy,37.0
+Sweden,SWE,2021-11-10,Daily ICU occupancy per million,3.642
+Sweden,SWE,2021-11-10,Daily hospital occupancy,275.0
+Sweden,SWE,2021-11-10,Daily hospital occupancy per million,27.067
+Sweden,SWE,2021-11-11,Daily ICU occupancy,38.0
+Sweden,SWE,2021-11-11,Daily ICU occupancy per million,3.74
+Sweden,SWE,2021-11-11,Daily hospital occupancy,269.0
+Sweden,SWE,2021-11-11,Daily hospital occupancy per million,26.476
+Sweden,SWE,2021-11-12,Daily ICU occupancy,37.0
+Sweden,SWE,2021-11-12,Daily ICU occupancy per million,3.642
+Sweden,SWE,2021-11-12,Daily hospital occupancy,277.0
+Sweden,SWE,2021-11-12,Daily hospital occupancy per million,27.263
+Sweden,SWE,2021-11-13,Daily ICU occupancy,37.0
+Sweden,SWE,2021-11-13,Daily ICU occupancy per million,3.642
+Sweden,SWE,2021-11-13,Daily hospital occupancy,277.0
+Sweden,SWE,2021-11-13,Daily hospital occupancy per million,27.263
+Sweden,SWE,2021-11-14,Daily ICU occupancy,38.0
+Sweden,SWE,2021-11-14,Daily ICU occupancy per million,3.74
+Sweden,SWE,2021-11-14,Daily hospital occupancy,274.0
+Sweden,SWE,2021-11-14,Daily hospital occupancy per million,26.968
+Sweden,SWE,2021-11-15,Daily ICU occupancy,36.0
+Sweden,SWE,2021-11-15,Daily ICU occupancy per million,3.543
+Sweden,SWE,2021-11-15,Daily hospital occupancy,280.0
+Sweden,SWE,2021-11-15,Daily hospital occupancy per million,27.559
+Sweden,SWE,2021-11-16,Daily ICU occupancy,36.0
+Sweden,SWE,2021-11-16,Daily ICU occupancy per million,3.543
+Sweden,SWE,2021-11-16,Daily hospital occupancy,270.0
+Sweden,SWE,2021-11-16,Daily hospital occupancy per million,26.574
+Sweden,SWE,2021-11-17,Daily ICU occupancy,31.0
+Sweden,SWE,2021-11-17,Daily ICU occupancy per million,3.051
+Sweden,SWE,2021-11-17,Daily hospital occupancy,267.0
+Sweden,SWE,2021-11-17,Daily hospital occupancy per million,26.279
+Sweden,SWE,2021-11-18,Daily ICU occupancy,31.0
+Sweden,SWE,2021-11-18,Daily ICU occupancy per million,3.051
+Sweden,SWE,2021-11-18,Daily hospital occupancy,270.0
+Sweden,SWE,2021-11-18,Daily hospital occupancy per million,26.574
+Sweden,SWE,2021-11-19,Daily ICU occupancy,31.0
+Sweden,SWE,2021-11-19,Daily ICU occupancy per million,3.051
+Sweden,SWE,2021-11-19,Daily hospital occupancy,273.0
+Sweden,SWE,2021-11-19,Daily hospital occupancy per million,26.87
+Sweden,SWE,2021-11-20,Daily ICU occupancy,31.0
+Sweden,SWE,2021-11-20,Daily ICU occupancy per million,3.051
+Sweden,SWE,2021-11-20,Daily hospital occupancy,273.0
+Sweden,SWE,2021-11-20,Daily hospital occupancy per million,26.87
+Sweden,SWE,2021-11-21,Daily ICU occupancy,31.0
+Sweden,SWE,2021-11-21,Daily ICU occupancy per million,3.051
+Sweden,SWE,2021-11-21,Daily hospital occupancy,272.0
+Sweden,SWE,2021-11-21,Daily hospital occupancy per million,26.771
+Sweden,SWE,2021-11-22,Daily ICU occupancy,30.0
+Sweden,SWE,2021-11-22,Daily ICU occupancy per million,2.953
+Sweden,SWE,2021-11-22,Daily hospital occupancy,285.0
+Sweden,SWE,2021-11-22,Daily hospital occupancy per million,28.051
+Sweden,SWE,2021-11-23,Daily ICU occupancy,28.0
+Sweden,SWE,2021-11-23,Daily ICU occupancy per million,2.756
+Sweden,SWE,2021-11-23,Daily hospital occupancy,301.0
+Sweden,SWE,2021-11-23,Daily hospital occupancy per million,29.626
+Sweden,SWE,2021-11-24,Daily ICU occupancy,24.0
+Sweden,SWE,2021-11-24,Daily ICU occupancy per million,2.362
+Sweden,SWE,2021-11-24,Daily hospital occupancy,307.0
+Sweden,SWE,2021-11-24,Daily hospital occupancy per million,30.216
+Sweden,SWE,2021-11-25,Daily ICU occupancy,24.0
+Sweden,SWE,2021-11-25,Daily ICU occupancy per million,2.362
+Sweden,SWE,2021-11-25,Daily hospital occupancy,290.0
+Sweden,SWE,2021-11-25,Daily hospital occupancy per million,28.543
+Sweden,SWE,2021-11-26,Daily ICU occupancy,29.0
+Sweden,SWE,2021-11-26,Daily ICU occupancy per million,2.854
+Sweden,SWE,2021-11-26,Daily hospital occupancy,293.0
+Sweden,SWE,2021-11-26,Daily hospital occupancy per million,28.838
+Sweden,SWE,2021-11-27,Daily ICU occupancy,29.0
+Sweden,SWE,2021-11-27,Daily ICU occupancy per million,2.854
+Sweden,SWE,2021-11-27,Daily hospital occupancy,293.0
+Sweden,SWE,2021-11-27,Daily hospital occupancy per million,28.838
+Sweden,SWE,2021-11-28,Daily ICU occupancy,29.0
+Sweden,SWE,2021-11-28,Daily ICU occupancy per million,2.854
+Sweden,SWE,2021-11-28,Daily hospital occupancy,293.0
+Sweden,SWE,2021-11-28,Daily hospital occupancy per million,28.838
+Sweden,SWE,2021-11-29,Daily ICU occupancy,29.0
+Sweden,SWE,2021-11-29,Daily ICU occupancy per million,2.854
+Sweden,SWE,2021-11-29,Daily hospital occupancy,288.0
+Sweden,SWE,2021-11-29,Daily hospital occupancy per million,28.346
+Sweden,SWE,2021-11-30,Daily ICU occupancy,33.0
+Sweden,SWE,2021-11-30,Daily ICU occupancy per million,3.248
+Sweden,SWE,2021-11-30,Daily hospital occupancy,320.0
+Sweden,SWE,2021-11-30,Daily hospital occupancy per million,31.496
+Sweden,SWE,2021-12-01,Daily ICU occupancy,42.0
+Sweden,SWE,2021-12-01,Daily ICU occupancy per million,4.134
+Sweden,SWE,2021-12-01,Daily hospital occupancy,338.0
+Sweden,SWE,2021-12-01,Daily hospital occupancy per million,33.267
+Sweden,SWE,2021-12-02,Daily ICU occupancy,43.0
+Sweden,SWE,2021-12-02,Daily ICU occupancy per million,4.232
+Sweden,SWE,2021-12-02,Daily hospital occupancy,340.0
+Sweden,SWE,2021-12-02,Daily hospital occupancy per million,33.464
+Sweden,SWE,2021-12-03,Daily ICU occupancy,46.0
+Sweden,SWE,2021-12-03,Daily ICU occupancy per million,4.527
+Sweden,SWE,2021-12-03,Daily hospital occupancy,339.0
+Sweden,SWE,2021-12-03,Daily hospital occupancy per million,33.366
+Sweden,SWE,2021-12-04,Daily ICU occupancy,46.0
+Sweden,SWE,2021-12-04,Daily ICU occupancy per million,4.527
+Sweden,SWE,2021-12-04,Daily hospital occupancy,339.0
+Sweden,SWE,2021-12-04,Daily hospital occupancy per million,33.366
+Sweden,SWE,2021-12-05,Daily ICU occupancy,46.0
+Sweden,SWE,2021-12-05,Daily ICU occupancy per million,4.527
+Sweden,SWE,2021-12-05,Daily hospital occupancy,344.0
+Sweden,SWE,2021-12-05,Daily hospital occupancy per million,33.858
+Sweden,SWE,2021-12-06,Daily ICU occupancy,46.0
+Sweden,SWE,2021-12-06,Daily ICU occupancy per million,4.527
+Sweden,SWE,2021-12-06,Daily hospital occupancy,354.0
+Sweden,SWE,2021-12-06,Daily hospital occupancy per million,34.842
+Sweden,SWE,2021-12-07,Daily ICU occupancy,49.0
+Sweden,SWE,2021-12-07,Daily ICU occupancy per million,4.823
+Sweden,SWE,2021-12-07,Daily hospital occupancy,403.0
+Sweden,SWE,2021-12-07,Daily hospital occupancy per million,39.665
+Sweden,SWE,2021-12-08,Daily ICU occupancy,53.0
+Sweden,SWE,2021-12-08,Daily ICU occupancy per million,5.216
+Sweden,SWE,2021-12-08,Daily hospital occupancy,403.0
+Sweden,SWE,2021-12-08,Daily hospital occupancy per million,39.665
+Sweden,SWE,2021-12-09,Daily ICU occupancy,54.0
+Sweden,SWE,2021-12-09,Daily ICU occupancy per million,5.315
+Sweden,SWE,2021-12-09,Daily hospital occupancy,426.0
+Sweden,SWE,2021-12-09,Daily hospital occupancy per million,41.928
+Sweden,SWE,2021-12-10,Daily ICU occupancy,51.0
+Sweden,SWE,2021-12-10,Daily ICU occupancy per million,5.02
+Sweden,SWE,2021-12-10,Daily hospital occupancy,446.0
+Sweden,SWE,2021-12-10,Daily hospital occupancy per million,43.897
+Sweden,SWE,2021-12-11,Daily ICU occupancy,51.0
+Sweden,SWE,2021-12-11,Daily ICU occupancy per million,5.02
+Sweden,SWE,2021-12-11,Daily hospital occupancy,446.0
+Sweden,SWE,2021-12-11,Daily hospital occupancy per million,43.897
+Sweden,SWE,2021-12-12,Daily ICU occupancy,53.0
+Sweden,SWE,2021-12-12,Daily ICU occupancy per million,5.216
+Sweden,SWE,2021-12-12,Daily hospital occupancy,451.0
+Sweden,SWE,2021-12-12,Daily hospital occupancy per million,44.389
+Sweden,SWE,2021-12-13,Daily ICU occupancy,63.0
+Sweden,SWE,2021-12-13,Daily ICU occupancy per million,6.201
+Sweden,SWE,2021-12-13,Daily hospital occupancy,478.0
+Sweden,SWE,2021-12-13,Daily hospital occupancy per million,47.047
+Sweden,SWE,2021-12-14,Daily ICU occupancy,69.0
+Sweden,SWE,2021-12-14,Daily ICU occupancy per million,6.791
+Sweden,SWE,2021-12-14,Daily hospital occupancy,503.0
+Sweden,SWE,2021-12-14,Daily hospital occupancy per million,49.507
+Sweden,SWE,2021-12-15,Daily ICU occupancy,75.0
+Sweden,SWE,2021-12-15,Daily ICU occupancy per million,7.382
+Sweden,SWE,2021-12-15,Daily hospital occupancy,496.0
+Sweden,SWE,2021-12-15,Daily hospital occupancy per million,48.818
+Sweden,SWE,2021-12-16,Daily ICU occupancy,70.0
+Sweden,SWE,2021-12-16,Daily ICU occupancy per million,6.89
+Sweden,SWE,2021-12-16,Daily hospital occupancy,526.0
+Sweden,SWE,2021-12-16,Daily hospital occupancy per million,51.771
+Sweden,SWE,2021-12-17,Daily ICU occupancy,68.0
+Sweden,SWE,2021-12-17,Daily ICU occupancy per million,6.693
+Sweden,SWE,2021-12-17,Daily hospital occupancy,524.0
+Sweden,SWE,2021-12-17,Daily hospital occupancy per million,51.574
+Sweden,SWE,2021-12-18,Daily ICU occupancy,72.0
+Sweden,SWE,2021-12-18,Daily ICU occupancy per million,7.087
+Sweden,SWE,2021-12-18,Daily hospital occupancy,513.0
+Sweden,SWE,2021-12-18,Daily hospital occupancy per million,50.491
+Sweden,SWE,2021-12-19,Daily ICU occupancy,72.0
+Sweden,SWE,2021-12-19,Daily ICU occupancy per million,7.087
+Sweden,SWE,2021-12-19,Daily hospital occupancy,515.0
+Sweden,SWE,2021-12-19,Daily hospital occupancy per million,50.688
+Sweden,SWE,2021-12-20,Daily ICU occupancy,74.0
+Sweden,SWE,2021-12-20,Daily ICU occupancy per million,7.283
+Sweden,SWE,2021-12-20,Daily hospital occupancy,517.0
+Sweden,SWE,2021-12-20,Daily hospital occupancy per million,50.885
+Sweden,SWE,2021-12-21,Daily ICU occupancy,84.0
+Sweden,SWE,2021-12-21,Daily ICU occupancy per million,8.268
+Sweden,SWE,2021-12-21,Daily hospital occupancy,561.0
+Sweden,SWE,2021-12-21,Daily hospital occupancy per million,55.216
+Sweden,SWE,2021-12-22,Daily ICU occupancy,85.0
+Sweden,SWE,2021-12-22,Daily ICU occupancy per million,8.366
+Sweden,SWE,2021-12-22,Daily hospital occupancy,551.0
+Sweden,SWE,2021-12-22,Daily hospital occupancy per million,54.231
+Sweden,SWE,2021-12-23,Daily ICU occupancy,92.0
+Sweden,SWE,2021-12-23,Daily ICU occupancy per million,9.055
+Sweden,SWE,2021-12-23,Daily hospital occupancy,570.0
+Sweden,SWE,2021-12-23,Daily hospital occupancy per million,56.101
+Sweden,SWE,2021-12-24,Daily ICU occupancy,87.0
+Sweden,SWE,2021-12-24,Daily ICU occupancy per million,8.563
+Sweden,SWE,2021-12-24,Daily hospital occupancy,572.0
+Sweden,SWE,2021-12-24,Daily hospital occupancy per million,56.298
+Sweden,SWE,2021-12-25,Daily ICU occupancy,87.0
+Sweden,SWE,2021-12-25,Daily ICU occupancy per million,8.563
+Sweden,SWE,2021-12-25,Daily hospital occupancy,572.0
+Sweden,SWE,2021-12-25,Daily hospital occupancy per million,56.298
+Sweden,SWE,2021-12-26,Daily ICU occupancy,88.0
+Sweden,SWE,2021-12-26,Daily ICU occupancy per million,8.661
+Sweden,SWE,2021-12-26,Daily hospital occupancy,568.0
+Sweden,SWE,2021-12-26,Daily hospital occupancy per million,55.905
+Sweden,SWE,2021-12-27,Daily ICU occupancy,92.0
+Sweden,SWE,2021-12-27,Daily ICU occupancy per million,9.055
+Sweden,SWE,2021-12-27,Daily hospital occupancy,600.0
+Sweden,SWE,2021-12-27,Daily hospital occupancy per million,59.054
+Sweden,SWE,2021-12-28,Daily ICU occupancy,97.0
+Sweden,SWE,2021-12-28,Daily ICU occupancy per million,9.547
+Sweden,SWE,2021-12-28,Daily hospital occupancy,679.0
+Sweden,SWE,2021-12-28,Daily hospital occupancy per million,66.83
+Sweden,SWE,2021-12-29,Daily ICU occupancy,97.0
+Sweden,SWE,2021-12-29,Daily ICU occupancy per million,9.547
+Sweden,SWE,2021-12-29,Daily hospital occupancy,692.0
+Sweden,SWE,2021-12-29,Daily hospital occupancy per million,68.109
+Sweden,SWE,2021-12-30,Daily ICU occupancy,101.0
+Sweden,SWE,2021-12-30,Daily ICU occupancy per million,9.941
+Sweden,SWE,2021-12-30,Daily hospital occupancy,713.0
+Sweden,SWE,2021-12-30,Daily hospital occupancy per million,70.176
+Sweden,SWE,2021-12-31,Daily ICU occupancy,101.0
+Sweden,SWE,2021-12-31,Daily ICU occupancy per million,9.941
+Sweden,SWE,2021-12-31,Daily hospital occupancy,713.0
+Sweden,SWE,2021-12-31,Daily hospital occupancy per million,70.176
+Sweden,SWE,2022-01-01,Daily ICU occupancy,101.0
+Sweden,SWE,2022-01-01,Daily ICU occupancy per million,9.941
+Sweden,SWE,2022-01-01,Daily hospital occupancy,717.0
+Sweden,SWE,2022-01-01,Daily hospital occupancy per million,70.57
+Sweden,SWE,2022-01-02,Daily ICU occupancy,104.0
+Sweden,SWE,2022-01-02,Daily ICU occupancy per million,10.236
+Sweden,SWE,2022-01-02,Daily hospital occupancy,727.0
+Sweden,SWE,2022-01-02,Daily hospital occupancy per million,71.554
+Sweden,SWE,2022-01-03,Daily ICU occupancy,107.0
+Sweden,SWE,2022-01-03,Daily ICU occupancy per million,10.531
+Sweden,SWE,2022-01-03,Daily hospital occupancy,792.0
+Sweden,SWE,2022-01-03,Daily hospital occupancy per million,77.952
+Sweden,SWE,2022-01-04,Daily ICU occupancy,108.0
+Sweden,SWE,2022-01-04,Daily ICU occupancy per million,10.63
+Sweden,SWE,2022-01-04,Daily hospital occupancy,930.0
+Sweden,SWE,2022-01-04,Daily hospital occupancy per million,91.534
+Sweden,SWE,2022-01-05,Daily ICU occupancy,109.0
+Sweden,SWE,2022-01-05,Daily ICU occupancy per million,10.728
+Sweden,SWE,2022-01-05,Daily hospital occupancy,935.0
+Sweden,SWE,2022-01-05,Daily hospital occupancy per million,92.026
+Sweden,SWE,2022-01-06,Daily ICU occupancy,108.0
+Sweden,SWE,2022-01-06,Daily ICU occupancy per million,10.63
+Sweden,SWE,2022-01-06,Daily hospital occupancy,942.0
+Sweden,SWE,2022-01-06,Daily hospital occupancy per million,92.715
+Sweden,SWE,2022-01-07,Daily ICU occupancy,107.0
+Sweden,SWE,2022-01-07,Daily ICU occupancy per million,10.531
+Sweden,SWE,2022-01-07,Daily hospital occupancy,1024.0
+Sweden,SWE,2022-01-07,Daily hospital occupancy per million,100.786
+Sweden,SWE,2022-01-08,Daily ICU occupancy,107.0
+Sweden,SWE,2022-01-08,Daily ICU occupancy per million,10.531
+Sweden,SWE,2022-01-08,Daily hospital occupancy,1024.0
+Sweden,SWE,2022-01-08,Daily hospital occupancy per million,100.786
+Sweden,SWE,2022-01-09,Daily ICU occupancy,101.0
+Sweden,SWE,2022-01-09,Daily ICU occupancy per million,9.941
+Sweden,SWE,2022-01-09,Daily hospital occupancy,1042.0
+Sweden,SWE,2022-01-09,Daily hospital occupancy per million,102.557
+Sweden,SWE,2022-01-10,Daily ICU occupancy,103.0
+Sweden,SWE,2022-01-10,Daily ICU occupancy per million,10.138
+Sweden,SWE,2022-01-10,Daily hospital occupancy,1176.0
+Sweden,SWE,2022-01-10,Daily hospital occupancy per million,115.746
+Sweden,SWE,2022-01-11,Daily ICU occupancy,103.0
+Sweden,SWE,2022-01-11,Daily ICU occupancy per million,10.138
+Sweden,SWE,2022-01-11,Daily hospital occupancy,1252.0
+Sweden,SWE,2022-01-11,Daily hospital occupancy per million,123.226
+Sweden,SWE,2022-01-12,Daily ICU occupancy,100.0
+Sweden,SWE,2022-01-12,Daily ICU occupancy per million,9.842
+Sweden,SWE,2022-01-12,Daily hospital occupancy,1304.0
+Sweden,SWE,2022-01-12,Daily hospital occupancy per million,128.344
+Sweden,SWE,2022-01-13,Daily ICU occupancy,94.0
+Sweden,SWE,2022-01-13,Daily ICU occupancy per million,9.252
+Sweden,SWE,2022-01-13,Daily hospital occupancy,1296.0
+Sweden,SWE,2022-01-13,Daily hospital occupancy per million,127.557
+Sweden,SWE,2022-01-14,Daily ICU occupancy,106.0
+Sweden,SWE,2022-01-14,Daily ICU occupancy per million,10.433
+Sweden,SWE,2022-01-14,Daily hospital occupancy,1296.0
+Sweden,SWE,2022-01-14,Daily hospital occupancy per million,127.557
+Sweden,SWE,2022-01-15,Daily ICU occupancy,106.0
+Sweden,SWE,2022-01-15,Daily ICU occupancy per million,10.433
+Sweden,SWE,2022-01-15,Daily hospital occupancy,1296.0
+Sweden,SWE,2022-01-15,Daily hospital occupancy per million,127.557
+Sweden,SWE,2022-01-16,Daily ICU occupancy,106.0
+Sweden,SWE,2022-01-16,Daily ICU occupancy per million,10.433
+Sweden,SWE,2022-01-16,Daily hospital occupancy,1296.0
+Sweden,SWE,2022-01-16,Daily hospital occupancy per million,127.557
+Sweden,SWE,2022-01-17,Daily ICU occupancy,106.0
+Sweden,SWE,2022-01-17,Daily ICU occupancy per million,10.433
+Sweden,SWE,2022-01-17,Daily hospital occupancy,1296.0
+Sweden,SWE,2022-01-17,Daily hospital occupancy per million,127.557
+Sweden,SWE,2022-01-18,Daily ICU occupancy,109.0
+Sweden,SWE,2022-01-18,Daily ICU occupancy per million,10.728
+Sweden,SWE,2022-01-18,Daily hospital occupancy,1380.0
+Sweden,SWE,2022-01-18,Daily hospital occupancy per million,135.825
+Sweden,SWE,2022-01-19,Daily ICU occupancy,120.0
+Sweden,SWE,2022-01-19,Daily ICU occupancy per million,11.811
+Sweden,SWE,2022-01-19,Daily hospital occupancy,1609.0
+Sweden,SWE,2022-01-19,Daily hospital occupancy per million,158.364
+Sweden,SWE,2022-01-20,Daily ICU occupancy,121.0
+Sweden,SWE,2022-01-20,Daily ICU occupancy per million,11.909
+Sweden,SWE,2022-01-20,Daily hospital occupancy,1606.0
+Sweden,SWE,2022-01-20,Daily hospital occupancy per million,158.068
+Sweden,SWE,2022-01-21,Daily ICU occupancy,121.0
+Sweden,SWE,2022-01-21,Daily ICU occupancy per million,11.909
+Sweden,SWE,2022-01-21,Daily hospital occupancy,1606.0
+Sweden,SWE,2022-01-21,Daily hospital occupancy per million,158.068
+Sweden,SWE,2022-01-22,Daily ICU occupancy,121.0
+Sweden,SWE,2022-01-22,Daily ICU occupancy per million,11.909
+Sweden,SWE,2022-01-22,Daily hospital occupancy,1606.0
+Sweden,SWE,2022-01-22,Daily hospital occupancy per million,158.068
+Sweden,SWE,2022-01-23,Daily ICU occupancy,121.0
+Sweden,SWE,2022-01-23,Daily ICU occupancy per million,11.909
+Sweden,SWE,2022-01-23,Daily hospital occupancy,1606.0
+Sweden,SWE,2022-01-23,Daily hospital occupancy per million,158.068
+Sweden,SWE,2022-01-24,Daily ICU occupancy,111.0
+Sweden,SWE,2022-01-24,Daily ICU occupancy per million,10.925
+Sweden,SWE,2022-01-24,Daily hospital occupancy,1687.0
+Sweden,SWE,2022-01-24,Daily hospital occupancy per million,166.041
+Sweden,SWE,2022-01-25,Daily ICU occupancy,106.0
+Sweden,SWE,2022-01-25,Daily ICU occupancy per million,10.433
+Sweden,SWE,2022-01-25,Daily hospital occupancy,1779.0
+Sweden,SWE,2022-01-25,Daily hospital occupancy per million,175.096
+Sweden,SWE,2022-01-26,Daily ICU occupancy,109.0
+Sweden,SWE,2022-01-26,Daily ICU occupancy per million,10.728
+Sweden,SWE,2022-01-26,Daily hospital occupancy,1975.0
+Sweden,SWE,2022-01-26,Daily hospital occupancy per million,194.387
+Sweden,SWE,2022-01-27,Daily ICU occupancy,102.0
+Sweden,SWE,2022-01-27,Daily ICU occupancy per million,10.039
+Sweden,SWE,2022-01-27,Daily hospital occupancy,2011.0
+Sweden,SWE,2022-01-27,Daily hospital occupancy per million,197.93
+Sweden,SWE,2022-01-28,Daily ICU occupancy,100.0
+Sweden,SWE,2022-01-28,Daily ICU occupancy per million,9.842
+Sweden,SWE,2022-01-28,Daily hospital occupancy,1984.0
+Sweden,SWE,2022-01-28,Daily hospital occupancy per million,195.273
+Sweden,SWE,2022-01-29,Daily ICU occupancy,114.0
+Sweden,SWE,2022-01-29,Daily ICU occupancy per million,11.22
+Sweden,SWE,2022-01-29,Daily hospital occupancy,1992.0
+Sweden,SWE,2022-01-29,Daily hospital occupancy per million,196.06
+Sweden,SWE,2022-01-30,Daily ICU occupancy,118.0
+Sweden,SWE,2022-01-30,Daily ICU occupancy per million,11.614
+Sweden,SWE,2022-01-30,Daily hospital occupancy,1992.0
+Sweden,SWE,2022-01-30,Daily hospital occupancy per million,196.06
+Sweden,SWE,2022-01-31,Daily ICU occupancy,116.0
+Sweden,SWE,2022-01-31,Daily ICU occupancy per million,11.417
+Sweden,SWE,2022-01-31,Daily hospital occupancy,1997.0
+Sweden,SWE,2022-01-31,Daily hospital occupancy per million,196.552
+Sweden,SWE,2022-02-01,Daily ICU occupancy,111.0
+Sweden,SWE,2022-02-01,Daily ICU occupancy per million,10.925
+Sweden,SWE,2022-02-01,Daily hospital occupancy,2037.0
+Sweden,SWE,2022-02-01,Daily hospital occupancy per million,200.489
+Sweden,SWE,2022-02-02,Daily ICU occupancy,111.0
+Sweden,SWE,2022-02-02,Daily ICU occupancy per million,10.925
+Sweden,SWE,2022-02-02,Daily hospital occupancy,2112.0
+Sweden,SWE,2022-02-02,Daily hospital occupancy per million,207.871
+Sweden,SWE,2022-02-03,Daily ICU occupancy,103.0
+Sweden,SWE,2022-02-03,Daily ICU occupancy per million,10.138
+Sweden,SWE,2022-02-03,Daily hospital occupancy,2101.0
+Sweden,SWE,2022-02-03,Daily hospital occupancy per million,206.788
+Sweden,SWE,2022-02-04,Daily ICU occupancy,110.0
+Sweden,SWE,2022-02-04,Daily ICU occupancy per million,10.827
+Sweden,SWE,2022-02-04,Daily hospital occupancy,2098.0
+Sweden,SWE,2022-02-04,Daily hospital occupancy per million,206.493
+Sweden,SWE,2022-02-05,Daily ICU occupancy,118.0
+Sweden,SWE,2022-02-05,Daily ICU occupancy per million,11.614
+Sweden,SWE,2022-02-05,Daily hospital occupancy,2100.0
+Sweden,SWE,2022-02-05,Daily hospital occupancy per million,206.69
+Sweden,SWE,2022-02-06,Daily ICU occupancy,119.0
+Sweden,SWE,2022-02-06,Daily ICU occupancy per million,11.712
+Sweden,SWE,2022-02-06,Daily hospital occupancy,2075.0
+Sweden,SWE,2022-02-06,Daily hospital occupancy per million,204.229
+Sweden,SWE,2022-02-07,Daily ICU occupancy,120.0
+Sweden,SWE,2022-02-07,Daily ICU occupancy per million,11.811
+Sweden,SWE,2022-02-07,Daily hospital occupancy,2099.0
+Sweden,SWE,2022-02-07,Daily hospital occupancy per million,206.591
+Sweden,SWE,2022-02-08,Daily ICU occupancy,113.0
+Sweden,SWE,2022-02-08,Daily ICU occupancy per million,11.122
+Sweden,SWE,2022-02-08,Daily hospital occupancy,2169.0
+Sweden,SWE,2022-02-08,Daily hospital occupancy per million,213.481
+Sweden,SWE,2022-02-09,Daily ICU occupancy,97.0
+Sweden,SWE,2022-02-09,Daily ICU occupancy per million,9.547
+Sweden,SWE,2022-02-09,Daily hospital occupancy,2241.0
+Sweden,SWE,2022-02-09,Daily hospital occupancy per million,220.567
+Sweden,SWE,2022-02-10,Daily ICU occupancy,102.0
+Sweden,SWE,2022-02-10,Daily ICU occupancy per million,10.039
+Sweden,SWE,2022-02-10,Daily hospital occupancy,2141.0
+Sweden,SWE,2022-02-10,Daily hospital occupancy per million,210.725
+Sweden,SWE,2022-02-11,Daily ICU occupancy,91.0
+Sweden,SWE,2022-02-11,Daily ICU occupancy per million,8.957
+Sweden,SWE,2022-02-11,Daily hospital occupancy,2078.0
+Sweden,SWE,2022-02-11,Daily hospital occupancy per million,204.524
+Sweden,SWE,2022-02-12,Daily ICU occupancy,92.0
+Sweden,SWE,2022-02-12,Daily ICU occupancy per million,9.055
+Sweden,SWE,2022-02-12,Daily hospital occupancy,2005.0
+Sweden,SWE,2022-02-12,Daily hospital occupancy per million,197.339
+Sweden,SWE,2022-02-13,Daily ICU occupancy,90.0
+Sweden,SWE,2022-02-13,Daily ICU occupancy per million,8.858
+Sweden,SWE,2022-02-13,Daily hospital occupancy,1982.0
+Sweden,SWE,2022-02-13,Daily hospital occupancy per million,195.076
+Sweden,SWE,2022-02-14,Daily ICU occupancy,95.0
+Sweden,SWE,2022-02-14,Daily ICU occupancy per million,9.35
+Sweden,SWE,2022-02-14,Daily hospital occupancy,1962.0
+Sweden,SWE,2022-02-14,Daily hospital occupancy per million,193.107
+Sweden,SWE,2022-02-15,Daily ICU occupancy,91.0
+Sweden,SWE,2022-02-15,Daily ICU occupancy per million,8.957
+Sweden,SWE,2022-02-15,Daily hospital occupancy,2018.0
+Sweden,SWE,2022-02-15,Daily hospital occupancy per million,198.619
+Sweden,SWE,2022-02-16,Daily ICU occupancy,88.0
+Sweden,SWE,2022-02-16,Daily ICU occupancy per million,8.661
+Sweden,SWE,2022-02-16,Daily hospital occupancy,1930.0
+Sweden,SWE,2022-02-16,Daily hospital occupancy per million,189.958
+Sweden,SWE,2022-02-17,Daily ICU occupancy,81.0
+Sweden,SWE,2022-02-17,Daily ICU occupancy per million,7.972
+Sweden,SWE,2022-02-17,Daily hospital occupancy,1868.0
+Sweden,SWE,2022-02-17,Daily hospital occupancy per million,183.855
+Sweden,SWE,2022-02-18,Daily ICU occupancy,78.0
+Sweden,SWE,2022-02-18,Daily ICU occupancy per million,7.677
+Sweden,SWE,2022-02-18,Daily hospital occupancy,1819.0
+Sweden,SWE,2022-02-18,Daily hospital occupancy per million,179.033
+Sweden,SWE,2022-02-19,Daily ICU occupancy,75.0
+Sweden,SWE,2022-02-19,Daily ICU occupancy per million,7.382
+Sweden,SWE,2022-02-19,Daily hospital occupancy,1760.0
+Sweden,SWE,2022-02-19,Daily hospital occupancy per million,173.226
+Sweden,SWE,2022-02-20,Daily ICU occupancy,74.0
+Sweden,SWE,2022-02-20,Daily ICU occupancy per million,7.283
+Sweden,SWE,2022-02-20,Daily hospital occupancy,1736.0
+Sweden,SWE,2022-02-20,Daily hospital occupancy per million,170.863
+Sweden,SWE,2022-02-21,Daily ICU occupancy,79.0
+Sweden,SWE,2022-02-21,Daily ICU occupancy per million,7.775
+Sweden,SWE,2022-02-21,Daily hospital occupancy,1721.0
+Sweden,SWE,2022-02-21,Daily hospital occupancy per million,169.387
+Sweden,SWE,2022-02-22,Daily ICU occupancy,75.0
+Sweden,SWE,2022-02-22,Daily ICU occupancy per million,7.382
+Sweden,SWE,2022-02-22,Daily hospital occupancy,1706.0
+Sweden,SWE,2022-02-22,Daily hospital occupancy per million,167.911
+Sweden,SWE,2022-02-23,Daily ICU occupancy,76.0
+Sweden,SWE,2022-02-23,Daily ICU occupancy per million,7.48
+Sweden,SWE,2022-02-23,Daily hospital occupancy,1636.0
+Sweden,SWE,2022-02-23,Daily hospital occupancy per million,161.021
+Sweden,SWE,2022-02-24,Daily ICU occupancy,73.0
+Sweden,SWE,2022-02-24,Daily ICU occupancy per million,7.185
+Sweden,SWE,2022-02-24,Daily hospital occupancy,1587.0
+Sweden,SWE,2022-02-24,Daily hospital occupancy per million,156.198
+Sweden,SWE,2022-02-25,Daily ICU occupancy,75.0
+Sweden,SWE,2022-02-25,Daily ICU occupancy per million,7.382
+Sweden,SWE,2022-02-25,Daily hospital occupancy,1561.0
+Sweden,SWE,2022-02-25,Daily hospital occupancy per million,153.639
+Sweden,SWE,2022-02-26,Daily ICU occupancy,67.0
+Sweden,SWE,2022-02-26,Daily ICU occupancy per million,6.594
+Sweden,SWE,2022-02-26,Daily hospital occupancy,1469.0
+Sweden,SWE,2022-02-26,Daily hospital occupancy per million,144.584
+Sweden,SWE,2022-02-27,Daily ICU occupancy,65.0
+Sweden,SWE,2022-02-27,Daily ICU occupancy per million,6.398
+Sweden,SWE,2022-02-27,Daily hospital occupancy,1464.0
+Sweden,SWE,2022-02-27,Daily hospital occupancy per million,144.092
+Sweden,SWE,2022-02-28,Daily ICU occupancy,63.0
+Sweden,SWE,2022-02-28,Daily ICU occupancy per million,6.201
+Sweden,SWE,2022-02-28,Daily hospital occupancy,1369.0
+Sweden,SWE,2022-02-28,Daily hospital occupancy per million,134.742
+Sweden,SWE,2022-03-01,Daily ICU occupancy,67.0
+Sweden,SWE,2022-03-01,Daily ICU occupancy per million,6.594
+Sweden,SWE,2022-03-01,Daily hospital occupancy,1319.0
+Sweden,SWE,2022-03-01,Daily hospital occupancy per million,129.821
+Sweden,SWE,2022-03-02,Daily ICU occupancy,59.0
+Sweden,SWE,2022-03-02,Daily ICU occupancy per million,5.807
+Sweden,SWE,2022-03-02,Daily hospital occupancy,1227.0
+Sweden,SWE,2022-03-02,Daily hospital occupancy per million,120.766
+Sweden,SWE,2022-03-03,Daily ICU occupancy,50.0
+Sweden,SWE,2022-03-03,Daily ICU occupancy per million,4.921
+Sweden,SWE,2022-03-03,Daily hospital occupancy,1223.0
+Sweden,SWE,2022-03-03,Daily hospital occupancy per million,120.372
+Sweden,SWE,2022-03-04,Daily ICU occupancy,52.0
+Sweden,SWE,2022-03-04,Daily ICU occupancy per million,5.118
+Sweden,SWE,2022-03-04,Daily hospital occupancy,1207.0
+Sweden,SWE,2022-03-04,Daily hospital occupancy per million,118.797
+Sweden,SWE,2022-03-05,Daily ICU occupancy,51.0
+Sweden,SWE,2022-03-05,Daily ICU occupancy per million,5.02
+Sweden,SWE,2022-03-05,Daily hospital occupancy,1208.0
+Sweden,SWE,2022-03-05,Daily hospital occupancy per million,118.896
+Sweden,SWE,2022-03-06,Daily ICU occupancy,49.0
+Sweden,SWE,2022-03-06,Daily ICU occupancy per million,4.823
+Sweden,SWE,2022-03-06,Daily hospital occupancy,1211.0
+Sweden,SWE,2022-03-06,Daily hospital occupancy per million,119.191
+Sweden,SWE,2022-03-07,Daily ICU occupancy,44.0
+Sweden,SWE,2022-03-07,Daily ICU occupancy per million,4.331
+Sweden,SWE,2022-03-07,Daily hospital occupancy,1152.0
+Sweden,SWE,2022-03-07,Daily hospital occupancy per million,113.384
+Sweden,SWE,2022-03-08,Daily ICU occupancy,43.0
+Sweden,SWE,2022-03-08,Daily ICU occupancy per million,4.232
+Sweden,SWE,2022-03-08,Daily hospital occupancy,1146.0
+Sweden,SWE,2022-03-08,Daily hospital occupancy per million,112.794
+Sweden,SWE,2022-03-09,Daily ICU occupancy,43.0
+Sweden,SWE,2022-03-09,Daily ICU occupancy per million,4.232
+Sweden,SWE,2022-03-09,Daily hospital occupancy,1199.0
+Sweden,SWE,2022-03-09,Daily hospital occupancy per million,118.01
+Sweden,SWE,2022-03-10,Daily ICU occupancy,46.0
+Sweden,SWE,2022-03-10,Daily ICU occupancy per million,4.527
+Sweden,SWE,2022-03-10,Daily hospital occupancy,1150.0
+Sweden,SWE,2022-03-10,Daily hospital occupancy per million,113.187
+Sweden,SWE,2022-03-11,Daily ICU occupancy,46.0
+Sweden,SWE,2022-03-11,Daily ICU occupancy per million,4.527
+Sweden,SWE,2022-03-11,Daily hospital occupancy,1148.0
+Sweden,SWE,2022-03-11,Daily hospital occupancy per million,112.99
